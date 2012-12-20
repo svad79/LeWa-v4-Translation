@@ -1475,7 +1475,7 @@ In four, the opening of free information service needs to send a message to the 
     <string name="contact_delteing">Contacts delteing...</string>
     <string name="gemini_sim_management_title">Управление SIM</string>
     <string name="base_info_title">Базовая информация</string>
-    <string name="add_more_info">Добавить допл-ную информацию</string>
+    <string name="add_more_info">Добавить информацию</string>
     <string name="cancel_modify_title">Отменить сохранение?</string>
     <string name="cancel_modify_message">Изменения не сохранятся</string>
     <string name="calllog_select_title">Выбрать</string>
