@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>-->
+<resources>
+    <string name="app_name">Обновление</string>
+    <string name="discover_new_version">Обнаруженные обновления:</string>
+    <string name="new_version">Новая версия:</string>
+    <string name="cur_version">Текущая версия:</string>
+    <string name="check_update">Проверить обновление</string>
+    <string name="install_from_sd">Установить с карты памяти</string>
+    <string name="error_empty">Нет пакетов обновления в этой папке</string>
+    <string name="select_file">Выберите файл</string>
+    <string name="download_failure">Ошибка загрузки</string>
+    <string name="file_list_title">Установить с карты памяти</string>
+    <string name="conn_error">Ошибка соединения с сервером</string>
+    <string name="net_error">Ошибка сети</string>
+    <string name="new_version_error">У вас последняя версия</string>
+    <string name="new_version_error_twice">У вас последняя версия, новая не найдена</string>
+    <string name="new_version_error_third">У вас последняя версия, новая не найдена</string>
+    <string name="curr_version_error">Ваша текущая версия стара, обновите ее с карты памяти</string>
+    <string name="download_file_exist">Пакет обновления поврежден</string>
+    <string name="net_data_error">Ошибка сервера</string>
+    <string name="currversion_old_error">Ваша текущая версия очень старая</string>
+    <string name="upgrade_now">Обновить</string>
+    <string name="upgrade_later">Обновить позже</string>
+    <string name="download_now">Загрузить</string>
+    <string name="downloading">Архив загружен</string>
+    <string name="sdcard_not_exists">Карта памяти отсутствует</string>
+    <string name="dlg_update_package_md5_error_title">Ошибка проверки пакета обновления</string>
+    <string name="dlg_update_package_md5_error_msg">Ваш пакет обновления отличается от того, что на сервере</string>
+    <string name="btn_retry_download">Попробовать снова</string>
+    <string name="btn_cancel_download">Не загружать</string>
+    <string name="lewa_rom_title">LewaRom</string>
+    <string name="wifi_not_active">Wifi не активен, попробуйте снова, когда будет подключен wifi</string>
+    <string name="notification_update_succ_title">Поздравляем, система обновлена!</string>
+    <string name="notification_update_succ_content">Обновление завершено, ваша версия:</string>
+    <string name="notification_update_error_title">Простите, ошибка обновления</string>
+    <string name="notification_update_error_content">Ошибка обновления, ваша версия:</string>
+    <string name="dlg_update_package_wifi_off_title">Загрузить, используя сеть оператора</string>
+    <string name="dlg_update_package_wifi_off_msg">Вы уверены, что не хотите использовать wi-fi для загрузки?</string>
+    <string name="dlg_reboot_update_complete_title">Перезагрузка обновления</string>
+    <string name="dlg_reboot_update_complete_msg">Перезагрузить обновление после подтверждения</string>
+    <string name="dlg_sdcard_not_remount_title">Карта памяти недоступна</string>
+    <string name="dlg_sdcard_not_remount_msg">Проверьте, чтобы ваша карта памяти была подключена и не смонтирована к ПК.</string>
+    <string name="dlg_sdcard_not_memory_title">Память</string>
+    <string name="dlg_sdcard_not_memory_msg">Недостаточно свободного места на карте памяти</string>
+    <string name="dlg_delete_all_file_title">Удалить файл прошивки</string>
+    <string name="dlg_delete_all_file_msg">Вы уверены, что хотите удалить этот файл?</string>
+    <string name="btn_confirm">OK</string>
+    <string name="btn_cancel">Отмена</string>
+    <string name="notification_new_version">У вас есть новая версия!</string>
+    <string name="model_not_match">Выбран пакет обновления не фонтан, выберите другой</string>
+    <string name="version_not_match">Выбранная версия пакета старее вашей системы, выберите другой</string>
+    <string name="download_all_new_version">Загрузить новую версию</string>
+    <string name="msg_cannot_ota_update">"Текущая версия очень стара, невозможно обновить через OTA, 
+Нажмите [Загрузить] для обновления, Пакет новой версий очень большой, 
+Попробуйте загрузить, когда wi-fi будет активен"</string>
+    <string name="net_data_error_pause_download">Ошибка сети, остановка приостановлена!</string>
+    <string name="notification_net_data_error_pause_download">Ошибка сети, пауза!</string>
+    <string name="notification_net_data_complete_download">Загрузка обновления завершена</string>
+    <string name="dlg_cancel_download_title">Отменить загрузку</string>
+    <string name="dlg_cancel_download_msg">Вы уверены, что хотите отменить загрузку? После этого вы не сможете ее продолжить</string>
+    <string name="dlg_cotinue_download_title">Загрузить пакет обновления</string>
+    <string name="dlg_cotinue_download_msg">Вы уверены, что не хотите использовать Wi-Fi для загрузки?</string>
+    <string name="push_msg_notification_title">У вас есть новое обновление системы</string>
+    <string name="push_msg_notification_msg">Обновленная вресия：</string>
+    <string name="pregress_get_new_version_msg">Получение информации о новой версии, подождите...</string>
+    <string name="pregress_reboot_phone_title">Перезагрузитесь для обновления</string>
+    <string name="pregress_reboot_phone_msg">Подготовка к перезапуску, подождите...</string>
+    <string name="stable_version">(Стабильная)</string>
+    <string name="dev_version">(Для разработчиков)</string>
+    <string name="menu_download_newest_full">Загрузить последнюю версию</string>
+    <string name="error_can_not_get_update_version">Невозможно получить обновление</string>
+    <string name="error_cannot_download_full_package">Ошибка загрузки полного пакета обновления</string>
+</resources>

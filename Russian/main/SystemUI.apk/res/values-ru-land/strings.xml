@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>-->
+<resources>
+    <string name="toast_rotation_locked">Выбрана только альбомная ориентация экрана.</string>
+</resources>
