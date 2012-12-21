@@ -74,8 +74,8 @@
     <string name="sp_bedtime_dialog_end_title">Установите время окончания</string>
     <string name="sp_btn_finish">Калибровка завершена</string>
     <string name="sp_btn_ok">ОК</string>
-    <string name="sp_btn_enter">Входить</string>
-    <string name="sp_btn_unenter">Не входить</string>
+    <string name="sp_btn_enter">Включить</string>
+    <string name="sp_btn_unenter">Не включать</string>
     <string name="sp_btn_setting" />
     <string name="sp_btn_no">Отменить</string>
     <string name="spm_btn_amend">Изменить</string>

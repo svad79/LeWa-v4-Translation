@@ -113,7 +113,7 @@
     <string name="message_delete_desktop_screen">Удалить экран и его содержимое?</string>
     <string name="menu_preview">Просмотр</string>
     <string name="menu_edit">Виджеты</string>
-    <string name="menu_lewapond">Аккаунт LeWa</string>
+    <string name="menu_lewapond">Аккаунты</string>
     <string name="menu_desktop_settings">Настройки рабочего стола</string>
     <string name="pref_desktop_effect">Эффект перехода</string>
     <string name="pref_desktop_effect_summary">Эффект перехода между экранами рабочего стола</string>
