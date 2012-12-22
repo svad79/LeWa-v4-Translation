@@ -792,4 +792,15 @@
         <item>Выключение установлено через %2$s и %3$s спустя.</item>
         <item>Питание выключено на %1$s, %2$s, and %3$s с текущего момента.</item>
     </string-array>
+    <item type="array" name="BART_DUMMY_007f">false</item>
+    <item type="array" name="BART_DUMMY_0080">false</item>
+    <item type="array" name="BART_DUMMY_0081">false</item>
+    <item type="array" name="BART_DUMMY_0082">false</item>
+    <item type="array" name="BART_DUMMY_0083">false</item>
+    <item type="array" name="BART_DUMMY_0084">false</item>
+    <item type="array" name="BART_DUMMY_0085">false</item>
+    <item type="array" name="BART_DUMMY_0086">false</item>
+    <item type="array" name="BART_DUMMY_0087">false</item>
+    <item type="array" name="BART_DUMMY_0088">false</item>
+    <item type="array" name="BART_DUMMY_0089">false</item>
 </resources>

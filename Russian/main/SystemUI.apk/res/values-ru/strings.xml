@@ -328,4 +328,7 @@
     <string name="lockscreen_expanded">Статусбар в заблокированном состоянии</string>
     <string name="lockscreen_expanded_comman">активно в заблокированном состоянии</string>
     <string name="title_toggle_gemini_data">Инет SIM 1/2</string>
+    <string name="recent_meminfo">%1$dM/%2$dM</string>
+    <string name="recent_noapp">Нет полученных программ</string>
+    <item type="string" name="BART_DUMMY_0149">false</item>
 </resources>

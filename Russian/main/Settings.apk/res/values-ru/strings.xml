@@ -1101,6 +1101,7 @@
     <string name="move_app_failed_dlg_text">Не удалось переместить приложение. %1$s</string>
     <string name="app_install_location_title">Предпочитаемое место установки</string>
     <string name="app_install_location_summary">Изменение предпочитаемого места установки для новых приложений</string>
+    <string name="default_memory_summary">Изменить предпочитаемую память</string>
     <string name="app_disable_dlg_title">Откл. встроенное приложение?</string>
     <string name="app_disable_dlg_text">Если отключить встроенное приложение, другие приложения могут начать работать неправильно.</string>
     <string name="storageuse_settings_title">Использование хранилища</string>
@@ -1607,10 +1608,10 @@
 Старайтесь не достигать лимита, так как оператор и устройство могут учитывать трафик по-разному."</string>
     <string name="data_usage_restrict_background_title">Ограничить фоновый трафик?</string>
     <string name="data_usage_restrict_background">Если ограничить передачу данных в фоновом режиме по мобильной сети, некоторые приложения и службы не будут работать без подключения к сети Wi-Fi.</string>
-    <string name="data_usage_sweep_warning">" "<font size="12">Внимание!</font>"
- "<font size="21"> ^1 </font>"  "<font size="9"> ^2 </font>" "</string>
-    <string name="data_usage_sweep_limit">" "<font size="12">Лимит:</font>"
- "<font size="21"> ^1 </font>"  "<font size="9"> ^2 </font>" "</string>
+    <string name="data_usage_sweep_warning"><font size="21">^1</font><font size="9">^2</font>"
+"<font size="12">Внимание</font></string>
+    <string name="data_usage_sweep_limit"><font size="21">^1</font><font size="9">^2</font>"
+"<font size="12">Лимит</font></string>
     <string name="data_usage_uninstalled_apps">Удаленные приложения</string>
     <string name="data_usage_received_sent">Получено: %1$s; отправлено: %2$s</string>
     <string name="data_usage_total_during_range">Трафик за период %2$s: %1$s</string>
@@ -2008,7 +2009,9 @@
     <string name="tvout_settings">Выход телевизора</string>
     <string name="tvout_settings_summary">Настройка выхода телевизора</string>
     <string name="tv_system_title">Система телевизора</string>
-    <string name="select_memory">Диск для записи по умолчанию</string>
+    <string name="memory_preferred">Е</string>
+    <string name="default_memory_title">Default Memory</string>
+    <string name="phone_memory_title">Phone Storage</string>
     <string name="wifi_security_wapi_psk">WAPI PSK</string>
     <string name="wifi_security_wapi_certificate">WAPI Certificate</string>
     <string name="wapi_user_certificate">Сертификат пользователя</string>
@@ -2292,7 +2295,8 @@
     <string name="autostarts_empty_msg">Нет установленых приложений загрузки</string>
     <string name="autostarts_optimize_empty_msg">Нет оптимизированых элементов автозагрузки</string>
     <string name="autostarts_optimize_btn_title">Оптимизация элементов автозагрузки</string>
-    <string name="autostarts_all_btn_title">Все элементы автозапуска</string>
+    <string name="autostarts_startup_boot_des">До загрузки</string>
+    <string name="autostarts_startup_background_des">После загрузки</string>
     <string name="sdcard_storage_title">SD-карта</string>
     <string name="usb_storage_title">USB хранилище</string>
     <string name="internal_storage_title">Внутренняя память</string>
@@ -2302,19 +2306,45 @@
     <string name="memory_others">Другие</string>
     <string name="calculate_size">Подсчет очищаемого места ...</string>
     <string name="clean_size">Очистка места...</string>
-    <string name="calculate_size_result">Для очистки места</string>
-    <string name="clean_size_result">Вы освободили</string>
+    <string name="calculate_size_result">Выбрано %s очищаемых приложений</string>
     <string name="clean_all_storage">Очистить все</string>
     <string name="clean_add_msg">Очистить</string>
     <string name="clean_add_title">Очистить</string>
     <string name="clean_remain_summary">Очистите остаются:</string>
-    <string name="clean_calculate_empty_msg">Не найдено файлов очистку</string>
+    <string name="clean_calculate_empty_msg">Не найдено файлов для очистки</string>
     <string name="clean_app_cache_summary">Кэш:</string>
     <string name="clean_clear_complete_title">Очистка завершена</string>
     <string name="clean_clear_complete_summary2">Пространство</string>
     <string name="clean_calculate_size_title">В настоящее время доступного пространства</string>
     <string name="size_used">Использованный</string>
     <string name="size_available">Доступный</string>
+    <string name="calculate_size_complete">Найдено очищаемое пространство </string>
+    <string name="calculate_size_stop">Подсчет остановлен</string>
+    <string name="calculate_size_stop_result">Обнаружено %s свободного места</string>
+    <string name="calculate_size_error">Извините, это неправильно!</string>
+    <string name="clean_size_not_complete">Очистка не завершена, попробуйте еще раз позже</string>
+    <string name="clean_size_complete">Очистка завершена!</string>
+    <string name="clean_size_result">Освобождено %s пространства</string>
+    <string name="clean_data_dropbox_folder_name">Системные файлы кэша</string>
+    <string name="clean_data_clipboard_data_name">Данные из буфера</string>
+    <string name="clean_btn_caculate_stop_summary">Остановить подсчет</string>
+    <string name="clean_btn_cleanup_all_summary">Очистить все</string>
+    <string name="clean_btn_cleanup_stop_summary">Остановить очистку</string>
+    <string name="clean_btn_caculate_continue_summary">Подсчет продолжается</string>
+    <string name="clean_btn_cleanup_again_summary">Очистить снова</string>
+    <string name="clean_btn_return_summary">Вернуться</string>
+    <string name="clean_btn_confirm_summary">Подтвердить</string>
+    <string name="clean_btn_complete_summary">Закончить</string>
+    <string name="clean_empty_folder_summary">Папок найдено:</string>
+    <string name="clean_storage_available_size">%s свободного пространства</string>
+    <string name="clean_list_top_not_clean_summary">Файлы не очищены</string>
+    <string name="clean_data_cleaning_summary">Очищаем...</string>
+    <string name="clean_btn_cleanup_part_summary">Очистка</string>
+    <string name="clean_clipboard_data_summary">Данные из буффера：</string>
+    <string name="clean_picture_thumbnail_summary">Превью картинок:</string>
+    <string name="clean_log_summary">Журнал:</string>
+    <string name="clean_system_cache_file">Системный кэш:</string>
+    <string name="clean_calculate_complete_result">%1$s свободного пространства после очистки ожидается %2$s</string>
     <string name="gsm_umts_network_preferences_default_values">0</string>
     <string name="notify_dialog_message">Требуется перезагрузка, чтобы изменения вступили в силу. Перезагрузить сейчас?</string>
     <string name="sim_setting_guide_continue">Вперед</string>
@@ -2355,6 +2385,9 @@
     <string name="gemini_dualsim_switch_settings_title">Настройка набора/отправки</string>
     <string name="gemini_dualsim_switch_title">Сдвинуть набор/отправка SMS</string>
     <string name="gemini_dualsim_switch_summary">Смещение ползунка влево позволит совершить вызов/отправить SMS</string>
+    <string name="upload_debug_log_title">Вступить в экспериментальную программу</string>
+    <string name="upload_debug_log_summary">Помочь нам улучшить продукт с помощью отсылки информции об использовании.</string>  
+    <string name="debug_log">Экспериментальная программа</string>
     <string name="title_charger_over_voltage">Превышено напряжение на зарядном устройстве</string>
     <string name="title_battery_over_temperature">Превышена температура аккумулятора</string>
     <string name="title_over_current_protection">Превышена токовая защита</string>
@@ -2367,4 +2400,19 @@
     <string name="msg_safety_timer_timeout">Время зарядки слишком большое, пожалуйста, отключите зарядное устройство!</string>
     <string name="btn_ok_msg">Отложить</string>
     <string name="btn_cancel_msg">Отклонить</string>
+    <item type="string" name="BART_DUMMY_0908">false</item>
+    <item type="string" name="BART_DUMMY_090a">false</item>
+    <item type="string" name="BART_DUMMY_090b">false</item>
+    <item type="string" name="BART_DUMMY_090d">false</item>
+    <item type="string" name="BART_DUMMY_090e">false</item>
+    <item type="string" name="BART_DUMMY_090f">false</item>
+    <item type="string" name="BART_DUMMY_0910">false</item>
+    <item type="string" name="BART_DUMMY_0911">false</item>
+    <item type="string" name="BART_DUMMY_0912">false</item>
+    <item type="string" name="BART_DUMMY_0913">false</item>
+    <item type="string" name="BART_DUMMY_0914">false</item>
+    <item type="string" name="BART_DUMMY_0915">false</item>
+    <item type="string" name="BART_DUMMY_091a">false</item>
+    <item type="string" name="BART_DUMMY_091b">false</item>
+    <item type="string" name="BART_DUMMY_091c">false</item>
 </resources>
