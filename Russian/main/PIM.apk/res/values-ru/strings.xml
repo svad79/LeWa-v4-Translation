@@ -642,7 +642,7 @@
     <string name="batchContactDeleteProgress">Удаление элементов контакта</string>
     <string name="batch_delete_error">Некоторые или все контакты с SIM не могу быть удалены. Проверьте настройки</string>
     <string name="has_double_phone_number">Невозможно сохранить номер одного типа, проверьте.</string>
-    <string name="phone_book_busy" />
+    <string name="phone_book_busy">Телефонная книга недоступна, попробуйте позже еще раз.</string>
     <string name="sim_invalid">Невозможно сохранить контакт при недопустимой SIM-карте.</string>
     <string name="cannot_insert_null_number">Невозможно сохранить контакт, если не введен номер.</string>
     <string name="AirPlane_mode_on">Невозможно сохранить контакт, когда включен режим Airplane В самолете.</string>
@@ -1224,7 +1224,7 @@
     <string name="select_text">Выделить текст</string>
     <string name="unselect_all">Отменить выбор всего</string>
     <string name="forward_from">Forward from:</string>
-    <string name="sms_forward_setting">SMS Forward Setting</string>
+    <string name="sms_forward_setting">Настройка пересылки СМС</string>
     <string name="sms_forward_setting_summary">"Forward SMS with sender's name and number"</string>
     <string name="file_attachment_vcard_name">vCard(%s)</string>
     <string name="file_attachment_import_vcard">Импорт vCard</string>
@@ -1369,6 +1369,17 @@
     <string name="sms_recommend_copy_text">копировать</string>
     <string name="sms_recommend_copy_text_ready">скопировано</string>
     <string name="mms_menu_select_title">выбрать</string>
+    <string name="favorite_sms">избранные сообщения</string>
+    <string name="quick_text">быстрый текст</string>
+    <string name="message_favorite">избранное сообщение</string>
+    <string name="favorite_from">избранно:</string>
+    <string name="view_original_message">смотреть оригинальное сообщение</string>
+    <string name="add_quick_text">добавить быстрый текст</string>
+    <string name="menu_delete_quick_text">удалить быстрый текст</string>
+    <string name="menu_select_quick_text">быстрый текст выбран</string>
+    <string name="prefs_ims_settings">Настройки избранных сообщений</string>
+    <string name="prefs_ims_close_title">Бесплатный сервис СМС</string>
+    <string name="prefs_ims_close_title_summary">Включите для бесплатных смс, фото, голосовых и видео сообщений</string>
     <string name="prefs_ims_aout_to_sms_mode">Пересылать по SMS</string>
     <string name="prefs_ims_aout_to_sms_summary_mode">Автоматически пересылать бесплатные сообщения по SMS если нет доступа к сети.</string>
     <string name="message_ims_user_service_info">"Free information service user agreement
@@ -1479,4 +1490,11 @@ In four, the opening of free information service needs to send a message to the 
     <string name="cancel_modify_title">Отменить сохранение?</string>
     <string name="cancel_modify_message">Изменения не сохранятся</string>
     <string name="calllog_select_title">Выбрать</string>
+    <string name="crop_photo_title">Обрезать фото</string>
+    <string name="crop_complete">Завершено</string>
+    <string name="contact_store_pos">Сохранить позицию</string>
+    <string name="store_in_phone">Сохранить в телефоне</string>
+    <string name="store_in_simCard">Сохранить на SIM</string>
+    <string name="store_in_usimCard">Сохранить на USIM</string>
+    <string name="position_change_warning">Сохранять только имя и телефон при изменении места хранения на SIM</string>
 </resources>
