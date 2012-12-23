@@ -24,7 +24,7 @@
     <string name="group_shortcuts">Сочетания клавиш</string>
     <string name="group_widgets">Виджеты</string>
     <string name="group_wallpapers">Обои</string>
-    <string name="out_of_space">Больше места на этом экране.</string>
+    <string name="out_of_space">Больше нет места на этом экране.</string>
     <string name="invalid_hotseat_item">Этот виджет слишком большой.</string>
     <string name="shortcut_installed">Ярлык \"%s\" создан.</string>
     <string name="shortcut_uninstalled">Ярлык \"%s\" был удален.</string>

@@ -7,7 +7,7 @@
     <string name="app_autostart">Автозагрузка</string>
     <string name="first_use1">Не проверен</string>
     <string name="first_use2">Пожалуйста, запустите сканирование прямо сейчас</string>
-    <string name="after_use1">"Время последнего сканирования
+    <string name="after_use1">"Проверено
 %1$s"</string>
     <string name="after_use2">"Антивирусные базы
 %1$s"</string>
