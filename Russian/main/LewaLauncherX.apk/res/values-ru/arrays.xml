@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="desktop_transition_effect_entries">
+        <item>Стандарт</item>
+        <item>Планшет</item>
+        <item>Приближение</item>
+        <item>Удаление</item>
+        <item>Вращение вверх</item>
+        <item>Вращение вниз</item>
+        <item>Куб (+)</item>
+        <item>Куб (-)</item>
+        <item>Стек (хз)</item>
+    </string-array>
+    <string-array name="preferences_interface_drawer_scrolling_transition_effect_entries">
+        <item>Стандарт</item>
+        <item>Планшет</item>
+        <item>Приближение</item>
+        <item>Удаление</item>
+        <item>Вращение вверх</item>
+        <item>Вращение вниз</item>
+        <item>Куб (+)</item>
+        <item>Куб (-)</item>
+        <item>Стек (хз)</item>
+    </string-array>
+</resources>
