@@ -2385,9 +2385,9 @@
     <string name="gemini_dualsim_switch_settings_title">Настройка набора/отправки</string>
     <string name="gemini_dualsim_switch_title">Сдвинуть набор/отправка SMS</string>
     <string name="gemini_dualsim_switch_summary">Смещение ползунка влево позволит совершить вызов/отправить SMS</string>
-    <string name="upload_debug_log_title">Вступить в экспериментальную программу</string>
-    <string name="upload_debug_log_summary">Помочь нам улучшить продукт с помощью отсылки информции об использовании.</string>  
-    <string name="debug_log">Экспериментальная программа</string>
+    <string name="upload_debug_log_title">Вступить в программу для опытных пользователей</string>
+    <string name="upload_debug_log_summary">Помочь нам улучшить продукт с помощью отсылки информации об использовании.</string>  
+    <string name="debug_log">Для опытных пользователей</string>
     <string name="title_charger_over_voltage">Превышено напряжение на зарядном устройстве</string>
     <string name="title_battery_over_temperature">Превышена температура аккумулятора</string>
     <string name="title_over_current_protection">Превышена токовая защита</string>
