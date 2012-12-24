@@ -24,7 +24,7 @@
     <string name="gap_error_notice">Прошлое сканирование:%s</string>
     <string name="scan_just_now">Просканировано только что</string>
     <string name="defense_monitor_open">Монитор запущен</string>
-    <string name="defense_monitor_close1">Часть монитора не запущена</string>
+    <string name="defense_monitor_close1">Монитор запущен частично</string>
     <string name="defense_monitor_close2">Под угрозой</string>
     <string name="scan_counts">Проверено:</string>
     <string name="scan_time">Время:</string>
@@ -120,7 +120,7 @@
     <string name="every_day">Каждый день</string>
     <string name="never">Никогда</string>
     <string name="day_concat">", "</string>
-    <string name="days">дней</string>
-    <string name="hours">часов</string>
-    <string name="minutes">минут</string>
+    <string name="days"> дней</string>
+    <string name="hours"> часов</string>
+    <string name="minutes"> минут(ы)</string>
 </resources>
