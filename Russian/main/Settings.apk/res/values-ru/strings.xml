@@ -2290,8 +2290,8 @@
     <string name="autostarts_title">Автозагрузка</string>
     <string name="autostarts_allowed">Разрешить</string>
     <string name="autostarts_prohibited">Запретить</string>
-	<string name="autostarts_optimized_list">%d автозагрузка включена</string>
-    <string name="autostarts_prohibited_list">%d автозагрузка выключена</string>	
+	<string name="autostarts_optimized_list">У %d автозагрузка включена</string>
+    <string name="autostarts_prohibited_list">У %d автозагрузка выключена</string>	
     <string name="autostarts_allow_progress_msg">Восстанавливается загрузки, пожалуйста, подождите...</string>
     <string name="autostarts_prohibit_progress_msg">Запрет загрузки, пожалуйста, подождите...</string>
     <string name="autostarts_empty_msg">Нет установленых приложений загрузки</string>
