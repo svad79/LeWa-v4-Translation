@@ -2371,9 +2371,9 @@
     <string name="volume_wake_summary">Нажатие клавиши громкости, в то время как ваш телефон выключен включится экран.</string>
     <string name="volume_music_controls_title">Управление музыкой при выключенном экране</string>
     <string name="volume_music_controls_summary">Длительно нажатие кнопки громкости пропускать треки, когда экран выключен. Громкость звонка не будет работать, когда играет музыка.</string>
-    <string name="back_key_title">Кнопка Домой</string>
-    <string name="back_to_kill_title">Кнопка Домой</string>
-    <string name="back_to_kill_summary">Удерживание кнопки Домой завершит текущую задачу</string>
+    <string name="back_key_title">Кнопка Назад</string>
+    <string name="back_to_kill_title">Кнопка Назад</string>
+    <string name="back_to_kill_summary">Удерживание кнопки Назад завершит текущую задачу</string>
     <string name="phone_inUse">Телефон используется, вы не можете переключиться Авиарежим</string>
     <string name="voice_call_alarm_description">Вызов(Голосовой вызов)</string>
     <string name="wifi_p2p_dialog_title">Отключите</string>
