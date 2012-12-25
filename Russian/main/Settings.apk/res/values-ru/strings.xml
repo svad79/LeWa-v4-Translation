@@ -639,7 +639,7 @@
     <string name="wifi_gateway_hint">192.168.1.1</string>
     <string name="wifi_network_prefix_length">Длина сетевого префикса</string>
     <string name="wifi_network_prefix_length_hint">24</string>
-    <string name="wifi_p2p_settings_title">Wi-Fi прямой</string>
+    <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_settings_summary">Установить соединение типа точка-точка</string>
     <string name="wifi_p2p_device_info">Информация об устройстве</string>
     <string name="wifi_p2p_wps_setup">Настройка защиты Wi-Fi</string>
@@ -2297,7 +2297,7 @@
     <string name="autostarts_empty_msg">Нет установленых приложений загрузки</string>
     <string name="autostarts_optimize_empty_msg">Нет оптимизированых элементов автозагрузки</string>
     <string name="autostarts_optimize_btn_title">Оптимизация элементов автозагрузки</string>
-    <string name="autostarts_startup_boot_des">До загрузки</string>
+    <string name="autostarts_startup_boot_des">Во время загрузки</string>
     <string name="autostarts_startup_background_des">После загрузки</string>
     <string name="sdcard_storage_title">SD-карта</string>
     <string name="usb_storage_title">USB хранилище</string>
@@ -2366,13 +2366,13 @@
     <string name="key_label">Софт-клавиши</string>
     <string name="keyboard_lights_title">Подсветка кнопок</string>
     <string name="keyboard_lights_summary">Включить подсветку софт клавиш</string>
-    <string name="keyboard_auto_lights_title">Автоподсветка клавиатуры</string>
+    <string name="keyboard_auto_lights_title">Автоподсветка кнопок</string>
     <string name="keyboard_auto_lights_summary">Автоматическая подсветка софт-клавиш</string>
     <string name="volume_key_title">Кнопка громкости</string>
     <string name="volume_wake_title">Громкость звонка</string>
     <string name="volume_wake_summary">Нажатие клавиши громкости, в то время как ваш телефон выключен включится экран.</string>
     <string name="volume_music_controls_title">Управление музыкой при выключенном экране</string>
-    <string name="volume_music_controls_summary">Длительно нажатие кнопки громкости пропускать треки, когда экран выключен. Громкость звонка не будет работать, когда играет музыка.</string>
+    <string name="volume_music_controls_summary">Длительное нажатие кнопки громкости пропускает треки, когда экран выключен. Громкость звонка не будет регулироваться, когда играет музыка.</string>
     <string name="back_key_title">Кнопка Назад</string>
     <string name="back_to_kill_title">Кнопка Назад</string>
     <string name="back_to_kill_summary">Удерживание кнопки Назад завершит текущую задачу</string>
