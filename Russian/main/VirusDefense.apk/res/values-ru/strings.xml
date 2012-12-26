@@ -93,8 +93,8 @@
     <string name="setting_unknown_costs_summary">Монитор в реальном времени блокирует вредоностную кнопку оплаты</string>
     <string name="setting_defense">Параметры сканирования</string>
     <string name="setting_scan_of_clound">Проверка в облаке</string>
-    <string name="setting_cloud_kill_summary">Сканирование в облаке, дает более точные результаты</string>
-    <string name="setting_timer_scan_summary">Регулярное сканирование защитит безопастность мобильного телефона</string>
+    <string name="setting_cloud_kill_summary">Сканирование в облаке дает более точные результаты</string>
+    <string name="setting_timer_scan_summary">Регулярное сканирование защитит мобильный телефон</string>
     <string name="setting_time">Время</string>
     <string name="setting_defense_schedule">Расписание сканирования</string>
     <string name="setting_everyday">каждый день</string>
@@ -120,7 +120,7 @@
     <string name="every_day">Каждый день</string>
     <string name="never">Никогда</string>
     <string name="day_concat">", "</string>
-    <string name="days"> дней</string>
+    <string name="days"> дня(-ней)</string>
     <string name="hours"> часов</string>
     <string name="minutes"> минут(ы)</string>
 </resources>

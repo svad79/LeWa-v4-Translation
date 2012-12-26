@@ -17,9 +17,9 @@
     <string name="VideoEditor_warning_limited_duration">Выберите видео длительностью не менее 1 сек</string>
     <string name="VideoScene_reload_after_mount">Загружается видео с SD карты, подождите.</string>
     <string name="select_video">SD карта</string>
-    <string name="select_default">По умолчанию</string>
+    <string name="select_default">Обои</string>
     <string name="select">Выберите видео</string>
-    <string name="set_wallpaper">Установить как обои</string>
+    <string name="set_wallpaper">Установить обои</string>
     <string name="title">Видеообои</string>
     <string name="default_title">Видео по умолчанию</string>
     <string name="default_video_path">android.resource://com.mediatek.vlw/raw/default_video</string>
