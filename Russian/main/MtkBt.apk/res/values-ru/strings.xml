@@ -161,7 +161,7 @@
     <string name="bluetooth_ftp_profile_summary_connected">Соединено</string>
     <string name="bluetooth_ftp_profile_summary_not_connected">Не соединено</string>
     <string name="bluetooth_ftp_server_settings">Настройки FTP сервера</string>
-    <string name="bluetooth_ftp_server_enable_title">FTP сервера</string>
+    <string name="bluetooth_ftp_server_enable_title">FTP сервер</string>
     <string name="bluetooth_ftp_server_enable_summary">Включить</string>
     <string name="bluetooth_ftp_server_permission_title">Права</string>
     <string name="bluetooth_ftp_server_permission_summary_readonly">Только для чтения</string>
