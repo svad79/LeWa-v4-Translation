@@ -122,4 +122,9 @@
     <string name="spm_battery_low_warnnig_msg_1">.Открыть приложение энергосбережения?</string>
     <string name="spm_battery_low_warnnig_to_connect">Заряд аккумулятора ниже чем</string>
     <string name="spm_battery_low_warnnig_to_connect_1">!</string>
+    <string name="spm_inti_statusbar_in">Режим экономии энергии включен</string>
+    <string name="spm_inti_statusbar_out">Режим экономии энергии выключен</string>
+    <string name="spm_inti_statusbar_time">Интервал времени</string>
+    <string name="spm_inti_statusbar_entry">Войти снова</string>
+    <string name="spm_inti_statusbar_exit">Временно выйти</string>
 </resources>
