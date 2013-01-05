@@ -3,7 +3,7 @@
     <string name="app_name">Центр безопасности</string>
     <string name="app_virus">Антивирус</string>
     <string name="app_clear">Очистка памяти</string>
-    <string name="app_speed">Ускорить</string>
+    <string name="app_speed">Диспетчер задач</string>
     <string name="app_autostart">Автозагрузка</string>
     <string name="first_use1">Не проверен</string>
     <string name="first_use2">Пожалуйста, запустите сканирование прямо сейчас</string>
