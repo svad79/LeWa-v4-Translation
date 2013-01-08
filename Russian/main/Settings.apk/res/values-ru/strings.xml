@@ -759,8 +759,8 @@
     <string name="device_info_settings">Состояние телефона</string>
     <string name="system_update_settings_list_item_title">Обновления системы</string>
     <string name="system_update_settings_list_item_summary" />
-    <string name="firmware_version">Версия OC Android： </string>
-    <string name="model_number">Модель： </string>
+    <string name="firmware_version">"Версия OC Android： "</string>
+    <string name="model_number">"Модель： "</string>
     <string name="baseband_version">Версия ПО модуля связи</string>
     <string name="kernel_version">Версия ядра</string>
     <string name="build_number">Номер сборки</string>
