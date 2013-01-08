@@ -9,7 +9,7 @@
     <string name="first_use2">Пожалуйста, запустите сканирование прямо сейчас</string>
     <string name="after_use1">"Проверено
 %1$s"</string>
-    <string name="after_use2">"Антивирусные базы
+    <string name="after_use2">"Базы антивируса
 %1$s"</string>
     <string name="after_no_version">не обновляется</string>
 </resources>

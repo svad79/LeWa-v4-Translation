@@ -81,10 +81,10 @@
     <string name="unupdate_tips">Вы давно не обновляли антивирусную базу!</string>
     <string name="update_version">Версия: %s</string>
     <string name="log_list_empty">Нет журнала антивируса</string>
-    <string name="log_virus_counts">Заражено： %s</string>
-    <string name="log_caution_counts">Предостережений： %s</string>
-    <string name="log_clear_counts">Очищено： %s</string>
-    <string name="log_unhandle_counts">Не вылечно：%s</string>
+    <string name="log_virus_counts">Заражено: %s</string>
+    <string name="log_caution_counts">Угроз: %s</string>
+    <string name="log_clear_counts">Очищено: %s</string>
+    <string name="log_unhandle_counts">Не вылечно: %s</string>
     <string name="log_clear_all">Удалить</string>
     <string name="log_if_clear_all">Удалить %s журнал антивируса?</string>
     <string name="setting">Настройки</string>
