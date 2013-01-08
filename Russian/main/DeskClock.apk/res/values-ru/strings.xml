@@ -71,6 +71,7 @@
     <string name="power_on">Пропустить и включить</string>
     <string name="power_off">Пропустить и выключить</string>
     <string name="repeat_weekdays">Дни недели</string>
+    <string name="stop_watch">Секундомер</string>
     <string name="easter_eggs_string">LewaROM исполнился год!</string>
     <string name="alarm">Будильник</string>
     <string name="world_clock">Часы</string>
