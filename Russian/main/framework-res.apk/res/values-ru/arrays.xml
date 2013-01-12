@@ -508,6 +508,20 @@
         <item>@string/description_target_camera</item>
         <item>@null</item>
     </array>
+    <string-array name="bypass_names">
+        <item>@string/usb_mode_bypass_gps</item>
+        <item>@string/usb_mode_bypass_pcv</item>
+        <item>@string/usb_mode_bypass_at</item>
+        <item>@string/usb_mode_bypass_ets</item>
+        <item>@string/usb_mode_bypass_modem</item>
+    </string-array>
+    <integer-array name="bypass_codes">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>8</item>
+        <item>16</item>
+    </integer-array>
     <string-array name="config_statusBarIcons">
         <item>ime</item>
         <item>sync_failing</item>
@@ -536,6 +550,7 @@
         <item>mobile,0,0,0,-1,true</item>
         <item>mobile_mms,2,0,2,300000,true</item>
         <item>mobile_supl,3,0,2,300000,true</item>
+        <item>mobile_dun,4,0,3,300000,true</item>
         <item>mobile_hipri,5,0,3,300000,true</item>
         <item>mobile_fota,10,0,2,300000,true</item>
         <item>mobile_ims,11,0,2,300000,true</item>
@@ -583,6 +598,7 @@
         <item>5</item>
         <item>7</item>
     </integer-array>
+    <array name="config_cdma_dun_supported_types" />
     <array name="config_usbHostBlacklist" />
     <integer-array name="config_longPressVibePattern">
         <item>0</item>
@@ -620,79 +636,71 @@
         <item>10</item>
     </integer-array>
     <integer-array name="config_autoBrightnessLevels">
-        <item>10</item>
-        <item>16</item>
-        <item>25</item>
-        <item>40</item>
-        <item>63</item>
-        <item>101</item>
-        <item>160</item>
-        <item>254</item>
-        <item>403</item>
-        <item>640</item>
-        <item>1016</item>
-        <item>2560</item>
-        <item>4064</item>
-        <item>6451</item>
-        <item>10240</item>
+        <item>11</item>
+        <item>17</item>
+        <item>26</item>
+        <item>41</item>
+        <item>64</item>
+        <item>102</item>
+        <item>161</item>
+        <item>255</item>
+        <item>404</item>
+        <item>641</item>
+        <item>1017</item>
+        <item>1614</item>
+        <item>2516</item>
+        <item>4065</item>
+        <item>6452</item>
     </integer-array>
     <integer-array name="config_autoBrightnessLcdBacklightValues">
+        <item>5</item>
+        <item>10</item>
+        <item>12</item>
         <item>15</item>
         <item>20</item>
-        <item>27</item>
-        <item>38</item>
-        <item>49</item>
+        <item>25</item>
+        <item>30</item>
+        <item>37</item>
+        <item>48</item>
         <item>60</item>
-        <item>72</item>
-        <item>86</item>
-        <item>98</item>
+        <item>70</item>
+        <item>80</item>
         <item>128</item>
-        <item>160</item>
-        <item>180</item>
-        <item>200</item>
-        <item>220</item>
-        <item>235</item>
+        <item>190</item>
+        <item>230</item>
         <item>255</item>
     </integer-array>
     <integer-array name="config_autoBrightnessButtonBacklightValues">
-        <item>15</item>
-        <item>20</item>
-        <item>27</item>
-        <item>38</item>
-        <item>49</item>
-        <item>60</item>
-        <item>72</item>
-        <item>86</item>
-        <item>98</item>
-        <item>128</item>
-        <item>160</item>
+        <item>0</item>
+        <item>102</item>
         <item>180</item>
         <item>200</item>
-        <item>220</item>
-        <item>235</item>
+        <item>210</item>
+        <item>230</item>
         <item>255</item>
     </integer-array>
     <integer-array name="config_autoBrightnessKeyboardBacklightValues">
-        <item>15</item>
-        <item>20</item>
-        <item>27</item>
-        <item>38</item>
-        <item>49</item>
-        <item>60</item>
-        <item>72</item>
-        <item>86</item>
-        <item>98</item>
-        <item>128</item>
-        <item>160</item>
-        <item>180</item>
-        <item>200</item>
-        <item>220</item>
-        <item>235</item>
+        <item>255</item>
+        <item>255</item>
+        <item>255</item>
+        <item>255</item>
+        <item>255</item>
+        <item>255</item>
+        <item>255</item>
+        <item>255</item>
+        <item>255</item>
+        <item>255</item>
+        <item>255</item>
+        <item>255</item>
+        <item>255</item>
+        <item>255</item>
+        <item>255</item>
         <item>255</item>
     </integer-array>
     <array name="config_twoDigitNumberPattern" />
     <array name="config_sms_enabled_single_shift_tables" />
     <array name="config_sms_enabled_locking_shift_tables" />
+    <array name="config_oemUsbModeOverride" />
     <array name="common_nicknames" />
     <string-array name="imAddressTypes">
         <item>Домашний</item>
@@ -701,12 +709,4 @@
         <item>Создать свой ярлык</item>
     </string-array>
     <array name="carrier_properties" />
-    <string-array name="shutdown_reboot_options">
-        <item>@string/reboot_reboot</item>
-        <item>@string/reboot_recovery</item>
-    </string-array>
-    <string-array name="shutdown_reboot_actions">
-        <item></item>
-        <item>recovery</item>
-    </string-array>
 </resources>
