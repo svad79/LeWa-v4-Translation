@@ -102,12 +102,12 @@
     <string name="five_minute">5 минут</string>
     <string name="ten_minute">10 минут</string>
     <string name="timer_ring">Звук уведомления</string>
-    <string name="timer_init_start">"Коснитесь что бы начать"</string>
+    <string name="timer_init_start">"Старт"</string>
     <string name="timer_time_up">Повторить</string>
     <string name="timer_time_up_ok">Закрыть</string>
     <string name="delete_selected">Выбранные %s</string>
     <string name="alarm_empty_text">Нажмите кнопку, чтобы добавить будильник</string>
     <string name="world_clock_empty_text">Нажмите кнопку, чтобы добавить будильник</string>
     <string name="add_city">Добавить часы</string>
-    <string name="could_not_add_more_lap_time">Извините можно не более 99 записей!</string>
+    <string name="could_not_add_more_lap_time">Извините, максимум 99 записей!</string>
 </resources>
