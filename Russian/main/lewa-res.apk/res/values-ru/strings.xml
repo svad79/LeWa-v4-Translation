@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="selectNone">Отмена</string>
+    <string name="config_deviceKeyHandlerLib" />
+    <string name="config_deviceKeyHandlerClass" />
+    <string name="reboot_system">Перезагрузить телефон</string>
+    <string name="global_action_screenshot">Снимок экрана</string>
+    <string name="global_action_screenshot_status">Нажмите одновременно Питание и Громкость вниз для снятия скриншота</string>
+    <string name="reboot_reboot">Перезагрузка</string>
+    <string name="reboot_recovery">Рекавери</string>
+    <string name="reboot_bootloader">Загрузчик</string>
+    <string name="reboot_bootmenu">Загрузочное меню</string>
+    <string name="reboot_fastboot">Быстрая загрузка</string>
+    <string name="reboot_download">Загрузка</string>
+    <string name="reboot_progress">Перезагрузка…</string>
+    <string name="reboot_confirm">Ваш телефон перезагрузится.</string>
+    <string name="global_action_reboot">Перезагрузка</string>
+    <string name="lockscreen_discharging">Батарея (%d%%)</string>
+    <string name="progress_scanning">Сканирую</string>
+    <string name="phone_goggles_problem_count">Проблема #%1$d:</string>
+    <string name="phone_goggles_description">Решение %1$d следующей проблемы займет менее %2$d секунд, потом продолжите общение.</string>
+    <string name="permlab_revokePermissions">Позволяет просматривать и редактировать аннулированные разрешения. Не для использования обычными приложениями.</string>
+    <string name="permdesc_revokePermissions">Позволяет читать и писать отмененные разрешения. Не для использования обычными приложениями.</string>
+    <string name="app_killed_message">Приложение закрыто</string>
+    <string name="back_killed_message">Закрыто</string>
+    <string name="lock_screen_miss_call">%1$d пропущенный звонок</string>
+    <string name="lock_screen_new_msg">%1$d новое сообщение</string>
+    <string name="lock_screen_miss_calls">%1$d пропущенных звонков</string>
+    <string name="lock_screen_new_msgs">%1$d новых сообщений</string>
+    <string name="lock_screen_drag_down">Перетащите вниз для разблокировки</string>
+    <string name="lock_screen_drag_here">Перетащите сюда для разблокировки</string>
+    <string name="lock_screen_dismiss">Отклонить</string>
+    <string name="lock_screen_snooze">Сон</string>
+    <string name="lock_screen_pm">PM</string>
+    <string name="lock_screen_am">AM</string>
+    <string name="fixed_line">Фиксированная</string>
+    <string name="ringtone_custom">Обычная...</string>
+    <string name="ringtone_silent_summary">Тихий</string>
+    <string name="data_usage_warning_body">Осторожно, только %s осталось от пакета данных оператора.</string>
+</resources>
