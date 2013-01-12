@@ -1059,7 +1059,6 @@
     <string name="usb_cd_installer_notification_title">Подключен как установщик</string>
     <string name="usb_ums_notification_title">Подключено как USB хранилище</string>
     <string name="usb_charging_notification_title">По USB только зарядка</string>
-    <string name="usb_cd_installer_notification_title">Подключено как установщик</string>
     <string name="usb_accessory_notification_title">Подключено к USB аксессуару</string>
     <string name="usb_notification_message">Нажмите, чтобы открыть список опций.</string>
     <string name="extmedia_format_title">Отформатировать SD-карту?</string>
