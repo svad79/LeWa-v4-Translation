@@ -106,6 +106,9 @@
     <string name="message_resetlauncher">Сбросить все иконки, виджеты и положение экрана.</string>
     <string name="pref_label_settings">Настройки рабочего стола</string>
     <string name="add_to_desktop_error">Добавление на рабочий стол или перемещение не удалось.</string>
+    <string name="message_resethotseats">Сбросить настройки по умолчанию?</string>
+    <string name="pref_label_settings">Настройки Lewa Home</string>
+    <string name="add_to_desktop_error">Ошибка добавления или перемещения на рабочий стол</string>
     <string name="folder_full_hint">Эта папка заполнена.</string>
     <string name="drawer_title">Список приложений</string>
     <string name="open_drawer_tip">Проведите вверх что бы открыть список приложений.</string>

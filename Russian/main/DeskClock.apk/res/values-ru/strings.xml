@@ -88,7 +88,7 @@
     <string name="delete_city">Удалить город</string>
     <string name="delete_city_confirm">Подтвердить удаление</string>
     <string name="snooze">Отложить</string>
-    <string name="close_alarm">Закрыть</string>
+    <string name="close_alarm">Выключить</string>
     <string name="start">Старт</string>
     <string name="pause">Пауза</string>
     <string name="reset">Сброс</string>
