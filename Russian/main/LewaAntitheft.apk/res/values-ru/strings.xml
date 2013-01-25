@@ -101,7 +101,7 @@
     <string name="complete_send_to_security_number">Послать команды секретному телефону.</string>
     <string name="complete_send_to_security_number_hint">Рекомендуем вам выслать команды на секретный телефон, чтобы не забыть их.</string>
     <string name="sim_change_message">Предупреждение: ваша SIM карта изменена.</string>
-    <string name="choose_contacts">Выбарть контакт</string>
+    <string name="choose_contacts">Выбрать контакт</string>
     <string name="tips4_deleting_data_success">Данные будут удалены</string>
     <string name="tips4_locate_success">Успешно определено положение вашего телефона, он здесь:</string>
     <string name="tips4_locate_failed">Потерянный телефон не может включить GPS, невозможно определить его местоположение.</string>
