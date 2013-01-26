@@ -1042,4 +1042,7 @@
     <string name="networkError">Ошибка сети，проверьте настройки сети</string>
     <string name="piano_tone">Звук клавиатуры</string>
     <string name="piano_tone_sum">Звуки пианино при наборе номера</string>
+    <string name="dialpad_tone_dlg_title">Тон клавиатуры</string>
+    <string name="dialpad_tone_title">Тон клавиатуры</string>
+    <string name="dialpad_tone_default_summary">Тон клавиатуры по умолчанию</string>
 </resources>
