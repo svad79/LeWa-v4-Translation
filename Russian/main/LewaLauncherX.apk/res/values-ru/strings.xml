@@ -105,6 +105,8 @@
     <string name="pref_summary_resetlauncher">Востановить по умолчанию</string>
     <string name="message_resetlauncher">Сбросить все иконки, виджеты и положение экрана.</string>
     <string name="pref_label_settings">Настройки рабочего стола</string>
+    <string name="pref_title_resethotseats">Сброс по умолчанию</string>
+    <string name="pref_summary_resethotseats">Сброс настроек по умолчанию.</string>	
     <string name="message_resethotseats">Сбросить настройки по умолчанию?</string>
     <string name="add_to_desktop_error">Ошибка добавления или перемещения на рабочий стол</string>
     <string name="folder_full_hint">Эта папка заполнена.</string>
