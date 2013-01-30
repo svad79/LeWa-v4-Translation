@@ -2311,7 +2311,7 @@ Unicom
     <string name="wifi_priority_label">Приоритет</string>
     <string name="wifi_priority_settings_label">Приоритет параметров</string>
     <string name="wifi_configured_ap_list">Вспомнить список точек доступа</string>
-    <string name="wifi_proxy_exclude_empty_list_info">"ы не добавили никаких исключений IP-адресов до сих пор.
+    <string name="wifi_proxy_exclude_empty_list_info">"Вы не добавили никаких исключений IP-адресов до сих пор.
 
 Для добавления вы можете:
         
@@ -2341,7 +2341,7 @@ Unicom
     <string name="confirm_title">ОК</string>
     <string name="wifi_ctia_test">CTIA Test Mode Setting</string>
     <string name="wifi_ctia_test_summary">CTIA Test Mode configuration</string>
-    <string name="ctia_title">Wi-Fi Test Mode</string>
+    <string name="ctia_title">Тестовый режим Wi-Fi</string>
     <string name="ctia_checkbox">Включить режим проверки CTIA</string>
     <string name="ctia_dump_checkbox">Enable log for Mgmt Frame</string>
     <string name="ctia_counter_checkbox">Enable log for Tx Rx Counter</string>
@@ -2378,15 +2378,15 @@ Unicom
     <string name="software_updates_scomo_summary">Проверить новую версию приложения</string>
     <string name="gps_time_sync_attention_gps_on">"It will take at most 1 minute to obtain GPS fix. Besides, GPS may fail to provide time due to weak environmental signal.
 
-Вы уверены, что хотите испоьзовать GPS?"</string>
+Вы уверены, что хотите использовать GPS?"</string>
     <string name="gps_time_sync_attention_gps_off">"To use GPS provided time, you must enable GPS first. It then take at most 1 minute to obtain GPS fix. Besides, GPS may fail to provide time due to weak environmental signal. 
 
 Вы уверены, что хотите включить GPS сейчас и ждать когда GPS заработает?"</string>
     <string name="mtp_transfer_unmount_error_text">Карта памяти не может быть размонтирована во время передачи файлов</string>
     <string name="mtp_transfer_erase_error_text">Карта памяти не может быть очищена во время передачи файлов</string>
-    <string name="mtk_thememanager_title">Theme</string>
-    <string name="default_name">Default</string>
-    <string name="custom_theme_name">New [%1$s]</string>
+    <string name="mtk_thememanager_title">Тема</string>
+    <string name="default_name">По умолчанию</string>
+    <string name="custom_theme_name">Новая [%1$s]</string>
     <string name="loading">Загрузка...</string>
     <string name="display_settings_scences_title">Сцены</string>
     <string name="cmcc_trust_access_points">По умолчанию надежные точки доступа</string>
