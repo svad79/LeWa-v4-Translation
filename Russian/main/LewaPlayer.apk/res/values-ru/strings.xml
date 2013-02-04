@@ -77,6 +77,7 @@
     <string name="search">Поиск</string>
     <string name="folder">Источник</string>
     <string name="remove_done">>Удаление завершено</string>
+    <string name="remove">remove</string>
     <string name="goto_start">Библиотека</string>
     <string name="choose_folder">Выберите папки с музыкой</string>
     <string name="select_folder">Выберите источник музыки</string>
@@ -115,12 +116,15 @@
     <string name="setting_downimg_title">Получить изображения</string>
     <string name="setting_downimg_key">isdownimg</string>
     <string name="setting_downInfo_key">isdownInfo</string>
+    <string name="setting_flowhint_key">isflowhint</string>
+    <string name="setting_filtersongs_key">isfiltersongs</string>
     <string name="setting_download_title">Download and Streaming</string>
     <string name="setting_download_summary">Только WiFi</string>
     <string name="setting_download_key">downloadmethod</string>
     <string name="musicsettings">Настройки проигрывателя LeWa</string>
     <string name="setting_download">Параметры загрузки</string>
     <string name="setting_basic">Базовая настройка</string>
+    <string name="file_filter">Фильтр файлов</string>
     <string name="default_downloadmethod">0</string>
     <string name="loadlrc">Загрузка......</string>
     <string name="streamloadingtext">Streamload</string>
@@ -149,9 +153,9 @@
     <string name="sort_by_artist">Исполнители</string>
     <string name="music_picker_title">Выберите музыкальный трек</string>
     <string name="nosd">SD-карта извлечена или повреждена</string>
-    <string name="playcurrent_failed">%scannot be played,format is not supported or file does not exist.</string>
+    <string name="playcurrent_failed">%s не вопспроизводится, неподдерживаемый формат или отсутствует файл.</string>
     <string name="sleep_start">Таймер сна</string>
-    <string name="sleep_close">close sleep timer</string>
+    <string name="sleep_close">закрыть таймер сна</string>
     <string name="sleep_tip">Пожалуйста, установите таймер для остановки (в мин)</string>
     <string name="sleep_set_ok">воспроизведение остановится через %1$d минут(с)</string>
     <string name="sleep_close_ok">Таймер сна остановлен</string>
@@ -173,6 +177,9 @@
     <string name="shake_degree_excited" />
     <string name="shake_degree_force">Сильнее</string>
     <string name="id3_lable">Редактирование ID3 песни</string>
+    <string name="setting_show_spectrum">Показать спектр</string>
+    <string name="setting_show_spectrum_summary">Показать ритм музыки, закрытие повысит производительность</string>
+    <string name="setting_show_spectrum_key">isShowSpectrum</string>
     <string name="more">Больше</string>
     <string name="id3_empty">пустой</string>
     <string name="click_to_shuffle">Случайное воспроизведение</string>
@@ -262,5 +269,8 @@
     <string name="search_fail">извините, ваши песни не найдены~(@^_^@)~</string>
     <string name="enter_keys">Введите исполнителя или название песни</string>
     <string name="flow_hint">подсказка потока</string>
+    <string name="filter_songs">Фильтровать песни по 1 минуте</string>
+    <string name="filter_songs_hint">Можно отфильтровать небольшие аудиофайлы</string>
+    <string name="setting_flowhint_summary">При скачивании данных выводить всплывающие окна</string>
     <string name="songs_download">Скачать песни</string>
 </resources>
