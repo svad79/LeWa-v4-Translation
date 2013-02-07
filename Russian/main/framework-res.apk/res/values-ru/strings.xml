@@ -1252,5 +1252,8 @@
     <string name="SetupCallDefault">Ответить?</string>
     <string name="storage_external_usb">Внешнее хранилище USB</string>
     <string name="Add_More_Ringtones">Больше рингтонов ...</string>
+    <string name="usb_mode_bypass_all">все</string>
+    <string name="find_previous">Предыдущий</string>
+    <string name="find_next">Следующий</string>
     <string name="storage_phone">Внутреннее хранилище</string>
 </resources>
