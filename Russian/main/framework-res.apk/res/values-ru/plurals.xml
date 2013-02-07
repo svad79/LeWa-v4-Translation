@@ -79,8 +79,4 @@
         <item quantity="other">%1$d из %2$d</item>
         <item quantity="one">1 совпадение</item>
     </plurals>
-    <plurals name="phone_goggles_countdown">
-        <item quantity="other">Осталось %d сек</item>
-        <item quantity="one">Осталась %d сек</item>
-    </plurals>
 </resources>

@@ -182,7 +182,7 @@ Unicom
     <string name="gemini_contacts_sim_summary">Привязка контактов к определенной SIM-карте</string>
     <string name="gemini_voice_call">Голосовой вызов</string>
     <string name="gemini_video_call">Видеозвонок</string>
-    <string name="gemini_data_connection">Соединение для передачи данных</string>
+    <string name="gemini_data_connection">Передача данных</string>
     <string name="gemini_msg">SMS/MMS</string>
     <string name="gemini_default_sim_always_ask">Всегда спрашивать</string>
     <string name="gemini_intenet_call">Интернет-вызовы</string>
@@ -835,7 +835,7 @@ Unicom
     <string name="wifi_state_unknown">Неизвестно</string>
     <string name="wifi_config_info">Wi-Fi настройки</string>
     <string name="config_list_label">Настроенные сети</string>
-    <string name="display_settings_title">Настройки экрана</string>
+    <string name="display_settings_title">Экран</string>
     <string name="dock_settings">Док-станция</string>
     <string name="dock_settings_title">Настройки док-станции</string>
     <string name="dock_audio_settings_title">Аудио</string>
