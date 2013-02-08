@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string name="app_name">Антивор</string>
-    <string name="anti_theft_hint">Вы нуждаетесь в антиворе</string>
+    <string name="anti_theft_hint">Антивор не установлен</string>
     <string name="anti_theft_hint_sub">Три шага, и у вас будет антивор!</string>
     <string name="app_summary">Anti Theft© LeWaTek Limited.</string>
     <string name="label_next">Дальше</string>
@@ -10,22 +10,22 @@
     <string name="send">Послать команду</string>
     <string name="unlock">Разблокировать</string>
     <string name="antitheft">Антивор</string>
-    <string name="start_instantly">Откройте прямо сейчас</string>
+    <string name="start_instantly">Установка</string>
     <string name="antiseft_settings">Настройки антивора</string>
-    <string name="iam">Я</string>
+    <string name="iam">Я </string>
     <string name="invalid_phone_number">Неправильный номер телефона</string>
     <string name="invalid_user_info">Информация о пользователе не может быть пустой</string>
     <string name="password_no_match">Неверный пароль, попробуйте еще раз</string>
     <string name="password_no_match_second">Пароли не совпадают, попробуйте еще раз</string>
     <string name="remote_control">Удаленный контроль</string>
     <string name="send_command">Послать команду</string>
-    <string name="change_settings">Изменить настройки</string>
+    <string name="change_settings">Настройки</string>
     <string name="remember_commands">Запомнить команды</string>
     <string name="find_phone">Найти ваш телефон</string>
     <string name="find_phone_instantly">Найти прямо сейчас</string>
     <string name="remote_hint">Вы можете удаленно отправить на команды на телефон, на котором стоит антивор</string>
     <string name="remote_hint_find_phone">Найти потерянный телефон</string>
-    <string name="remote_hint2">Функция: заблокировать телефон и снять скриншот, определеить местоположение, удалить данные, изменить пароли</string>
+    <string name="remote_hint2">Функция: заблокировать телефон и снять скриншот, определить местоположение, удалить данные, изменить пароли</string>
     <string name="remote_hint_select_command">Выбрать команды удаленного доступа</string>
     <string name="remote_prompt_phone_number">Вы нуждаетесь в удаленном управлении телефоном</string>
     <string name="remote_lock_phone_title">Вы выбрали блокировку телефону и команду создания фото с телефона</string>
@@ -42,14 +42,14 @@
     <string name="remote_retrieve_password_hint_sub" />
     <string name="command_title">Вы можете отправить эти команды для вашего потерянного телефона через любой телефон:</string>
     <string name="command_lock_phone">Заблокировать телефон и сделать снимок</string>
-    <string name="command_lock_phone_hint">Заблокировать телефон и сделать снимок вора</string>
+    <string name="command_lock_phone_hint">Блокировка и фото вора</string>
     <string name="command_lock_phone_hint_sub">\#QQLock#Password</string>
-    <string name="command_get_location">Местоположение телефона</string>
+    <string name="command_get_location">Местоположение</string>
     <string name="command_get_location_hint_sub">\#QQLocation#Phone</string>
-    <string name="command_delete_data">Удаление данных</string>
+    <string name="command_delete_data">Удал. данных</string>
     <string name="command_delete_data_hint_sub">\#QQDeleteAll#Password</string>
-    <string name="command_retrieve_password">Изменить пароль</string>
-    <string name="command_retrieve_password_hint_sub">\#QQPIN#Secure phone number</string>
+    <string name="command_retrieve_password">Изм. пароль</string>
+    <string name="command_retrieve_password_hint_sub">\#QQPIN#Секретный номер телефона</string>
     <string name="command_title_hint">Вы можете отправить эти команды для дистанционного управления вашим потерянным телефоном через любой телефон</string>
     <string name="prompt_input_phone_number">Введите номер потерянного телефона</string>
     <string name="prompt_input_password_lost">Введите пароль</string>
@@ -57,7 +57,7 @@
     <string name="prompt_select_commands">Выберите команды удаленного управления</string>
     <string name="title_have_turned_on">Антивор включен</string>
     <string name="pref_sim_lock">pref_sim_lock</string>
-    <string name="pref_sim_lock_title">блокировать телефон после смены SIM</string>
+    <string name="pref_sim_lock_title">Блок. смену SIM</string>
     <string name="pref_password">pref_password</string>
     <string name="pref_password_title">Пароль</string>
     <string name="pref_security_number">pref_security_number</string>
@@ -65,7 +65,7 @@
     <string name="save">Сохранить</string>
     <string name="dialog_security_number_title">Установить секретный телефонный номер</string>
     <string name="dialog_security_number">Секретный телефонный номер</string>
-    <string name="dialog_security_number_hint">"Рекомендуется использовать номер близкого человека, как безопасный номер телефона, и он не может быть вашим номер"</string>
+    <string name="dialog_security_number_hint">"Рекомендуется использовать номер близкого человека, как безопасный номер телефона, и он не может быть вашим номером"</string>
     <string name="dialog_security_number_change"><u>Изменить</u></string>
     <string name="dialog_close_title">Закрыть антивор</string>
     <string name="dialog_close_message">Система закроет антивора</string>
@@ -91,10 +91,10 @@
     <string name="password_got">Успешно восстановлен пароль, и это %s</string>
     <string name="security_number_step_title">2.Номер секретного телефона</string>
     <string name="security_number_step_title_sub">Он используется для напоминания пароля, и управления потерянным телефоном.</string>
-    <string name="security_number_edit_hint">"Рекомендуется использовать номер близкого человека, как безопасный номер телефона, и он не может быть вашим номером."</string>
+    <string name="security_number_edit_hint">"Формат номера 79ххххххххх или 89ххххххххх. Рекомендуется использовать номер телефона близкого человека."</string>
     <string name="user_info_step_title">3.Срочное сообщение</string>
     <string name="user_info_step_title_sub">Посылает сообщение на секретный телефон в случае смены SIM.</string>
-    <string name="user_info_inner_hint1">Я</string>
+    <string name="user_info_inner_hint1">Я </string>
     <string name="user_info_inner_hint2">Это сообщение предупредит вас, если ваш телефон украден.</string>
     <string name="complete_step_title">Закончить настройки антивора</string>
     <string name="complete_step_title_sub">Поздравялем, антивор запущен!</string>
@@ -109,9 +109,11 @@
     <string name="tips4_get_password_failed">Номер вашего секретного телефона неверен, невозможно запросить пароль.</string>
     <string name="tips4_password_error">Неправильный пароль, попробуйте еще раз.</string>
     <string name="tecent">Техническая поддержка Tencent mobile phone housekeeping</string>
-    <string name="all_commands_hint">"I'm using anti-theft function, please help me save romote control commands,#QQDeleteAll#password delete data，#QQLock#password lock phone，#QQLocate#password locate phone，#QQPIN#secure phone number find back password"</string>
+    <string name="all_commands_hint">"Я использую Антивор, пожалуйста, сохраните для меня команды #QQDeleteAll#password удаление данных，#QQLock#password блокировка телефона，#QQLocate#password местоположение，#QQPIN#secure phone number выслать пароль"</string>
     <string name="input_antitheft_password">Пожалуйста, введите пароль</string>
     <string name="prompt_insert_sim">Установите SIM карту</string>
     <string name="command_not_none">Команда не может быть пустой</string>
     <string name="prompt_user_info_hint">Введите ваше имя</string>
+    <string name="prompt_close_guide">Вы точно хотите выйти из помощника?</string>
+    <string name="pref_antitheft_on_title">Включить Антивор</string>
 </resources>
