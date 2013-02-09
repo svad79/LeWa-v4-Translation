@@ -835,7 +835,7 @@ Unicom
     <string name="wifi_state_unknown">Неизвестно</string>
     <string name="wifi_config_info">Wi-Fi настройки</string>
     <string name="config_list_label">Настроенные сети</string>
-    <string name="display_settings_title">Экран</string>
+    <string name="display_settings_title">Настройки экрана</string>
     <string name="dock_settings">Док-станция</string>
     <string name="dock_settings_title">Настройки док-станции</string>
     <string name="dock_audio_settings_title">Аудио</string>
@@ -851,7 +851,7 @@ Unicom
     <string name="sync_settings">Аккаунты и синхронизация</string>
     <string name="search_settings">Поиск</string>
     <string name="search_settings_summary">Управление параметрами поиска и историей</string>
-    <string name="display_settings">Настройки экрана</string>
+    <string name="display_settings">Экран</string>
     <string name="accelerometer_title">Автоповорот экрана</string>
     <string name="accelerometer_summary_on">Автоматически менять ориентацию экрана при повороте телефона</string>
     <string name="accelerometer_summary_off">Автоматически менять ориентацию экрана при повороте телефона</string>

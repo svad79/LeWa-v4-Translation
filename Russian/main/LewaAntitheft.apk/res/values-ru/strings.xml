@@ -38,7 +38,7 @@
     <string name="remote_delete_data_hint">Посылка этой команды на телефон удалит все данные, включая контакты, сообщения, историю звонков</string>
     <string name="remote_delete_data_hint_sub">Примечание: данные телефона нельзя восстановить после удаления.</string>
     <string name="remote_retrieve_password_title">Вы выбрали изменение пароля</string>
-    <string name="remote_retrieve_password_hint">Посылка этой команды на телефон измент пароль.</string>
+    <string name="remote_retrieve_password_hint">Посылка этой команды на телефон изменит пароль.</string>
     <string name="remote_retrieve_password_hint_sub" />
     <string name="command_title">Вы можете отправить эти команды для вашего потерянного телефона через любой телефон:</string>
     <string name="command_lock_phone">Заблокировать телефон и сделать снимок</string>
@@ -46,9 +46,9 @@
     <string name="command_lock_phone_hint_sub">\#QQLock#Password</string>
     <string name="command_get_location">Местоположение</string>
     <string name="command_get_location_hint_sub">\#QQLocation#Phone</string>
-    <string name="command_delete_data">Удал. данных</string>
+    <string name="command_delete_data">Данные (удал.)</string>
     <string name="command_delete_data_hint_sub">\#QQDeleteAll#Password</string>
-    <string name="command_retrieve_password">Изм. пароль</string>
+    <string name="command_retrieve_password">Пароль (изм.)</string>
     <string name="command_retrieve_password_hint_sub">\#QQPIN#Секретный номер телефона</string>
     <string name="command_title_hint">Вы можете отправить эти команды для дистанционного управления вашим потерянным телефоном через любой телефон</string>
     <string name="prompt_input_phone_number">Введите номер потерянного телефона</string>
