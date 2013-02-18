@@ -9,7 +9,7 @@
         <item>Вращение вниз</item>
         <item>Куб (+)</item>
         <item>Куб (-)</item>
-        <item>Стек (хз)</item>
+        <item>Стек</item>
     </string-array>
     <string-array name="preferences_interface_drawer_scrolling_transition_effect_entries">
         <item>Стандарт</item>
@@ -20,6 +20,6 @@
         <item>Вращение вниз</item>
         <item>Куб (+)</item>
         <item>Куб (-)</item>
-        <item>Стек (хз)</item>
+        <item>Стек</item>
     </string-array>
 </resources>

@@ -88,7 +88,7 @@
     <string name="menu_preview">Предварительный просмотр</string>
     <string name="menu_edit">Виджеты</string>
     <string name="menu_lewapond">LeWa акаунт</string>
-    <string name="menu_desktop_settings">Настройки экрана Home</string>
+    <string name="menu_desktop_settings">Настройки лаунчера</string>
     <string name="pref_desktop_effect">Эффект анимации рабочего стола</string>
     <string name="pref_desktop_effect_summary">Эфекты при перемещении рабочих столов</string>
     <string name="pref_title_screen_loop">Прокрутка по кругу</string>
@@ -105,9 +105,9 @@
     <string name="pref_summary_resetlauncher">Востановить по умолчанию</string>
     <string name="message_resetlauncher">Сбросить все иконки, виджеты и положение экрана.</string>
     <string name="pref_label_settings">Настройки рабочего стола</string>
-    <string name="pref_title_resethotseats">Сброс по умолчанию</string>
-    <string name="pref_summary_resethotseats">Сброс настроек по умолчанию.</string>	
-    <string name="message_resethotseats">Сбросить настройки по умолчанию?</string>
+    <string name="pref_title_resethotseats">Сброс Hotseats по умолчанию</string>
+    <string name="pref_summary_resethotseats">Сброс Hotseats.</string>	
+    <string name="message_resethotseats">Сбросить Hotseats по умолчанию?</string>
     <string name="add_to_desktop_error">Ошибка добавления или перемещения на рабочий стол</string>
     <string name="folder_full_hint">Эта папка заполнена.</string>
     <string name="drawer_title">Список приложений</string>
