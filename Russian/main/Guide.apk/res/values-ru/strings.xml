@@ -115,7 +115,7 @@
     <string name="explain_music_5">Встряхните свой телефон для перехода к следующей песне, для этого установите переключатель “Встряхнуть, чтобы пропустить” в настройках.</string>
     <string name="explain_music_6">Большой выбор музыки доступен в сети, для этого нажмите “Музыка онлайн” в проигрывателе.</string>
     <string name="explain_music_7">Долгое нажатие на клавиши громкости позволит переключать песни после выключение экрана, включите эту опцию в настройках.</string>
-    <string name="title_mobile_security_1">Антивор (не для России)</string>
+    <string name="title_mobile_security_1">Антивор</string>
     <string name="title_mobile_security_2">Установка пароля</string>
     <string name="title_mobile_security_3">Секретный номер</string>
     <string name="title_mobile_security_4">Срочное сообщение</string>

@@ -172,14 +172,10 @@
     <string name="shake_degree_key">shakedegree</string>
     <string name="setting_fade_key">isfade</string>
     <string name="shake_degree_gentle">Слабее</string>
-    <string name="shake_degree_easy" />
-    <string name="shake_degree_common" />
-    <string name="shake_degree_excited" />
     <string name="shake_degree_force">Сильнее</string>
     <string name="id3_lable">Редактирование ID3 песни</string>
     <string name="setting_show_spectrum">Показать спектр</string>
     <string name="setting_show_spectrum_summary">Показать ритм музыки, закрытие повысит производительность</string>
-    <string name="setting_show_spectrum_key">isShowSpectrum</string>
     <string name="more">Больше</string>
     <string name="id3_empty">пустой</string>
     <string name="click_to_shuffle">Случайное воспроизведение</string>
@@ -195,8 +191,6 @@
     <string name="title_artist_album">Альбомы</string>
     <string name="title_artist_info">Подробности</string>
     <string name="eq_setting">Эквалайзер</string>
-    <string name="artist_blank">   </string>
-    <string name="title_blank">   </string>
     <string name="music_exit">Выход</string>
     <string name="download_menu">Получить изображения</string>
     <string name="downloading">Загрузка     </string>
