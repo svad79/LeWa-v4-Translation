@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string name="camera_error_title">Невозможно сохранить изображение</string>
     <string name="cannot_connect_camera">Ошибка камеры.</string>
     <string name="camera_disabled">Невозможно подключиться к камере.</string>
@@ -22,9 +22,11 @@
     <string name="switch_camera_id">Переключить камеру</string>
     <string name="time_lapse_title">Режим замедленной съемки</string>
     <string name="pref_camera_id_title">Выберите камеру</string>
+    <string name="pref_camera_id_default">0</string>
     <string name="pref_camera_id_entry_back">Задняя</string>
     <string name="pref_camera_id_entry_front">Передняя</string>
     <string name="pref_camera_recordlocation_title">Геотеги</string>
+    <string name="pref_camera_recordlocation_default">none</string>
     <string name="pref_camera_recordlocation_entry_off">Выкл.</string>
     <string name="pref_camera_recordlocation_entry_on">Вкл.</string>
     <string name="pref_video_quality_title">Качество видео</string>
@@ -47,12 +49,17 @@
     <string name="pref_video_time_lapse_frame_interval_entry_10000">10с</string>
     <string name="pref_camera_settings_category">Настройки камеры</string>
     <string name="pref_camcorder_settings_category">Настройки видеокамеры</string>
-	<string name="pref_camera_mute_shutter_title">Выключить звук затвора</string>
+    <string name="pref_camera_mute_shutter_title">Выключить звук затвора</string>
+    <string name="pref_camera_mute_shutter_default">off</string>
     <string name="pref_camera_power_shutter_title">Долгое нажатие кнопки Питания фото</string>
+    <string name="pref_camera_power_shutter_default">off</string>
     <string name="pref_camera_volume_zoom_title">Зум громкостью</string>
+    <string name="pref_camera_volume_zoom_default">off</string>
     <string name="pref_camera_focus_sound_title">Звук фокуса</string>
+    <string name="pref_camera_focus_sound_default">on</string>
     <string name="pref_camera_picturesize_title">Размер фото</string>
-    <string name="pref_camera_picturesize_entry_3264x2448">8 Мпикс</string>
+    <string name="pref_camera_picturesize_entry_4000x3000">12 Мпикс.</string>
+    <string name="pref_camera_picturesize_entry_3264x2448">8 Мпикс.</string>
     <string name="pref_camera_picturesize_entry_2592x1936">5 Мпикс.</string>
     <string name="pref_camera_picturesize_entry_2048x1536">3 Мпикс.</string>
     <string name="pref_camera_picturesize_entry_1600x1200">2 Мпикс.</string>
@@ -60,19 +67,26 @@
     <string name="pref_camera_picturesize_entry_1024x768">1 Мпикс.</string>
     <string name="pref_camera_picturesize_entry_640x480">VGA</string>
     <string name="pref_camera_picturesize_entry_320x240">QVGA</string>
+    <string name="pref_camera_jpegquality_default">superfine</string>
+    <string name="pref_camera_jpegquality_title">Качество фото</string>
+    <string name="pref_camera_jpegquality_entry_superfine">Супер</string>
+    <string name="pref_camera_jpegquality_entry_fine">Хорошее</string>
+    <string name="pref_camera_jpegquality_entry_normal">Нормальное</string>
+    <string name="pref_camera_jpegquality_entry_middle">Среднее</string>
+    <string name="pref_camera_jpegquality_entry_low">Низкое</string>
     <string name="pref_camera_focusmode_default">continuous-picture</string>
     <string name="pref_camera_focusmode_title">Режим фокусировки</string>
     <string name="pref_camera_focusmode_entry_auto">Авто</string>
     <string name="pref_camera_focusmode_entry_infinity">Бесконечность</string>
     <string name="pref_camera_focusmode_entry_macro">Макро</string>
-    <string name="pref_camera_flashmode_default">Авто</string>
+    <string name="pref_camera_flashmode_default">auto</string>
     <string name="pref_camera_flashmode_no_flash">no_flash</string>
     <string name="pref_camera_flashmode_title">Режим вспышки</string>
     <string name="pref_camera_flashmode_entry_auto">Авто</string>
-    <string name="pref_camera_flashmode_entry_on">----------------</string>
+    <string name="pref_camera_flashmode_entry_on">Вкл.</string>
     <string name="pref_camera_flashmode_entry_off">Выкл.</string>
-    <string name="pref_camera_video_flashmode_default">Выкл.</string>
-    <string name="pref_camera_whitebalance_default">Авто</string>
+    <string name="pref_camera_video_flashmode_default">off</string>
+    <string name="pref_camera_whitebalance_default">auto</string>
     <string name="pref_camera_whitebalance_title">Баланс белого</string>
     <string name="pref_camera_whitebalance_entry_auto">Авто</string>
     <string name="pref_camera_whitebalance_entry_incandescent">Лампа накаливания</string>
@@ -83,11 +97,11 @@
     <string name="pref_camera_whitebalance_entry_shade">Затенение</string>
     <string name="pref_camera_whitebalance_entry_warm_fluorescent">Люмин. осв. (тепл.)</string>
     <string name="pref_camera_whitebalance_entry_tungsten">Лампа накаливания</string>
-    <string name="pref_camera_scenemode_default">Авто</string>
+    <string name="pref_camera_scenemode_default">auto</string>
     <string name="pref_camera_scenemode_title">Режим съемки</string>
     <string name="pref_camera_scenemode_entry_auto">Авто</string>
     <string name="pref_camera_scenemode_entry_action">Действие</string>
-    <string name="pref_camera_scenemode_entry_night_portrait">Ночной портрет</string>
+    <string name="pref_camera_scenemode_entry_night">Ночь</string>
     <string name="pref_camera_scenemode_entry_sunset">Закат</string>
     <string name="pref_camera_scenemode_entry_party">Вечеринка</string>
     <string name="not_selectable_in_scene_mode">Недоступно в режиме съемки</string>
@@ -95,11 +109,11 @@
     <string name="pref_restore_detail">Восстановить настройки по умолчанию</string>
     <string name="pref_exposure_title">Экспозиция</string>
     <string name="pref_exposure_default">0</string>
-    <string name="dialog_ok">ОК</string>
-    <string name="spaceIsLow_content">Место на вашей SD-карте заканчивается. Измените настройки качества или удалите ненужные изображения и другие файлы.</string>
-    <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
-    <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
-    <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
+    <string name="dialog_ok">OK</string>
+    <string name="spaceIsLow_content">Место на вашей SD-карте заканчивается. Измените настройки качества или удалите ненужные файлы.</string>
+    <string name="image_file_name_format">"'Фото'_ddMMyyyy_HHmmss"</string>
+    <string name="video_file_name_format">"'Видео'_ddMMyyyy_HHmmss"</string>
+    <string name="pano_file_name_format">"'Панорама'_ddMMyyyy_HHmmss"</string>
     <string name="video_reach_size_limit">Достигнут предельный размер видео.</string>
     <string name="switch_to_camera_label">Переключиться на камеру</string>
     <string name="switch_to_video_label">Переключить на видео</string>
@@ -180,7 +194,7 @@
     <string name="pref_camera_exposuremeter_entry_center">Центр</string>
     <string name="pref_camera_exposuremeter_entry_spot">Точечный</string>
     <string name="pref_camera_exposuremeter_entry_average">Усредненный</string>
-    <string name="pref_camera_focusmeter_default">Точечный</string>
+    <string name="pref_camera_focusmeter_default">spot</string>
     <string name="pref_camera_focusmeter_title">Фокусировка</string>
     <string name="pref_camera_focusmeter_dialogtitle">Фокусировка</string>
     <string name="pref_camera_focusmeter_entry_spot">Одна зона</string>
@@ -190,6 +204,7 @@
     <string name="pref_camera_edge_title">Резкость</string>
     <string name="pref_camera_hue_default">middle</string>
     <string name="pref_camera_hue_title">Оттенок</string>
+    <string name="pref_camera_saturation_default">middle</string>
     <string name="pref_camera_saturation_title">Насыщенность</string>
     <string name="pref_camera_brightness_default">middle</string>
     <string name="pref_camera_brightness_title">Яркость</string>
@@ -232,7 +247,7 @@
     <string name="pref_camera_antibanding_entry_60hz">60 Гц</string>
     <string name="pref_camera_scenemode_entry_portrait">Портрет</string>
     <string name="pref_camera_scenemode_entry_landscape">Пейзаж</string>
-    <string name="pref_camera_scenemode_entry_night">Ночь</string>
+    <string name="pref_camera_scenemode_entry_night_portrait">Ночной портрет</string>
     <string name="pref_camera_scenemode_entry_theatre">Театр</string>
     <string name="pref_camera_scenemode_entry_beach">Пляж</string>
     <string name="pref_camera_scenemode_entry_snow">Снег</string>
@@ -266,4 +281,15 @@
     <string name="capture_memory_not_enough">Недостаточно памяти, закройте другие приложения.</string>
     <string name="mav_dialog_save_failed">Не удалось сохранить изображение.</string>
     <string name="savingvideo">Сохранение видео…</string>
+    <string name="video_hd_recording_default">normal</string>
+    <string name="pref_camera_video_hd_recording_title">Аудио режим</string>
+    <string name="pref_camera_video_hd_recording_normal">normal</string>
+    <string name="pref_camera_video_hd_recording_indoor">indoor</string>
+    <string name="pref_camera_video_hd_recording_normal_ics">Общий</string>
+    <string name="pref_camera_video_hd_recording_indoor_ics">Встреча</string>
+    <string name="video_live_effect_error">Ошибка в процессе записи!</string>
+    <string name="pref_camera_zsd_title">ZSD</string>
+    <string name="pref_camera_zsd_default">off</string>
+    <string name="camera_saving_busy">Сохранение фото…</string>
+    <string name="video_encoder_error">Ошибка конвертера!</string>
 </resources>
