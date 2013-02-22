@@ -84,8 +84,8 @@
     <string name="oper_short_46003">China Telecom</string>
     <string name="VideoView_error_text_invalid_connection">Ошибка соединения. (403 Запрет)</string>
     <string name="wikiPediaName">wikipedia</string>
-    <string name="redo">Повторить</string>
-    <string name="undo">Отменить</string>
+    <string name="redo">Повтор</string>
+    <string name="undo">Отмена</string>
     <string name="undoAll">Отменить все</string>
     <string name="new_sim">Новая SIM</string>
     <string name="edit">Редактировать</string>
