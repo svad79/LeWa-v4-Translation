@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
-    <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
-    <string name="config_systemBarComponent">com.android.systemui.statusbar.tablet.TabletStatusBar</string>
-    <string name="status_bar_date_formatter">%2$s</string>
+<resources>
     <string name="gemini_default_sim_always_ask">Всегда спрашивать</string>
     <string name="app_label">Графический интерфейс системы</string>
     <string name="status_bar_clear_all_button">Очистить</string>
@@ -28,10 +25,6 @@
     <string name="status_bar_settings_mute_label">ВЫКЛ.</string>
     <string name="status_bar_settings_auto_brightness_label">АВТО</string>
     <string name="status_bar_settings_notifications">Уведомления</string>
-    <string name="status_bar_settings_battery_meter_format">%d%%</string>
-    <string name="status_bar_settings_battery_meter_min_format">%d</string>
-    <string name="status_bar_network_name_separator">"
-"</string>
     <string name="bluetooth_tethered">Общий модем доступен через Bluetooth</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Настройка способов ввода</string>
     <string name="status_bar_use_physical_keyboard">Использовать физическую клавиатуру</string>
@@ -128,7 +121,6 @@
     <string name="start_from">Начинать с %1$s каждого месяца</string>
     <string name="start_from_1">Начинать с 1го каждого месяца</string>
     <string name="sms_query">SMS запрос</string>
-    <string name="sms_number">10086</string>
     <string name="clear_history">Очистить историю</string>
     <string name="verify_data">Использовано трафика</string>
     <string name="verify_data_by">Проверка данных по телефону или sms</string>
@@ -206,7 +198,6 @@
     <string name="month_save">Месяц:</string>
     <string name="upload">Отдано</string>
     <string name="download">Скачано</string>
-    <string name="nodata">0</string>
     <string name="memory_protect">Исключения при очистке</string>
     <string name="networkmode1">2G/3G</string>
     <string name="datamonitor_exceed">Превышен лимит трафика</string>
@@ -330,5 +321,4 @@
     <string name="title_toggle_gemini_data">Инет SIM 1/2</string>
     <string name="recent_meminfo">%1$dM/%2$dM</string>
     <string name="recent_noapp">Нет запущенных приложений</string>
-    <item type="string" name="BART_DUMMY_0149">false</item>
 </resources>

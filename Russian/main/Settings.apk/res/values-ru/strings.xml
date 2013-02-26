@@ -1,29 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
-    <string name="additional_system_update" />
-    <string name="additional_system_update_menu" />
-    <string name="input_method_selector_show_automatically_value">0</string>
-    <string name="input_method_selector_always_show_value">1</string>
-    <string name="input_method_selector_always_hide_value">2</string>
-    <string name="input_method_selector_visibility_default_value">0</string>
-    <string name="sim_china_mobile">CMCC</string>
-    <string name="sim_china_telecom">CTCC</string>
-    <string name="sim_china_unicom">CUCC</string>
-    <string name="guide_sim_china_mobile">"China
-Mobile
-
- GSM
-"</string>
-    <string name="guide_sim_china_telecom">"China
-Telecom
-
- CDMA
-"</string>
-    <string name="guide_sim_china_unicom">"China
-Unicom
-
- WCDMA
-"</string>
+<resources>
     <string name="proximity_title">Калибровка датчика приближения</string>
     <string name="proximity_dialog_title">Калибровка</string>
     <string name="proximity_summary">Обратите внимание на то, что датчик не может быть заблокирован в пределах более 20 см. И следует избегать прямых солнечных лучей!</string>
@@ -54,7 +30,7 @@ Unicom
     <string name="settings_title">ВСЕ НАСТРОЙКИ</string>
     <string name="custom_frequent_foot_btn_text">Изменить....</string>
     <string name="frequent_settings_notice_title">Скрыть настройки ниже</string>
-    <string name="status_bar_title">Строка уведомлений</string>
+    <string name="status_bar_title">Статусбар</string>
     <string name="custom_frequently_title">Изменить пункты настроек</string>
     <string name="ringvolume_vibrate_title">Рингтоны и вибрации</string>
     <string name="audio_sound_title">Звук</string>
@@ -73,15 +49,15 @@ Unicom
     <string name="autostarts_optimize_btn_title">Оптимизация элементов автозагрузки</string>
     <string name="autostarts_startup_boot_des">Во время загрузки</string>
     <string name="autostarts_startup_background_des">После загрузки</string>
-    <string name="sdcard_storage_title">SD карта</string>
-    <string name="usb_storage_title">USB хранилище</string>
-    <string name="internal_storage_title">Внутренняя память</string>
+    <string name="sdcard_storage_title">SD-карта</string>
+    <string name="usb_storage_title">Внутреннее хранилище</string>
+    <string name="internal_storage_title">Системная память</string>
     <string name="sdcardclean_title">Очистить SD-карту</string>
-    <string name="usbclean_title">Очистить USB хранилище</string>
-    <string name="internalclean_title">Очистить внутреннюю память</string>
+    <string name="usbclean_title">Очистить внутренее хранилище</string>
+    <string name="internalclean_title">Очистить системную память</string>
     <string name="memory_others">Другие</string>
-    <string name="calculate_size">Calculating to clean up space ...</string>
-    <string name="clean_size">Подсчет очищаемого места...</string>
+    <string name="calculate_size">Анализ хранилища для очистки ...</string>
+    <string name="clean_size">Очищаемое пространство...</string>
     <string name="calculate_size_result">Выбрано %s очищаемых приложений</string>
     <string name="clean_all_storage">Очистить все</string>
     <string name="clean_add_msg">Очистить</string>
@@ -121,7 +97,7 @@ Unicom
     <string name="clean_log_summary">Журнал:</string>
     <string name="clean_system_cache_file">Системный кэш:</string>
     <string name="clean_calculate_complete_result">%1$s свободного пространства после очистки ожидается %2$s</string>
-    <string name="storage_install_app_sdcard_summary">(Некоторые приложения не поддерживают)</string>
+    <string name="storage_install_app_sdcard_summary"> (Некоторые приложения не поддерживают)</string>
     <string name="gsm_umts_network_preferences_default_values">0</string>
     <string name="notify_dialog_message">Требуется перезагрузка, чтобы изменения вступили в силу. Перезагрузить сейчас?</string>
     <string name="sim_setting_guide_continue">Вперед</string>
@@ -146,10 +122,12 @@ Unicom
     <string name="volume_key_title">Кнопка громкости</string>
     <string name="volume_wake_title">Громкость звонка</string>
     <string name="volume_wake_summary">Если ваш телефон выключен, то нажатие клавиши громкости включит экран.</string>
-    <string name="volume_music_controls_title">Управление музыкой при выключенном экране</string>
+    <string name="volume_music_controls_title">Управл. музыкой 
+при выкл. экране</string>
     <string name="volume_music_controls_summary">Длительное нажатие кнопки громкости пропускает треки, когда экран выключен. Громкость звонка не будет регулироваться, когда играет музыка.</string>
     <string name="back_key_title">Кнопка Назад</string>
-    <string name="back_to_kill_title">Кнопка Назад завершит задачу</string>
+    <string name="back_to_kill_title">Кнопка Назад завершит 
+задачу</string>
     <string name="back_to_kill_summary">Удерживание кнопки Назад завершит текущую задачу</string>
     <string name="phone_inUse">Телефон используется, вы не можете переключиться на Авиарежим</string>
     <string name="voice_call_alarm_description">Вызов(Голосовой вызов)</string>
@@ -174,7 +152,7 @@ Unicom
     <string name="gemini_default_sim_title">SIM-карта по умолчанию</string>
     <string name="gemini_general_settings_title">Общие настройки</string>
     <string name="gemini_roaming_settings_title">Роуминг</string>
-    <string name="gemini_data_roaming_title">Передачи данных в роуминге</string>
+    <string name="gemini_data_roaming_title">Передача данных в роуминге</string>
     <string name="gemini_data_roaming_summary">Подключать услугу передачи данных в роуминге</string>
     <string name="gemini_roaming_reminder_title">Показывать напоминание о роуминге</string>
     <string name="gemini_roaming_reminder_summary">Предлагать SIM-карту в зависимости от использования SIM-карты</string>
@@ -208,11 +186,11 @@ Unicom
     <string name="gemini_data_connection_progress_message">Подождите...</string>
     <string name="gemini_3g_modem_switching_message">Переключение SIM-карты займет около 10 секунд. Подождите...</string>
     <string name="gemini_3g_modem_switch_confirm_message">К этой SIM-карте будут также подключены услуги 3G. Продолжить? Убедитесь, что выбранная SIM-карта поддерживает услуги 3G.</string>
-    <string name="gemini_3g_disable_warning_case0">Для данной SIM-карты сначала следует включить роуминг данных, что может повлечь значительное повышение стоимости передачи данных! Включить режим роуминга и выбрать данную SIM-карту?</string>
+    <string name="gemini_3g_disable_warning_case0">Для данной SIM-карты сначала необходимо включить передачу данных в роуминге, что может повлечь значительное повышение стоимости передачи данных! Включить режим роуминга и выбрать данную SIM-карту?</string>
     <string name="gemini_3g_disable_warning_case1">Для выбранной SIM-карты функция 3G не доступна. Это может снизить скорость передачи данных. Чтобы изменить настройку функции 3D, выберите пункты меню: Настройка > Беспроводные и другие сети >Мобильные сети. Вы действительно хотите выбрать эту SIM-карту?</string>
     <string name="gemini_3g_disable_warning_case2">Для выбранной SIM-карты функция 3G не доступна. Это может снизить скорость передачи данных. Чтобы изменить настройку функции 3D, выберите пункты меню: Настройка > Беспроводные и другие сети > Мобильные сети. Вы действительно хотите выбрать эту SIM-карту?</string>
-    <string name="gemini_3g_disable_warning_case3">Для данной SIM-карты сначала необходимо включить роуминг данных, чтобы не допустить значительных расходов, связанных с роумингом. Кроме того, функция 3G не доступна для этой SIM-карты. Это может снизить скорость передачи данных. Чтобы изменить настройку, выберите пункты меню: Настройка >Беспроводные и другие сети > Мобильные сети. Вы действительно хотите включить роуминг данных и выбрать эту SIM-карту?</string>
-    <string name="gemini_3g_disable_warning_case4">Для данной SIM-карты сначала необходимо включить роуминг данных, чтобы не допустить значительных расходов, связанных с роумингом. Кроме того, функция 3G не доступна для этой SIM-карты. Это может снизить скорость передачи данных. Чтобы изменить настройку, выберите пункты меню: Настройка > Управление SIM-картой. Вы действительно хотите включить роуминг данных и выбрать эту SIM-карту?</string>
+    <string name="gemini_3g_disable_warning_case3">Для данной SIM-карты сначала необходимо включить передачу данных в роуминге, чтобы не допустить значительных расходов, связанных с роумингом. Кроме того, функция 3G не доступна для этой SIM-карты. Это может снизить скорость передачи данных. Чтобы изменить настройку, выберите пункты меню: Настройка >Беспроводные и другие сети > Мобильные сети. Вы действительно хотите включить передачу данных в роуминге и выбрать эту SIM-карту?</string>
+    <string name="gemini_3g_disable_warning_case4">Для данной SIM-карты сначала необходимо включить передачу данных в роуминге, чтобы не допустить значительных расходов, связанных с роумингом. Кроме того, функция 3G не доступна для этой SIM-карты. Это может снизить скорость передачи данных. Чтобы изменить настройку, выберите пункты меню: Настройка > Управление SIM-картой. Вы действительно хотите включить передачу данных в роуминге и выбрать эту SIM-карту?</string>
     <string name="data_connection_title">SIM-карта для передачи данных</string>
     <string name="data_connection_summary">Установить SIM-карту для передачи данных</string>
     <string name="data_connection_sim1_entry">SIM1</string>
@@ -342,7 +320,7 @@ Unicom
     <string name="bluetooth_not_visible_to_other_devices">Невидимый для других устройств Bluetooth</string>
     <string name="bluetooth_only_visible_to_paired_devices">Видимый только для сопряженных устройств</string>
     <string name="bluetooth_not_discoverable">Разрешить обнаружение устройства</string>
-    <string name="bluetooth_visibility_timeout">Время ожидания видимости вышло</string>
+    <string name="bluetooth_visibility_timeout">Тайм-аут видимости</string>
     <string name="bluetooth_visibility_timeout_summary">Установка продолжительности периода разрешения обнаружения</string>
     <string name="bluetooth_lock_voice_dialing">Блокировать голосовой набор</string>
     <string name="bluetooth_lock_voice_dialing_summary">Предотвращение использования набора по bluetooth при заблокированном экране</string>
@@ -350,11 +328,11 @@ Unicom
     <string name="bluetooth_device_name">Имя устройства</string>
     <string name="bluetooth_name_not_set">Нет заданного имени, используется имя учетной записи</string>
     <string name="bluetooth_scan_for_devices">Поиск устройств</string>
-    <string name="bluetooth_rename_device">Переименовать телефон</string>
+    <string name="bluetooth_rename_device">Имя устройства</string>
     <string name="bluetooth_rename_button">Переименовать</string>
     <string name="bluetooth_disconnect_title">Отсоединить?</string>
     <string name="bluetooth_disconnect_all_profiles">Будет выполнено отключение от:&lt;br>&lt;b>%1$s&lt;/b></string>
-    <string name="bluetooth_disable_profile_title">Выключить профиль?</string>
+    <string name="bluetooth_disable_profile_title">Отключить профиль?</string>
     <string name="bluetooth_disable_profile_message">Будет отключен:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>From:&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_connected">Подключено</string>
     <string name="bluetooth_connected_no_headset">Подключено (нет телефона)</string>
@@ -521,7 +499,7 @@ Unicom
     <string name="owner_info_settings_title">Информация о владельце</string>
     <string name="owner_info_settings_summary" />
     <string name="owner_info_settings_edit_text_hint">Введите текст для показа на экране блокировки</string>
-    <string name="location_settings_title">Настройки GPS</string>
+    <string name="location_settings_title">Местоположение</string>
     <string name="security_settings_title">Безопасность</string>
     <string name="security_settings_summary">Установка Мое местоположение, разблокирование экрана, блокировки SIM-карты, блокировка хранилища сертификатов</string>
     <string name="cdma_security_settings_summary">Установка Мое местоположение, разблокирование экрана, блокировка хранилища сертификатов</string>
@@ -835,7 +813,7 @@ Unicom
     <string name="wifi_state_unknown">Неизвестно</string>
     <string name="wifi_config_info">Wi-Fi настройки</string>
     <string name="config_list_label">Настроенные сети</string>
-    <string name="display_settings_title">Настройки экрана</string>
+    <string name="display_settings_title">Экран</string>
     <string name="dock_settings">Док-станция</string>
     <string name="dock_settings_title">Настройки док-станции</string>
     <string name="dock_audio_settings_title">Аудио</string>
@@ -932,7 +910,7 @@ Unicom
     <string name="status_unavailable">Недоступно</string>
     <string name="status_up_time">Время работы</string>
     <string name="status_awake_time">Время активной загрузки процессора</string>
-    <string name="internal_memory">Внутренняя память</string>
+    <string name="internal_memory">Внутреннее хранилище</string>
     <string name="sd_memory">SD-карта</string>
     <string name="memory_available">Доступно</string>
     <string name="memory_size">Общий объём</string>
@@ -1022,7 +1000,7 @@ Unicom
     <string name="restore_default_apn_completed">Сброс с восстановлением стандартным параметрам APN выполнен.</string>
     <string name="master_clear_title">Сброс с восстановлением заводских настроек</string>
     <string name="master_clear_summary">Возврат к заводским настройкам и удаление всех данных из памяти телефона</string>
-    <string name="master_clear_desc">"Будут удалены все сведения из  "<b>внутреннего хранилища</b>" устройства, в том числе:
+    <string name="master_clear_desc">"Будут удалены все данные из "<b>внутреннего хранилища</b>" устройства, в том числе:
 
  "<li>ваш аккаунт Google;</li>"
  "<li>все данные и настройки (системы и приложений);</li>"
@@ -1174,9 +1152,9 @@ Unicom
     <string name="force_stop">Принудительная остановка</string>
     <string name="total_size_label">Всего</string>
     <string name="application_size_label">Приложение</string>
-    <string name="external_code_size_label">Приложение на USB-накопителе</string>
+    <string name="external_code_size_label">Приложение на SD</string>
     <string name="data_size_label">Данные</string>
-    <string name="external_data_size_label">SD-карта</string>
+    <string name="external_data_size_label">Данные на SD</string>
     <string name="uninstall_text">Удалить</string>
     <string name="disable_text">Отключить</string>
     <string name="enable_text">Включить</string>
@@ -1747,7 +1725,7 @@ Unicom
     <string name="vpn_type">Тип</string>
     <string name="vpn_server">Адрес сервера</string>
     <string name="vpn_mppe">PPP-шифрование (MPPE)</string>
-    <string name="vpn_l2tp_secret">Секрет L2TP</string>
+    <string name="vpn_l2tp_secret">L2TP secret</string>
     <string name="vpn_ipsec_identifier">Идентификатор IPSec</string>
     <string name="vpn_ipsec_secret">Предварительный ключ IPSec</string>
     <string name="vpn_ipsec_user_cert">Сертификат пользователя IPSec</string>
@@ -1755,8 +1733,8 @@ Unicom
     <string name="vpn_ipsec_server_cert">Сертификат сервера IPSec</string>
     <string name="vpn_show_options">Показать дополнительные параметры</string>
     <string name="vpn_search_domains">Поисковые домены DNS</string>
-    <string name="vpn_dns_servers">DNS-сервера (например, 8.8.8.8)</string>
-    <string name="vpn_routes">Маршруты перенап. (например, 10.0.0.0/8)</string>
+    <string name="vpn_dns_servers">DNS-сервера (например: 8.8.8.8)</string>
+    <string name="vpn_routes">Перенапр. маршрутов (например: 10.0.0.0/8)</string>
     <string name="vpn_username">Имя пользователя</string>
     <string name="vpn_password">Пароль</string>
     <string name="vpn_save_login">Сохранить сведения об учетной записи</string>
@@ -2122,9 +2100,6 @@ Unicom
     <string name="notify_duration_list_dialogTitle">Выбор продолжительности уведомления</string>
     <string name="verify_duration_list_title">Продолжительность проверки</string>
     <string name="verify_duration_list_dialogTitle">Выбор продолжительности проверки</string>
-    <string name="eCID_Enable_Title">Enchanced Cell ID</string>
-    <string name="eCID_enable_summary_on">Use Enchanced Cell ID method</string>
-    <string name="eCID_enable_summary_off">Use Cell ID method</string>
     <string name="drm_settings_title">Сброс DRM</string>
     <string name="drm_settings_summary">Удаление всех DRM-лицензий</string>
     <string name="drm_settings">Параметры DRM</string>
@@ -2135,7 +2110,6 @@ Unicom
     <string name="tvout_settings">TV выход</string>
     <string name="tvout_settings_summary">Настройки выхода на TV</string>
     <string name="tv_system_title">Система TV</string>
-    <string name="wifi_security_wapi_psk">WAPI PSK</string>
     <string name="wifi_security_wapi_certificate">WAPI Certificate</string>
     <string name="wapi_user_certificate">Сертификат пользователя</string>
     <string name="wapi_as_certificate">Сертификат ASE</string>
@@ -2149,26 +2123,19 @@ Unicom
     <string name="location_settings_label">Инженерный режим местоположения</string>
     <string name="NetworkLocationSettings">Параметры NetworkLocation</string>
     <string name="NetworkLocationSettings_title">Параметры Network Location (NetLoc)</string>
-    <string name="networklocation_bindservice">networklocation_bindservice</string>
     <string name="networklocation_bindservice_title">Служба NetLoc</string>
     <string name="networklocation_bindservice_summary">выберите поставщика услуг определения местоположения по сети</string>
     <string name="networklocation_bindservice_listtitle">Местоположение в сети</string>
-    <string name="networklocation_bindservice_entriesDefaultValues">com.google.android.location.NetworkLocationProvider</string>
-    <string name="geocoder_bindservice">geocoder_bindservice</string>
     <string name="geocoder_bindservice_title">Служба Geocoder</string>
     <string name="geocoder_bindservice_summary">выберите поставщика услуг геокодирования</string>
     <string name="geocoder_bindservice_listtitle">Geocoder</string>
-    <string name="geocoder_bindservice_entriesDefaultValues">com.google.android.location.GeocodeProvider</string>
-    <string name="networklocation_reportfrequency">networklocation_reportfrequency</string>
     <string name="networklocation_reportfrequency_title">Частота выдачи отчета</string>
     <string name="networklocation_reportfrequency_summary">частота определения местоположения: 10 секунд</string>
     <string name="networklocation_reportfrequency_listtitle">Список частот</string>
-    <string name="networklocation_reportfrequency_entriesDefaultValues">10</string>
     <string name="networklocation_autowifi_connection">networklocation_autowifi_connection</string>
     <string name="networklocation_autowifi_connection_title">Помощь определения местоположения по WiFi</string>
     <string name="networklocation_autowifi_connection_Summary_off">Нет помощи определения местоположения по WiFi</string>
     <string name="networklocation_autowifi_connection_Summary_on">Использование определения местоположения по WiFi для улучшения точности</string>
-    <string name="networklocation_testmodel">networklocation_testmodel</string>
     <string name="networklocation_testmodel_title">Проверка определения местоположения по сети</string>
     <string name="networklocation_testmodel_Summary_off">Отключено</string>
     <string name="networklocation_testmodel_Summary_on">Включено</string>
@@ -2181,20 +2148,12 @@ Unicom
     <string name="geo_reboot">служба геокодера будет использоваться после перезагрузки</string>
     <string name="geo_now">служба геокодера используется сейчас</string>
     <string name="update_frequency">Частота обновления местоположения по сети: %s с</string>
-    <string name="use_limit">use_limit</string>
     <string name="use_limit_title">Служба Mediatek Geocoding используется ограниченно</string>
     <string name="use_limit_sum">Перед использованием ознакомьтесь со сведениями об использовании лимита службой MediaTek Geocoding</string>
     <string name="use_limit_detail_title">Служба Mediatek Geocoding используется ограниченно</string>
     <string name="use_limit_detail_description">"Служба MediaTek Geocoding разработана компанией MediaTek на основе API Google Geocoding. Поэтому, для получения результата этому процессу требуется доступ к серверу Google Server (http://maps.google.com/maps/api/geocode/). Все приложения Android могут получить доступ к службе, обратившись по стандартному API системы Android. Geocoding API может использоваться только совместно со службой Google map; выдача результатов геодирования без отображения их на карте запрещена. Для получения всех сведений на разрешенное использование следует ознакомиться с Maps API Terms в ограниченной лицензии на использование службы. (http://code.google.com/intl/en/apis/maps/documentation/geocoding/).
  Использование API Google Geocoding подпадает под ограничение в не более 2500 геолокационных запросов в день. (Пользователи Google Maps API Premier могут выполнять до 100000 запросов в день.) Лимит установлен для предотвращения злоупотреблений и (или) нецелевого использования Geocoding API, этот лимит может быть изменен в будущем без предупреждения. Кроме того, Google установила предел частоты обработки запросов для предотвращения злоупотребления службой. В случае превышения суточного предела или иного злоупотребления службой, Geocoding API может временно прекратить работу. В случае продолжения выхода за предел ограничения, доступ пользователя к Geocoding API может быть блокирован.
  Пользователь согласен со своей единоличной ответственностью за (и с тем, что MediaTek не несет ответственности перед пользователем или третьими лицами) несоблюдение собой указанных выше условий или обязательств. Пользователь также согласен со снятием ответственности с компании MediaTek и со всех связанных с ней лиц за любые и все потери, повреждения, расходы или затраты, возникшие в результате или связанные с нарушением пользователем указанных выше условий или обязательств, установленных в настоящем документе."</string>
-    <string name="cell_query">cell_query</string>
-    <string name="cell_query_title">cell_query_title</string>
-    <string name="cell_query_sum">cell_query_sum</string>
-    <string name="cell_id_content">CELL_ID:</string>
-    <string name="lac_content">LAC:</string>
-    <string name="MNC_content">MNC:</string>
-    <string name="MCC_content">MCC:</string>
     <string name="Query_content">Запрос</string>
     <string name="QueryResult_content">Выполните ввод запроса</string>
     <string name="location_cellquery_label">Запрос местоположения по сотовой сети</string>
@@ -2330,14 +2289,13 @@ Unicom
     <string name="data_enabler_disable_timeout_message">Выключить ожидание передачи данных</string>
     <string name="wifi_security_cmcc">Безопасность</string>
     <string name="sim_slot">Гнездо SIM-карты</string>
-    <string name="eap_sim_slot_0">Гнездо SIM-карты 1</string>
-    <string name="eap_sim_slot_1">Гнездо SIM-карты 2</string>
+    <string name="eap_sim_slot_0">Слот SIM-карты 1</string>
+    <string name="eap_sim_slot_1">Слот SIM-карты 2</string>
     <string name="eap_sim_aka_airplanemode">Для использования EAP-SIM/AKA отключите режим «В самолете»</string>
     <string name="eap_sim_aka_no_sim_error">Для использования EAP-SIM/AKA следует установить SIM-карту</string>
     <string name="eap_sim_aka_no_sim_slot_selected">Для использования EAP-SIM/AKA следует выбрать гнездо SIM-карты</string>
     <string name="wifi_priority_changed" formatted="false">Старое значение приоритета=%s,новое значение=%s</string>
     <string name="wifi_network_netmask">Маска сети</string>
-    <string name="wifi_network_netmask_hint">255.255.255.0</string>
     <string name="confirm_title">ОК</string>
     <string name="wifi_ctia_test">CTIA Test Mode Setting</string>
     <string name="wifi_ctia_test_summary">CTIA Test Mode configuration</string>
@@ -2349,9 +2307,6 @@ Unicom
     <string name="ctia_flag">Программные флаги</string>
     <string name="ctia_interval">Период журнала счетчиков(сек)</string>
     <string name="ctia_id">ID</string>
-    <string name="ctia_value" />
-    <string name="ctia_label">0x</string>
-    <string name="ctia_default_val">0</string>
     <string name="ctia_btn_get">ПОЛУЧИТЬ</string>
     <string name="ctia_btn_set">УСТАНОВИТЬ</string>
     <string name="ctia_ok">Применить</string>
@@ -2376,10 +2331,10 @@ Unicom
     <string name="software_updates_more_title">Обновления программного обеспечения</string>
     <string name="software_updates_more_summary">Проверить наличие новой версии программного обеспечения</string>
     <string name="software_updates_scomo_summary">Проверить новую версию приложения</string>
-    <string name="gps_time_sync_attention_gps_on">"It will take at most 1 minute to obtain GPS fix. Besides, GPS may fail to provide time due to weak environmental signal.
+    <string name="gps_time_sync_attention_gps_on">"Получение корректировrb по GPS займеть около минуты. Кроме этого GPS может не сообщать время из-за слабого приема.
 
 Вы уверены, что хотите использовать GPS?"</string>
-    <string name="gps_time_sync_attention_gps_off">"To use GPS provided time, you must enable GPS first. It then take at most 1 minute to obtain GPS fix. Besides, GPS may fail to provide time due to weak environmental signal. 
+    <string name="gps_time_sync_attention_gps_off">"Для использования времени GPS, необходимо сначала включить GPS. После включение пройдет около минуты до получения корректировки по GPS. Кроме этого GPS может не сообщать время из-за слабого приема. 
 
 Вы уверены, что хотите включить GPS сейчас и ждать когда GPS заработает?"</string>
     <string name="mtp_transfer_unmount_error_text">Карта памяти не может быть размонтирована во время передачи файлов</string>
@@ -2413,19 +2368,4 @@ Unicom
     <string name="msg_safety_timer_timeout">Время зарядки слишком большое, пожалуйста, отключите зарядное устройство!</string>
     <string name="btn_ok_msg">Отложить</string>
     <string name="btn_cancel_msg">Отменить</string>
-    <item type="string" name="BART_DUMMY_0914">false</item>
-    <item type="string" name="BART_DUMMY_0916">false</item>
-    <item type="string" name="BART_DUMMY_0917">false</item>
-    <item type="string" name="BART_DUMMY_0918">false</item>
-    <item type="string" name="BART_DUMMY_0919">false</item>
-    <item type="string" name="BART_DUMMY_091a">false</item>
-    <item type="string" name="BART_DUMMY_091b">false</item>
-    <item type="string" name="BART_DUMMY_091c">false</item>
-    <item type="string" name="BART_DUMMY_091d">false</item>
-    <item type="string" name="BART_DUMMY_091e">false</item>
-    <item type="string" name="BART_DUMMY_091f">false</item>
-    <item type="string" name="BART_DUMMY_0920">false</item>
-    <item type="string" name="BART_DUMMY_0922">false</item>
-    <item type="string" name="BART_DUMMY_0923">false</item>
-    <item type="string" name="BART_DUMMY_0924">false</item>
 </resources>

@@ -101,7 +101,7 @@
     <string name="keyguard_data">Передача данных:</string>
     <string name="keyguard_alwaysask">Спрашивать всегда</string>
     <string name="keyguard_data_none">Выкл.</string>
-    <string name="dismiss">Отклонить</string>
+    <string name="dismiss">Отмена</string>
     <string name="keyguard_wrong_code_input">Неверный код.</string>
     <string name="keyguard_code_length_prompt">Введите 4-8 цифр.</string>
     <string name="keyguard_code_donnot_mismatch">"Не совпадает."</string>

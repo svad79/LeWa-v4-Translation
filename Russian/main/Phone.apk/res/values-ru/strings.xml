@@ -1021,9 +1021,9 @@
     <string name="screen_awake_sum">Экран будет вкл. дольше чем обычно при звонке</string>
     <string name="vibrate_call_waiting">Вибр. при вход. звонке в реж. ожидания</string>
     <string name="vibrate_call_waiting_sum">Вибр. при вх. SMS в реж. ожидания</string>
-    <string name="gemini_data_roaming_title">Роуминг данных</string>
-    <string name="gemini_data_roaming_summary">Разрешить данные в роуминге</string>
-    <string name="gemini_roaming_reminder_title">Отображать уведомления о роуминге</string>
+    <string name="gemini_data_roaming_title">Передача данных в роуминге</string>
+    <string name="gemini_data_roaming_summary">Разрешить передачу данных в роуминге</string>
+    <string name="gemini_roaming_reminder_title">Отображ. уведомление о роуминге</string>
     <string name="gemini_roaming_reminder_summary">Предлагать SIM опираясь на историю использования</string>
     <string name="per_change_mobile_network">Поменять сеть (2G/3G)</string>
     <string name="per_change_mobile_network_desc">Смена передачи данных между 2G и 3G. 3G быстрее, потребляет больше батарею, а также может стоить вам больше денег.</string>

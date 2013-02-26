@@ -2,18 +2,18 @@
 <resources>
     <string name="virus_defense_title">Virus Defense</string>
     <string name="viruskill_title">Antivirus</string>
-    <string name="viruskill_log_title">Журнал антивируса</string>
+    <string name="viruskill_log_title">Журнал</string>
     <string name="permession_manage_title">Управление доступом</string>
     <string name="check_database_update">Проверка обновлений</string>
     <string name="delete">Удалить</string>
-    <string name="install_monitor">Установить монитор</string>
+    <string name="install_monitor">Включить монитор</string>
     <string name="timer_scan">Сканирование по расписанию</string>
     <string name="omission">Скоро</string>
     <string name="logo_notice">Powered by Tencent Mobile Manager</string>
     <string name="select">выбранные</string>
     <string name="first_use1">Ваш телефон не был проверен</string>
     <string name="first_use2">Пожалуйста запустите сканирование прямо сейчас</string>
-    <string name="state_normal">Сканирование по расписанию предотвратит телефон от вирусов.</string>
+    <string name="state_normal">Регулярное сканирование телефона на вирусы снизит вероятность снижения уровня безопасности.</string>
     <string name="need_to_kill1">Ваш телефон не был проверен %s дня(-ней)</string>
     <string name="need_to_kill2">Пожалуйста, запустите сканирование прямо сейчас</string>
     <string name="is_cancel1">Предлагаем пересканировать</string>
@@ -41,7 +41,7 @@
     <string name="scan_of_clound">Сканирование в облаке</string>
     <string name="scan_state_safe">Сканирование завершено, ваш телефон в безопасности</string>
     <string name="scan_state_risk">Он находится в опасности, пожалуйста запустите сканирование сейчас.</string>
-    <string name="scan_state_cloud_fail">Сканирование было завершено, проверка в облаке</string>
+    <string name="scan_state_cloud_fail">Сканирование было завершено, но облачная проверка завершилась неудачно</string>
     <string name="scan_result_Congratulate">Поздравления</string>
     <string name="scan_result_tips">Бесплатный антивирус следит за вашим телефоном.</string>
     <string name="scan_result_suggestion">Tip:Remove</string>
@@ -51,7 +51,7 @@
     <string name="defense_notification">Напоминать о защите от вирусов</string>
     <string name="defense_risk_notification">Это программное обеспечение опасно</string>
     <string name="defense_virus_notification">Это программное обеспечение заражено</string>
-    <string name="defense_safe_notification">Это программное обеспечение является безопасным</string>
+    <string name="defense_safe_notification">Это программное обеспечение безопасно</string>
     <string name="scan_interrupt">Остановка сканирования</string>
     <string name="scan_interrupt_notifiction1">Сканирование осатновлено</string>
     <string name="scan_interrupt_notifiction2">Произвести сканирование повторно</string>
@@ -65,7 +65,7 @@
     <string name="cloud_scan_error">Ошибка сканирования в облаке!</string>
     <string name="scan_init">Инициализация…</string>
     <string name="scan_pause_init">Приостановление сканирования…</string>
-    <string name="update_title">Обновление базы вирусов</string>
+    <string name="update_title">Обновить вирусную базу</string>
     <string name="update_auto">Автообновление</string>
     <string name="update_toast">Проверка обновления, пожалуйста, подождите...</string>
     <string name="update_wait">Идет обновление данных, пожалуйста, подождите...</string>
@@ -79,7 +79,7 @@
     <string name="update_note_known">Есть</string>
     <string name="update_tips">Помните, регулярно обновляйте антивирусные базы.</string>
     <string name="unupdate_tips">Вы давно не обновляли антивирусную базу!</string>
-    <string name="update_version">Версия: %s</string>
+    <string name="update_version">Версия вирусной базы: %s</string>
     <string name="log_list_empty">Нет журнала антивируса</string>
     <string name="log_virus_counts">Заражено: %s</string>
     <string name="log_caution_counts">Угроз: %s</string>
@@ -92,11 +92,11 @@
     <string name="setting_unknown_costs">Монитор платежей</string>
     <string name="setting_unknown_costs_summary">Монитор в реальном времени блокирует вредоностную кнопку оплаты</string>
     <string name="setting_defense">Параметры сканирования</string>
-    <string name="setting_scan_of_clound">Проверка в облаке</string>
-    <string name="setting_cloud_kill_summary">Сканирование в облаке дает более точные результаты</string>
-    <string name="setting_timer_scan_summary">Регулярное сканирование защитит мобильный телефон</string>
-    <string name="setting_time">Время</string>
-    <string name="setting_defense_schedule">Расписание сканирования</string>
+    <string name="setting_scan_of_clound">Проверять онлайн</string>
+    <string name="setting_cloud_kill_summary">Проведение вторичной проверки на вирусы онлайн с последними вирусными базами</string>
+    <string name="setting_timer_scan_summary">Запланировать проверку на вирусы</string>
+    <string name="setting_time">Время проверки</string>
+    <string name="setting_defense_schedule">Расписание проверки</string>
     <string name="setting_everyday">каждый день</string>
     <string name="setting_everyweek">каждую неделю</string>
     <string name="setting_defense_schedule_date">Дата сканирования</string>
@@ -104,7 +104,7 @@
     <string name="setting_auto_update">Автоматическое обновление</string>
     <string name="setting_data_update">Обновление антивирусных баз</string>
     <string name="setting_auto_update_summary">Регулярное обновление антивирусных баз помогает обнаруживать новые вирусы</string>
-    <string name="setting_install_monitor_summary">Сканирование программного обеспечения в реальном времени предотвращает заражение</string>
+    <string name="setting_install_monitor_summary">Сканирование программного обеспечения сразу после установки на устройство</string>
     <string name="last_one_notice">Пожалуйста, выберите по крайней мере один день</string>
     <string name="minute">минута</string>
     <string name="second">секунд</string>
@@ -115,12 +115,12 @@
     <string name="friday">Пятница</string>
     <string name="saturday">Суббота</string>
     <string name="sunday">Воскресенье</string>
-    <string name="sure">Подтвердите</string>
+    <string name="sure">OK</string>
     <string name="cancel">Отмена</string>
     <string name="every_day">Каждый день</string>
     <string name="never">Никогда</string>
     <string name="day_concat">", "</string>
-    <string name="days"> дня(-ней)</string>
-    <string name="hours"> часов</string>
-    <string name="minutes"> минут(ы)</string>
+    <string name="days"> дн.</string>
+    <string name="hours"> ч.</string>
+    <string name="minutes"> мин.</string>
 </resources>

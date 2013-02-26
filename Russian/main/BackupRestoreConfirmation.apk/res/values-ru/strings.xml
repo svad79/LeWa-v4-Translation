@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>-->
 <resources>
     <string name="backup_confirm_title">Полное резервное копирование</string>
     <string name="restore_confirm_title">Полное восстановление</string>

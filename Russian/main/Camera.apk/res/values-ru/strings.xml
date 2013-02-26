@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string name="camera_error_title">Невозможно сохранить изображение</string>
     <string name="cannot_connect_camera">Ошибка камеры.</string>
     <string name="camera_disabled">Невозможно подключиться к камере.</string>
@@ -31,13 +31,13 @@
     <string name="pref_camera_recordlocation_entry_on">Вкл.</string>
     <string name="pref_video_quality_title">Качество видео</string>
     <string name="pref_video_quality_default">10</string>
-    <string name="pref_video_quality_entry_1080p">HD</string>
-    <string name="pref_video_quality_entry_720p">HD Ready</string>
-    <string name="pref_video_quality_entry_480p">SD</string>
-    <string name="pref_video_quality_entry_low">Низкое</string>
-    <string name="pref_video_quality_entry_medium">Среднее</string>
-    <string name="pref_video_quality_entry_high">Высокое</string>
-    <string name="pref_video_quality_entry_fine">Хорошее</string>
+    <string name="pref_video_quality_entry_1080p">HD 1080p</string>
+    <string name="pref_video_quality_entry_720p">HD 720p </string>
+    <string name="pref_video_quality_entry_480p">SD 480p</string>
+    <string name="pref_video_quality_entry_low">Низкое (144p)</string>
+    <string name="pref_video_quality_entry_medium">Среднее (320p)</string>
+    <string name="pref_video_quality_entry_high">Высокое (480p)</string>
+    <string name="pref_video_quality_entry_fine">Наилучшее (720p)</string>
     <string name="pref_video_time_lapse_frame_interval_title">Замедление</string>
     <string name="pref_video_time_lapse_frame_interval_default">0</string>
     <string name="pref_video_time_lapse_frame_interval_entry_1000">1с</string>
@@ -69,23 +69,19 @@
     <string name="pref_camera_picturesize_entry_320x240">QVGA</string>
     <string name="pref_camera_jpegquality_default">superfine</string>
     <string name="pref_camera_jpegquality_title">Качество фото</string>
-    <string name="pref_camera_jpegquality_entry_superfine">Супер</string>
+    <string name="pref_camera_jpegquality_entry_superfine">Наилучшее</string>
     <string name="pref_camera_jpegquality_entry_fine">Хорошее</string>
     <string name="pref_camera_jpegquality_entry_normal">Нормальное</string>
     <string name="pref_camera_jpegquality_entry_middle">Среднее</string>
     <string name="pref_camera_jpegquality_entry_low">Низкое</string>
-    <string name="pref_camera_focusmode_default">continuous-picture</string>
     <string name="pref_camera_focusmode_title">Режим фокусировки</string>
     <string name="pref_camera_focusmode_entry_auto">Авто</string>
     <string name="pref_camera_focusmode_entry_infinity">Бесконечность</string>
     <string name="pref_camera_focusmode_entry_macro">Макро</string>
-    <string name="pref_camera_flashmode_default">auto</string>
-    <string name="pref_camera_flashmode_no_flash">no_flash</string>
     <string name="pref_camera_flashmode_title">Режим вспышки</string>
     <string name="pref_camera_flashmode_entry_auto">Авто</string>
     <string name="pref_camera_flashmode_entry_on">Вкл.</string>
     <string name="pref_camera_flashmode_entry_off">Выкл.</string>
-    <string name="pref_camera_video_flashmode_default">off</string>
     <string name="pref_camera_whitebalance_default">auto</string>
     <string name="pref_camera_whitebalance_title">Баланс белого</string>
     <string name="pref_camera_whitebalance_entry_auto">Авто</string>
@@ -108,7 +104,6 @@
     <string name="pref_restore_title">Настройки камеры</string>
     <string name="pref_restore_detail">Восстановить настройки по умолчанию</string>
     <string name="pref_exposure_title">Экспозиция</string>
-    <string name="pref_exposure_default">0</string>
     <string name="dialog_ok">OK</string>
     <string name="spaceIsLow_content">Место на вашей SD-карте заканчивается. Измените настройки качества или удалите ненужные файлы.</string>
     <string name="image_file_name_format">"'Фото'_ddMMyyyy_HHmmss"</string>
@@ -118,8 +113,6 @@
     <string name="switch_to_camera_label">Переключиться на камеру</string>
     <string name="switch_to_video_label">Переключить на видео</string>
     <string name="switch_to_panorama_label">Переключить в режим панорамы</string>
-    <string name="setting_increment">></string>
-    <string name="setting_decrement">&lt;</string>
     <string name="share_picture_via">Отправка картинки</string>
     <string name="share_video_via">Отправка видео</string>
     <string name="no_picture_to_share">Нет ни одного изображения.</string>
@@ -131,7 +124,6 @@
     <string name="pano_capture_indication">Создание панорамы...</string>
     <string name="pano_review_saving_indication_str">Сохранение…</string>
     <string name="tap_to_focus">Нажмите для фокусировки.</string>
-    <string name="pref_video_effect_default">none</string>
     <string name="pref_video_effect_title">Эффекты</string>
     <string name="effect_none">Без эффектов</string>
     <string name="effect_goofy_face_squeeze">Сжатие</string>
@@ -162,7 +154,6 @@
     <string name="accessibility_decrement">Уменьшить %1$s</string>
     <string name="accessibility_increment">Увеличить %1$s</string>
     <string name="accessibility_switch">Переключить %1$s</string>
-    <string name="empty">" "</string>
     <string name="pref_camera_normal_capture_default">Normal</string>
     <string name="pref_camera_normal_capture_title">Режим захвата</string>
     <string name="pref_camera_capturemode_entry_normal">Обычный</string>

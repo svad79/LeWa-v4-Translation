@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>-->
 <resources>
-    <string name="app_name">FM-станция</string>
+    <string name="app_name">FM-радио</string>
     <string name="favorite_manager">Список каналов</string>
     <string name="add_to_favorite">Добавить в избранное</string>
     <string name="add_to_favorite1">Добавить в настроенные каналы</string>

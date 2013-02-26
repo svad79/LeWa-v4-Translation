@@ -365,8 +365,8 @@
     <string name="bt_base_activity_busy_message">Загружается...</string>
     <string name="bt_base_activity_service_disconnected">Сервис отключен!</string>
     <string name="bt_base_profile_feature_disabled">Нельзя использовать отключенные функции Bluetooth.</string>
-    <string name="bt_share_mgmt_tab_in_title">Скачать</string>
-    <string name="bt_share_mgmt_tab_out_title">Закачать</string>
+    <string name="bt_share_mgmt_tab_in_title">Принятые</string>
+    <string name="bt_share_mgmt_tab_out_title">Переданные</string>
     <string name="bt_share_mgmt_tab_menu_clear">Очистить все</string>
     <string name="bt_share_mgmt_tab_dialog_title">Передача файлов</string>
     <string name="bt_share_mgmt_tab_dialog_yes">Попробовать еще</string>
