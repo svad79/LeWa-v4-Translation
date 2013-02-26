@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>-->
+<resources>
+    <string name="app_name">Очистка системы</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="calculate_sdcard">Проверка SD карты</string>
+    <string name="calculate_size">Вычисление размера ...</string>
+    <string name="clean_sdcard">Очистка SD карты</string>
+    <string name="clean_sdcard_completed">Очистка SD карты завершена</string>
+</resources>

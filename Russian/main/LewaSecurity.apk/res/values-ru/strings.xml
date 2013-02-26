@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Центр безопасности</string>
+    <string name="app_virus">Антивирус</string>
+    <string name="app_clear">Очистка памяти</string>
+    <string name="app_speed">Диспетчер задач</string>
+    <string name="app_autostart">Автозагрузка</string>
+    <string name="app_antitheft">Антивор</string>
+    <string name="please_wait">Пожалуйста, подождите</string>
+    <string name="first_use1">Не проверен</string>
+    <string name="first_use2">Пожалуйста, запустите сканирование прямо сейчас</string>
+    <string name="after_use1">"Проверено
+%1$s"</string>
+    <string name="after_use2">"Базы антивируса
+%1$s"</string>
+    <string name="after_no_version">не обновляется</string>
+</resources>
