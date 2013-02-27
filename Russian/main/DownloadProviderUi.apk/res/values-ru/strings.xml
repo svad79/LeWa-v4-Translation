@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>-->
 <resources>
     <string name="app_label">Загрузки</string>
     <string name="download_title_sorted_by_date">Загрузки – по дате</string>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string name="bt_bip_app_name">Bluetooth Image Transfer</string>
     <string name="bt_bipi_push_confirmation">Image Push Confirmation</string>
     <string name="bt_bipi_unsupported_format">"Кодировка не поддерживается приемником.
@@ -382,9 +382,4 @@
     <string name="bt_share_openfile_message_unsupported_type">Неподдерживаемый тип файла: %1$s</string>
     <string name="bt_share_openfile_message_resource_not_found">Файл не найден: %1$s</string>
     <string name="bt_share_openfile_confirm">OK</string>
-    <item type="string" name="BART_DUMMY_00c7">false</item>
-    <item type="string" name="BART_DUMMY_00c8">false</item>
-    <item type="string" name="BART_DUMMY_00c9">false</item>
-    <item type="string" name="BART_DUMMY_00ca">false</item>
-    <item type="string" name="BART_DUMMY_00cb">false</item>
 </resources>

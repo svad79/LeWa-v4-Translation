@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string name="app_name">Руководство</string>
     <string name="title_activity_guide_index">Руководство</string>
     <string name="title_basic_motion">Операции</string>

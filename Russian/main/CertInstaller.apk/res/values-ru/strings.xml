@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Установщик сертификатов</string>
+    <string name="app_name">Программа установки сертификата</string>
     <string name="pick_file_title">Выберите сертификат</string>
     <string name="pkcs12_password_dialog_title">Извлечение сертификата</string>
     <string name="extracting_pkcs12">Извлечение...</string>

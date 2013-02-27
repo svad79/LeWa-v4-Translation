@@ -43,4 +43,5 @@
         <item>Другой</item>
         <item>Создать свой ярлык</item>
     </string-array>
+    <array name="carrier_properties" />
 </resources>

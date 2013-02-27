@@ -62,6 +62,38 @@
         <item>35</item>
         <item>36</item>
     </string-array>
+    <string-array name="vt_replace_local_video_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="vt_replace_local_video_values2">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="vt_mt_local_video_display_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="vt_incall_setting_local_video_effect_values">
+        <item>none</item>
+        <item>mono</item>
+        <item>sepia</item>
+        <item>negative</item>
+        <item>solarize</item>
+        <item>posterize</item>
+        <item>aqua</item>
+        <item>pastel</item>
+        <item>mosaic</item>
+        <item>red-tint</item>
+        <item>blue-tint</item>
+        <item>green-tint</item>
+        <item>blackboard</item>
+        <item>whiteboard</item>
+        <item>sepiablue</item>
+        <item>sepiagreen</item>
+    </string-array>
     <string-array name="vt_incall_setting_peer_video_quality_values">
         <item>Нормально</item>
         <item>Острый</item>

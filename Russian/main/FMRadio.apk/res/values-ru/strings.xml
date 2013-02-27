@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">FM-радио</string>
+    <string name="app_name">FM-станция</string>
     <string name="favorite_manager">Список каналов</string>
     <string name="add_to_favorite">Добавить в избранное</string>
     <string name="add_to_favorite1">Добавить в настроенные каналы</string>
@@ -83,16 +83,34 @@
     <string name="FMR_RDS_Ratio_text">Ratio:</string>
     <string name="FMR_RDS_Ratio">Обнаружение...</string>
     <string name="FMR_RDS_PS_text">PS:</string>
-    <string name="FMR_RDS_PS">Никто.</string>
+    <string name="FMR_RDS_PS">Нет.</string>
     <string name="FMR_RDS_RT_text">RT:</string>
-    <string name="FMR_RDS_RT">Никто.</string>
+    <string name="FMR_RDS_RT">Нет.</string>
     <string name="FMR_Hardware_version">Аппаратная версия</string>
     <string name="FMR_Chip_ID_text">Chip ID</string>
-    <string name="FMR_Chip_ID">Никто.</string>
+    <string name="FMR_Chip_ID">Нет.</string>
     <string name="FMR_ECO_Version_text">ECO Version</string>
-    <string name="FMR_ECO_Version">Никто.</string>
+    <string name="FMR_ECO_Version">Нет.</string>
     <string name="FMR_Patch_Version_text">Патч версии</string>
-    <string name="FMR_Patch_Version">Никто.</string>
+    <string name="FMR_Patch_Version">Нет.</string>
     <string name="FMR_DSP_Version_text">DSP Version</string>
-    <string name="FMR_DSP_Version">Никто.</string>
+    <string name="FMR_DSP_Version">Нет.</string>
+    <string name="insert_the_headset_prompt">"
+Подключите наушники для прослушивания радио.
+"</string>
+    <string name="headset_prompt">Headset Prompt</string>
+    <string name="mhz">МГц</string>
+    <string name="fm">FM</string>
+    <string name="favorite_title">Избранное</string>
+    <string name="delete_selected">Выбрано %d</string>
+    <string name="delete">Удалить</string>
+    <string name="search_station">Автопоиск станций</string>
+    <string name="add_favorite_station">Добавить</string>
+    <string name="delete_station_confirm">Удалить станцию?</string>
+    <string name="delete_station_title">Удаление станции</string>
+    <string name="empty_text">нажмите ниже кнопку для поиска станции</string>
+    <string name="accurate_change_frequency_title">Точное изменение частоты</string>
+    <string name="accurate_change_frequency_hint">Введите частоту для прослушивания(МГц)</string>
+    <string name="input_frequency_error">Неверно, частота должна быть в диапазоне 87.5~108.0</string>
+    <string name="insert_headset_prompt">Слабый сигнал, подключение наушников может усилить его</string>
 </resources>

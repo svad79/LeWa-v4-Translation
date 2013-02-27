@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string name="config_import_vcard_type">По умолчанию</string>
     <string name="config_export_vcard_type">По умолчанию</string>
     <string name="config_export_dir">/mnt/sdcard</string>
-    <string name="config_export_file_prefix" />
-    <string name="config_export_file_suffix" />
-    <string name="config_export_file_extension">vcf</string>
-    <string name="config_export_extensions_to_consider" />
-    <string name="config_prohibited_phone_number_regexp" />
     <string name="launcherDialer">Телефон</string>
     <string name="people">Контакты</string>
     <string name="t9_default_sort">1</string>
@@ -1496,5 +1491,7 @@ In four, the opening of free information service needs to send a message to the 
     <string name="store_in_phone">Сохранить в телефоне</string>
     <string name="store_in_simCard">Сохранить на SIM</string>
     <string name="store_in_usimCard">Сохранить на USIM</string>
-    <string name="position_change_warning">Сохранять только имя и телефон при изменении места хранения на SIM</string>
+    <string name="store_in_google_account">Сохранить в акаунте Google</string>
+    <string name="position_change_warning">Оставлять только имя и номер при сохранении на SIM карте</string>
+    <string name="no_content_saved">Информация не сохранена!</string>
 </resources>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string name="app_name">Расходомер трафика</string>
     <string name="app_summary">Расходомер трафика® LewaTek Limited.</string>
     <string name="settings_safetylegal_activity_loading">Загрузка...</string>
@@ -58,7 +58,6 @@
     <string name="widget_remain">Еще</string>	
     <string name="widget_data_pack_warning">Установите тарифный план</string>
     <string name="notify_data_pack_title">Предупреждение о достижении порога </string>
-    <string name="notify_data_pack_summary">@string/widget_data_pack_warning</string>
     <string name="permlab_manageNetworkPolicy">Управление сетевой политикой</string>
     <string name="permdesc_manageNetworkPolicy">Разрешить приложению управлять сетевой политикой и определять правила.</string>
     <string name="megabyteShort">Мб</string>

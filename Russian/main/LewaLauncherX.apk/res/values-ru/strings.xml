@@ -3,7 +3,7 @@
     <string name="config_workspaceDefaultTransitionEffect">Standard</string>
     <string name="application_name">Launcher</string>
     <string name="uid_name">Android Core Apps</string>
-    <string name="folder_name">Безымянная папка</string>
+    <string name="folder_name">Папка без имени</string>
     <string name="chooser_wallpaper">Выбрать обои от</string>
     <string name="wallpaper_instructions">Установить обои</string>
     <string name="pick_wallpaper">Обои</string>

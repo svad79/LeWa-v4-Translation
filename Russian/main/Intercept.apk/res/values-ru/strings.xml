@@ -149,6 +149,7 @@
     <string name="menu_setting">Настройки</string>
     <string name="menu_del_blacklist">Очистить черный список</string>
     <string name="menu_add_black">Добавить имя в черный список</string>
+    <string name="menu_add_black_prefix">Добавить префикс номера в черном списке</string>   
     <string name="menu_del_whitelist">Очистить белый список</string>
     <string name="menu_add_white">Добавить имя в белый список</string>
     <string name="menu_del_msglist">Удалить заблокированные сообщения</string>
@@ -159,7 +160,6 @@
     <string name="add2white_already_in_black">Вы хотите удалить черный список. Подтвердить?</string>
     <string name="delete_selected_item">Удалить выделенные номера?</string>
     <string name="dialog_tip">Советы</string>
-    <string name="select">выбран</string>
     <string name="modify_black_name">Изменить имя (ЧС)</string>
     <string name="modify_white_name">Изменить имя (БС)</string>
     <string name="confirm_delete_select_msg_conversion">Подтвердите удаление %s цепочки</string>
@@ -203,4 +203,6 @@
     <string name="networkError">Ошибка сети, проверить настройки сети</string>
     <string name="logo_notice">Тех. поддержка</string>
     <string name="intelligence_intercept_library_version">Версия библиотеки интелектуального перехватчика:</string>
+    <string name="selectBlockModePromt">Должен быть выбран один перехваченный звонок или сообщение.</string>
+    <string name="add_black_number_prefix_prompt">Совет: для перехвата номера, начинающегося с 123, введите 123</string>
 </resources>
