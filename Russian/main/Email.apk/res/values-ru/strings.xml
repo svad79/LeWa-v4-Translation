@@ -41,8 +41,6 @@
     <string name="always_bcc_myself_summary">Всегда использовать режим скрытой копии при составлении, ответе и отправке электронной почты</string>
     <string name="permission_read_attachment_label">Открывать прикрепленные файлы</string>
     <string name="permission_read_attachment_desc">Приложение получит доступ к прикрепленным файлам в сообщениях эл. почты.</string>
-    <string name="permission_access_provider_label">Доступ к данным сервиса эл. почты</string>
-    <string name="permission_access_provider_desc">Приложение получит доступ к базе данных программы электронной почты, которая включает полученные и отправленные письма, имена пользователей и пароли.</string>
     <string name="permission_access_provider_label">Доступ к данным поставщика услуг электронной почты</string>
     <string name="permission_access_provider_desc">Дать приложению доступ к почте, включая полученные и отправленные сообщения, контакты, пароли.</string>
     <string name="app_name">Email</string>
@@ -60,7 +58,6 @@
     <string name="favorite_action">Пометить</string>
     <string name="done_action">Готово</string>
     <string name="create_action">Создать</string>
-    <string name="delete_quick_response_action">Удалить</string>
     <string name="discard_action">Отменить</string>
     <string name="save_draft_action">Сохранить черновик</string>
     <string name="show_quick_text_list_dialog_action">Вставить быстрый ответ</string>
@@ -89,9 +86,7 @@
     <string name="cannot_move_protocol_not_supported_toast">Перемещение не поддерживается в аккаунтах POP3.</string>
     <string name="cannot_move_multiple_accounts_toast">Не удалось переместить сообщения, так как они находятся в разных аккаунтах.</string>
     <string name="cannot_move_special_mailboxes_toast">Нельзя перемещать сообщения из папок \"Черновики\", \"Исходящие\" и \"Отправленные\".</string>
-    <string name="notification_to_account">Кому: %1$s</string>
     <string name="notification_multiple_new_messages_fmt">Новых сообщений: %1$d</string>
-    <string name="account_name_display_all">Все аккаунты</string>
     <string name="mailbox_name_server_inbox">Inbox</string>
     <string name="mailbox_name_server_outbox">Outbox</string>
     <string name="mailbox_name_server_drafts">Drafts</string>
@@ -104,7 +99,6 @@
     <string name="mailbox_name_display_trash">Корзина</string>
     <string name="mailbox_name_display_sent">Отправленные</string>
     <string name="mailbox_name_display_junk">Спам</string>
-    <string name="mailbox_name_display_unread">Непрочитанные</string>
     <string name="picker_mailbox_name_all_unread">Входящие (непрочитанные)</string>
     <string name="picker_mailbox_name_all_inbox">Входящие (все)</string>
     <string name="picker_combined_view_fmt">Комбинированный вид (%s)</string>
@@ -122,7 +116,6 @@
     <string name="account_folder_list_summary_outbox">Исходящие</string>
     <string name="mailbox_list_account_selector_combined_view">Комбинированный режим просмотра</string>
     <string name="mailbox_list_account_selector_show_all_folders">Показать все почтовые ящики</string>
-    <string name="mailbox_list_account_selector_account_header">Аккаунты</string>
     <string name="mailbox_list_account_selector_mailbox_header_fmt">Последние папки (%s)</string>
     <string name="mailbox_list_user_mailboxes">Все папки</string>
     <string name="mailbox_list_recent_mailboxes">Недавние папки</string>
@@ -131,10 +124,7 @@
     <string name="message_list_load_more_messages_action">Загрузить еще сообщения</string>
     <string name="message_list_no_messages">Нет сообщений</string>
     <string name="message_compose_to_hint">Получатели</string>
-    <string name="message_compose_cc_hint">Копия</string>
-    <string name="message_compose_bcc_hint">Скрытая копия</string>
     <string name="message_compose_subject_hint">Тема</string>
-    <string name="message_compose_from_label">От:</string>
     <string name="to">Кому</string>
     <string name="cc">Копия</string>
     <string name="bcc">Скр. копия</string>
@@ -155,7 +145,6 @@
 
 "</string>
     <string name="message_compose_quoted_text_label">Включить цитируемый текст</string>
-    <string name="message_compose_include_quoted_text_checkbox_label">Включить исходный текст в ответ</string>
     <string name="message_compose_error_no_recipients">Добавьте хотя бы одного получателя.</string>
     <string name="message_compose_error_invalid_email">Некоторые адреса электронной почты являются недопустимыми.</string>
     <string name="message_compose_attachment_size">Файл имеет слишком большой размер и не может быть приложен.</string>
@@ -165,8 +154,6 @@
     <string name="message_view_cc_label">Копия:</string>
     <string name="message_view_bcc_label">Скрытая копия:</string>
     <string name="message_view_date_label">Дата:</string>
-    <string name="message_view_from_label">От:</string>
-    <string name="message_view_subject_label">Тема:</string>
     <string name="message_view_attachment_view_action">Просмотр</string>
     <string name="message_view_attachment_install_action">Установить</string>
     <string name="message_view_attachment_play_action">Воспроизв.</string>
@@ -181,7 +168,6 @@
     <string name="message_view_show_message_action">Сообщение</string>
     <string name="message_view_show_invite_action">Пригласить</string>
     <string name="message_view_show_pictures_action">Показать картинки</string>
-    <string name="message_view_always_show_pictures_button">Всегда показывать</string>
     <string name="message_view_always_show_pictures_prompt">Всегда показывать картинки с этого адреса</string>
     <string name="message_view_always_show_pictures_confirmation">Картинки, отправленные с этого адреса, будут всегда показываться.</string>
     <string name="message_view_invite_view">Посмотреть в Календаре</string>
@@ -193,8 +179,6 @@
     <string name="message_view_invite_toast_yes">Приглашение принято.</string>
     <string name="message_view_invite_toast_maybe">Вы ответили \"может быть\" на это приглашение.</string>
     <string name="message_view_invite_toast_no">Приглашение отклонено.</string>
-    <string name="message_view_show_details">Показать сведения</string>
-    <string name="message_view_message_details_dialog_title">Детали</string>
     <string name="attachment_info_dialog_default_title">О прикрепленном файле</string>
     <string name="attachment_info_dialog_wifi_title">Необходимо подключение Wi-Fi</string>
     <string name="attachment_info_wifi_settings">Настройки Wi-Fi</string>
@@ -209,7 +193,6 @@
     <string name="attachment_not_found">Не удалось загрузить файл.</string>
     <string name="message_decode_error">При расшифровке сообщения произошла ошибка.</string>
     <string name="eml_view_title">Просмотр файла %s</string>
-    <string name="message_delete_dialog_title" />
     <string name="message_discarded_toast">Черновик удален.</string>
     <string name="message_saved_toast">Черновик сообщения сохранен.</string>
     <string name="message_view_display_attachment_toast">Невозможно отобразить прикрепленный файл.</string>
@@ -308,7 +291,6 @@
     <string name="account_setup_options_background_attachments_label">Автоматически загружать прикрепленные файлы при подключении к Wi-Fi</string>
     <string name="account_setup_failed_dlg_title">Настройка не закончена</string>
     <string name="account_setup_options_mail_window_label">Период синхронизации</string>
-    <string name="account_setup_options_mail_window_auto">Автоматически</string>
     <string name="account_setup_options_mail_window_1day">Один день</string>
     <string name="account_setup_options_mail_window_3days">Три дня</string>
     <string name="account_setup_options_mail_window_1week">Одна неделя</string>
@@ -387,10 +369,6 @@
     <string name="account_settings_sync_email_summary">Синхронизировать почту этого аккаунта</string>
     <string name="account_settings_vibrate_when_label">Вибросигнал</string>
     <string name="account_settings_vibrate_when_summary">Вибросигнал при получении сообщения</string>
-    <string name="account_settings_vibrate_when_always">Всегда</string>
-    <string name="account_settings_vibrate_when_silent">Только в режиме без звука</string>
-    <string name="account_settings_vibrate_when_never">Никогда</string>
-    <string name="account_settings_vibrate_when_dlg_title">Вибросигнал</string>
     <string name="account_settings_ringtone">Выбрать рингтон</string>
     <string name="account_settings_servers">Настройки сервера</string>
     <string name="account_delete_dlg_title">Удалить аккаунт</string>
@@ -399,7 +377,6 @@
     <string name="account_settings_delete_account_label">Удалить аккаунт</string>
     <string name="mailbox_settings_activity_title">Параметры синхронизации</string>
     <string name="mailbox_settings_activity_title_with_mailbox">Параметры синхронизации (%s)</string>
-    <string name="mailbox_preferences_header">Настройки синхронизации</string>
     <string name="mailbox_settings_mailbox_check_frequency_label">Частота проверки</string>
     <string name="mailbox_settings_mailbox_sync_window_label">Период синхронизации</string>
     <string name="account_shortcut_picker_name">Ярлык Email</string>
