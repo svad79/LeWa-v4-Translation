@@ -1181,9 +1181,9 @@
     <string name="add_contact_dialog_existing">Существующий</string>
     <string name="deleting">Удаление</string>
     <string name="pref_title_storage_status">Использование текущего хранилища</string>
-    <string name="storage_dialog_mms">MMS: %s item(s)</string>
-    <string name="storage_dialog_sms">SMS: %s item(s)</string>
-    <string name="storage_dialog_attachments">"MMS attachments: "</string>
+    <string name="storage_dialog_mms">MMS: %s пункт(ы)</string>
+    <string name="storage_dialog_sms">SMS: %s пункт(ы)</string>
+    <string name="storage_dialog_attachments">"MMS вложения: "</string>
     <string name="storage_dialog_database">"База данных : "</string>
     <string name="storage_dialog_available_space">"Свободное место: "</string>
     <string name="menu_show_icc_sms_capacity">Просмотреть объем</string>
@@ -1218,9 +1218,9 @@
     <string name="export_disk_problem">Карта SD заполнена или запись невозможна</string>
     <string name="select_text">Выделить текст</string>
     <string name="unselect_all">Отменить выбор всего</string>
-    <string name="forward_from">Forward from:</string>
+    <string name="forward_from">Переслать от:</string>
     <string name="sms_forward_setting">Настройка пересылки СМС</string>
-    <string name="sms_forward_setting_summary">"Forward SMS with sender's name and number"</string>
+    <string name="sms_forward_setting_summary">"Переслать SMS с номером и именем отправителя"</string>
     <string name="file_attachment_vcard_name">vCard(%s)</string>
     <string name="file_attachment_import_vcard">Импорт vCard</string>
     <string name="attach_vcard">Контакт</string>
@@ -1263,7 +1263,7 @@
     <string name="changeview">Выбор режима</string>
     <string name="viewer_title_sms">SMS</string>
     <string name="viewer_title_wappush">Wappush</string>
-    <string name="viewer_title_cb">Cell Broadcast</string>
+    <string name="viewer_title_cb">Вещание телефона</string>
     <string name="slideshow_details">Детали</string>
     <string name="open">Открыть</string>
     <string name="delete_all_confirm">Удалить все сообщения?</string>
@@ -1377,48 +1377,49 @@
     <string name="prefs_ims_close_title_summary">Включите для бесплатных смс, фото, голосовых и видео сообщений</string>
     <string name="prefs_ims_aout_to_sms_mode">Пересылать по SMS</string>
     <string name="prefs_ims_aout_to_sms_summary_mode">Автоматически пересылать бесплатные сообщения по SMS если нет доступа к сети.</string>
-    <string name="message_ims_user_service_info">"Free information service user agreement
-One, the agreement to grant you the following rights:
+    <string name="message_ims_user_service_info">"Бесплатная информационная служба пользовательских соглашений
 
-Installation and use:
+Один из них, согласие предоставить вам следующие права:
 
-You can copy, distribute and disseminate an unlimited number of software products, but you must ensure that each reproduction, distribution and dissemination must be true and complete, including all software products on this software, electronic documents, copyright and trademark notices, also including this agreement.
+Установка и использование:
 
-Two, costs:
+Вы можете копировать, распространять и распространять неограниченное количество программных продуктов, но вы должны убедиться, что каждое воспроизведение, распространение и распространение должны быть точными и полными, включая все программные продукты на это программное обеспечение, электронные документы, авторского права и товарных знаках, а также включая эту соглашения.
 
-You must pay personal Internet or third party ( including but not limited to, telecommunications or mobile communication provider ) communication charge fee, fee information and other related costs. As related to value-added telecom services, we recommend you and value-added service provider to confirm the related costs. Any of the software update, update and other change will be the subject of this agreement.
+Во-вторых, расходы:
 
-Three, privacy protection
+Вы должны заплатить личным интернет или третьих лиц (включая, но не ограничиваясь, телекоммуникаций или мобильного оператора связи) Плата связи заряд, сбор информации и другие сопутствующие расходы. Как связанной с добавленной стоимостью услуг связи, мы рекомендуем вам и налог на добавленную поставщика услуг для подтверждения соответствующих расходов. Любое обновление программного обеспечения, обновление и другие изменения будут предметом данного соглашения.
 
-To protect user privacy is a free information service is a basic policy, ensure not open to the public or to the third party to provide a single user registration information and users in the use of network services non-public content, except in the following situations:
+Три, защита конфиденциальности
 
-Prior to obtaining the clear authorization of user;
+Чтобы защитить конфиденциальность пользователей является бесплатным сервисом, информация является одним из основных политики, обеспечить не открыты для общественности или третьей стороной для обеспечения единой регистрационной информации пользователей и пользователей в использовании сетевых услуг негосударственного содержания, за исключением следующих ситуаций :
 
-According to the relevant laws and regulations;
+До получения четкого разрешения пользователя;
 
-In accordance with the relevant government departments in charge of the requirements;
+Согласно соответствующим законам и правилам;
 
-In order to safeguard the public interest;
+В соответствии с соответствующими правительственными ведомствами, отвечающий за требованиями;
 
-To safeguard the legitimate rights and interests of a letter.
+В целях защиты общественных интересов;
 
-In the disclosed single user privacy under the premise, has the right to the user database are analyzed and the user database for commercial use.
+Для защиты законных прав и интересов письмо.
 
-In four, the opening of free information service needs to send a message to the server to complete the registration fee, with ordinary SMS messages, by charge carriers, Le frog does not charge any fees."</string>
-    <string name="message_ims_user_service_message_info">Free information service is more powerful than ordinary information, voice intercom chat network easily with online contacts, text chat, save money to send pictures and other multimedia information and communication experience unlimited fun.</string>
+В раскрыто одно приватности пользователя под помещение, имеет право на базу данных пользователей анализируются и пользовательской базы данных для коммерческого использования.
+
+В четырех, открытие бесплатных информационных услуг необходимо отправить сообщение на сервер, чтобы завершить регистрационный сбор, с обычными сообщениями SMS, носителями заряда, Le лягушки не взимает сборы."</string>
+    <string name="message_ims_user_service_message_info">Бесплатная информационная служба является более мощным, чем обычные информации, Домофон чат сети легко с онлайн-контакты, текстовые чаты, сэкономить деньги для отправки фотографий и других мультимедийных информационных и коммуникационных опыт неограниченное удовольствие.</string>
     <string name="message_ims_user_service_open">Присоедениться</string>
     <string name="message_ims_user_service_to_later">Позже</string>
     <string name="message_ims_user_service_check_protocol">Читать Полз-ое соглашение</string>
     <string name="message_ims_user_protocol">user protocol</string>
-    <string name="message_early">Раньше</string>
+    <string name="message_early">Ранее</string>
     <string name="message_today">Сегодня</string>
     <string name="message_yesterday">Вчера</string>
-    <string name="compose_voice_button">Hold to Talk</string>
-    <string name="compose_recorder_no_press">Unsent attachments!</string>
+    <string name="compose_voice_button">Держите, чтобы говорить</string>
+    <string name="compose_recorder_no_press">Неотправленные вложения!</string>
     <string name="message_sd_card_min_size">Не достаточно места на SD карте.</string>
     <string name="compose_recorder_to_short">Ваша запись очень короткая и не может быть отправлена</string>
     <string name="mms_input_voice_no_sdcard">SD карта не обнаружена, отсутствует возможность отправить голосовое сообщение.</string>
-    <string name="compose_recorder_invalid_network">Available networks, open wifi or 3G networks.</string>
+    <string name="compose_recorder_invalid_network">Наличие в сети открытых Wi-Fi или 3G сетей.</string>
     <string name="mms_nomal_message">Текст сообщения</string>
     <string name="mms_ims_message">Бесплатное сообшение</string>
     <string name="compose_stop_audio_text">stop</string>
@@ -1429,7 +1430,7 @@ In four, the opening of free information service needs to send a message to the 
     <string name="mms_audio_message_text">Аудио</string>
     <string name="mms_image_message_text">Картинка</string>
     <string name="mms_video_message_text">Видео</string>
-    <string name="mms_ims_menu_mode_in_call">Mode in call</string>
+    <string name="mms_ims_menu_mode_in_call">Режим в звонке</string>
     <string name="mms_ims_menu_mode_in_normal">Нормальный режим</string>
     <string name="mms_ims_open_wait">Are open free information, пожалуйста подождите ......</string>
     <string name="prefs_ims_service_title">Сервис бесплатных сообщений</string>
@@ -1478,7 +1479,7 @@ In four, the opening of free information service needs to send a message to the 
     <string name="login_lewa">Необходимо зайти в Lewa аккаунт</string>
     <string name="dialpad_empty_text">Список вызовов пуст</string>
     <string name="message_empty_text">Сообщения отсутствуют</string>
-    <string name="contact_delteing">Contacts delteing...</string>
+    <string name="contact_delteing">Удаление контактов...</string>
     <string name="gemini_sim_management_title">Управление SIM</string>
     <string name="base_info_title">Базовая информация</string>
     <string name="add_more_info">Добавить информацию</string>

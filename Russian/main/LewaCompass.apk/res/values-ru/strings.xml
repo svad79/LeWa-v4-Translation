@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="app_name">Компас</string>
+    <string name="north">Север - </string>
+    <string name="northeast">Северо-Восток - </string>
+    <string name="east">Восток - </string>
+    <string name="southeast">Юго-Восток - </string>
+    <string name="south">Юг - </string>
+    <string name="southwest">Юго-Запад - </string>
+    <string name="west">Запад - </string>
+    <string name="northwest">Северо-Запад - </string>
+</resources>

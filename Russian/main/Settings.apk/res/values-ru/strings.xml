@@ -592,9 +592,9 @@
     <string name="bluetooth_pin_values_hint">Обычно 0000 или 1234</string>
     <string name="bluetooth_enter_pin_other_device">Также может потребоваться ввести этот PIN-код на другом устройстве.</string>
     <string name="bluetooth_enter_passkey_other_device">Также может потребоваться ввести этот пароль на другом устройстве.</string>
-    <string name="bluetooth_confirm_passkey_msg">Для сопряжения с:</string>
-    <string name="bluetooth_incoming_pairing_msg">От:</string>
-    <string name="bluetooth_display_passkey_pin_msg">Для сопряжения с: %1$s Введите: %2$s , затем нажмите кнопку Return или ВВОД.</string>
+    <string name="bluetooth_confirm_passkey_msg">Для сопряжения с:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Убедитесь, что он показывает:&lt;br>&lt;b>%2$s&lt;/b></string>
+    <string name="bluetooth_incoming_pairing_msg">От:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Сделать сопряжение с устройством?</string>
+    <string name="bluetooth_display_passkey_pin_msg">Для сопряжения с:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Введите:&lt;br>&lt;b>%2$s&lt;/b>затем нажмите кнопку Назад или ВВОД.</string>
     <string name="bluetooth_pairing_accept">Сопряжение</string>
     <string name="bluetooth_pairing_decline">Отклонить</string>
     <string name="bluetooth_error_title" />
@@ -910,7 +910,7 @@
     <string name="status_unavailable">Недоступно</string>
     <string name="status_up_time">Время работы</string>
     <string name="status_awake_time">Время активной загрузки процессора</string>
-    <string name="internal_memory">Внутреннее хранилище</string>
+    <string name="internal_memory">Внутренняя память</string>
     <string name="sd_memory">SD-карта</string>
     <string name="memory_available">Доступно</string>
     <string name="memory_size">Общий объём</string>
@@ -1002,9 +1002,9 @@
     <string name="master_clear_summary">Возврат к заводским настройкам и удаление всех данных из памяти телефона</string>
     <string name="master_clear_desc">"Будут удалены все данные из "<b>внутреннего хранилища</b>" устройства, в том числе:
 
- "<li>ваш аккаунт Google;</li>"
- "<li>все данные и настройки (системы и приложений);</li>"
- "<li>загруженные приложения.</li>" "</string>
+ "<li>Ваш аккаунт Google;</li>"
+ "<li>Все данные и настройки (системы и приложений);</li>"
+ "<li>Загруженные приложения.</li>" "</string>
     <string name="master_clear_accounts">"
 
 В настоящее время вы выполнили вход в следующие аккаунты:
@@ -1798,7 +1798,7 @@
     <string name="ipo_summary_on">Отключить быструю загрузку</string>
     <string name="ipo_summary_off">Включить быструю загрузку</string>
     <string name="scomo_settings_title">Служба обновления ПО</string>
-    <string name="scomo_settings_summary">View and control software update from DM server</string>
+    <string name="scomo_settings_summary">Просмотр и контроль обновления ПО с сервера</string>
     <string name="hdmi_toggler">HDMI</string>
     <string name="hdmi_settings">Настройки HDMI</string>
     <string name="hdmi_settings_summary">Щелкните для настройки HDMI</string>
