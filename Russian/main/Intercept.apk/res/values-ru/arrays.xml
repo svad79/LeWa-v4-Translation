@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="modes_array">
-        <item>Перехватывать вызовы и сообщения</item>
+        <item>Перехват вызовов и сообщений</item>
         <item>Перехват вызовов</item>
         <item>Перехват сообщений</item>
     </string-array>
-    <integer-array name="modes_array_int">
-        <item>3</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
+    <string-array name="number_list">
+        <item>Черный список</item>
+        <item>Белый список</item>
+    </string-array>
+    <string-array name="block_information_list">
+        <item>Сообщения</item>
+        <item>Звонки</item>
+    </string-array>
 </resources>

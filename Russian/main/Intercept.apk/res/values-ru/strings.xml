@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="app_name">Перехватчик</string>
     <string name="init">Инициализация базы данных</string>
@@ -15,7 +15,7 @@
     <string name="app_msg_content_name">Содержимое сообщения</string>
     <string name="app_blocktime_name">Период блокировки</string>
     <string name="intercept_mode_title">Включить перехват</string>
-    <string name="intercept_mode_summary">Отклонить телефонные звонки и фильтровать сообщения в указанное время в соответствии с правилами установки</string>
+    <string name="intercept_mode_summary">Отклонять телефонные звонки и фильтровать сообщения в указанное время в соответствии с правилами установки</string>
     <string name="intercept_rule">Настройки перехвата</string>
     <string name="intercept_time">Настройка врем. блокир.</string>
     <string name="intercept_notification">Уведомления</string>
@@ -56,8 +56,8 @@
     <string name="intercept_blockmsglist_emp">Нет заблокированных сообщений</string>
     <string name="intercept_blocknamelist_emp">Добавить номер для блокировки</string>
     <string name="intercept_white_namelist_emp">Добавить доверенный номер</string>
-    <string name="block_num_out_of_all">Перехватывать белый список</string>
-    <string name="block_num_out_of_all_0">Перехватить следующее число контактов и белый список</string>
+    <string name="block_num_out_of_all">Перехватить следующие контакты</string>
+    <string name="block_num_out_of_all_0">Перехватить следующие контакты и белый список</string>
     <string name="block_setting_start_time">07:00</string>
     <string name="block_setting_end_time">23:00</string>
     <string name="intercept_setting_falied">Настройка не удалась, пожалуйста настройте снова</string>
@@ -76,8 +76,8 @@
     <string name="msg_recovery_add">Добавить в белый список</string>
     <string name="msg_recovery_add_black">Добавить в черный список</string>
     <string name="msg_recovery_delete">Удалить</string>
-    <string name="msg_recovery_add_toast">Добавить в белый список остановит фильтрацию вызовов и текстовых сообщений, вы хотите добавить номер %s в белый список?</string>
-    <string name="msg_recovery_delete_toast">Номер %s уже в черном списке, вы хотите удалить из черного списка?</string>
+    <string name="msg_recovery_add_toast">Добавление в белый список остановит фильтрацию вызовов и текстовых сообщений. Вы хотите добавить номер %s в белый список?</string>
+    <string name="msg_recovery_delete_toast">Номер %s уже в черном списке. Вы хотите удалить его из черного списка?</string>
     <string name="msg_send_recovery_title">Восстановление</string>
     <string name="msg_send_recovery_toast">Восстановить сообщения для %s ?</string>
     <string name="dialog_item_byhand">Добавить вручную</string>
@@ -93,15 +93,16 @@
     <string name="app_intercept_delete_title">Удаление</string>
     <string name="intercept_call_data">Отфильтровано:вызов %s</string>
     <string name="intercept_msg_data">сообщение %s</string>
-    <string name="addwhite_inwhite">Номер %s уже в белом списке, вы хотите восстановить все для этого номера?</string>
+    <string name="addwhite_inwhite">Номер %s уже в белом списке. Вы хотите восстановить все для этого номера?</string>
     <string name="addwhite_inblack">Номер %s уже в черном списке, удалить повтор?</string>
-    <string name="addwhite_ok">Номер %s уже добавлен в белый список, вы хотите восстановить все текстовые сообщения для этого номера?</string>
-    <string name="addwhite_already_ok">Номер %s уже в белом списке, вы хотите восстановить все для этого номера?</string>
+    <string name="addwhite_ok">Номер %s уже добавлен в белый список, Вы хотите восстановить все текстовые сообщения для этого номера?</string>
+    <string name="addwhite_already_ok">Номер %s уже в белом списке. Вы хотите восстановить все для этого номера?</string>
     <string name="unknown">неизвестный</string>
     <string name="intercept_recovery_about">Также восстановить данные</string>
     <string name="dialog_item_add2whitelist_also">Также добавить в белый список</string>
     <string name="twelve_hour_time_format">ah:mm</string>
     <string name="blocknumber">блокировка номера</string>
+    <string name="block_prefix_number">блокировка по префиксу</string>
     <string name="blockname">блокировка имени</string>
     <string name="blockmode">режим блокировки</string>
     <string name="edit_block">редактировать блокировку</string>
@@ -149,9 +150,11 @@
     <string name="menu_setting">Настройки</string>
     <string name="menu_del_blacklist">Очистить черный список</string>
     <string name="menu_add_black">Добавить имя в черный список</string>
-    <string name="menu_add_black_prefix">Добавить префикс номера в черном списке</string>   
+    <string name="menu_clear_black">Очистить черный список</string>
+    <string name="menu_add_black_prefix">Добавить префикс в черный список</string>
     <string name="menu_del_whitelist">Очистить белый список</string>
     <string name="menu_add_white">Добавить имя в белый список</string>
+    <string name="menu_clear_white">Очистить белый список</string>
     <string name="menu_del_msglist">Удалить заблокированные сообщения</string>
     <string name="menu_del_calllist">Удалить заблокированные вызовы</string>
     <string name="addWhiteSuccessed">Добавлено в белый список</string>
@@ -160,6 +163,7 @@
     <string name="add2white_already_in_black">Вы хотите удалить черный список. Подтвердить?</string>
     <string name="delete_selected_item">Удалить выделенные номера?</string>
     <string name="dialog_tip">Советы</string>
+    <string name="select">selected</string>
     <string name="modify_black_name">Изменить имя (ЧС)</string>
     <string name="modify_white_name">Изменить имя (БС)</string>
     <string name="confirm_delete_select_msg_conversion">Подтвердите удаление %s цепочки</string>
@@ -177,6 +181,7 @@
     <string name="call_send_recovery">Подтвердите восстановление журнала вызовов</string>
     <string name="add_to_black_name">Добавить в черный список</string>
     <string name="add_to_white_name">Добавить в белый список</string>
+    <string name="add_to_contacts">Добавить в контакты</string>
     <string name="recover_to_conversation">Восстановить цепочку сообщений</string>
     <string name="recover_to_call_conversation">Восстановить вызов</string>
     <string name="confirm_recover_select_call_conversion">Подтвердите восстановление %s вызовов</string>
@@ -200,9 +205,23 @@
     <string name="updateSuccess">Обновление успешно</string>
     <string name="checking">Проверка обновлений</string>
     <string name="noselectBlockMode">Не выбран блокирующий режим, выберите перехват вызова или перехват сообщений</string>
+    <string name="selectBlockModePromt">Необходимо выбрать перехват вызова или перехват сообщений</string>
     <string name="networkError">Ошибка сети, проверить настройки сети</string>
     <string name="logo_notice">Тех. поддержка</string>
     <string name="intelligence_intercept_library_version">Версия библиотеки интелектуального перехватчика:</string>
-    <string name="selectBlockModePromt">Должен быть выбран один перехваченный звонок или сообщение.</string>
-    <string name="add_black_number_prefix_prompt">Совет: для перехвата номера, начинающегося с 123, введите 123</string>
+    <string name="add_black_number_prefix_prompt">Подсказка: будут перехватываться все номера, начинающиеся с указанного префикса</string>
+    <string name="number_list">СПИСОК НОМЕРОВ</string>
+    <string name="block_information_list">СПИСОК БЛОКИРОВКИ</string>
+    <string name="dialog_add_black_prefix">Добавить префикс</string>
+    <string name="dialog_add_black">Добавить номер</string>
+    <string name="block_type_number_default">Перехват звонков и сообщений</string>
+    <string name="block_type_number_call">Перехват только звонков</string>
+    <string name="block_type_number_msg">Перехват только собщений</string>
+    <string name="menu_actionbar_selected_items">Выбрано %s</string>
+    <string name="select_all">Все</string>
+    <string name="operation_selectall">Выбрать все</string>
+    <string name="operation_cancel_selectall">Отменить все</string>
+    <string name="number_fragment_title">Номера</string>
+    <string name="interceptinfo_fragment_title">Информация</string>
+    <string name="setting_fragment_title">Настройки</string>
 </resources>

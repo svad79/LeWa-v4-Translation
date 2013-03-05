@@ -153,50 +153,57 @@
     <string name="noContactsHelpTextForCreateShortcut">Отсутствуют контакты для отображения.</string>
     <string name="noContactsHelpText">"Нет контактов для отображения.
 
-Добавить контакты можно 
-\u0009\u0009следующим образом:
+Для добавления контактов нажмите "<font fgcolor="#ffffffff"><b>Меню</b></font>", потом нажмите:
 
-"<li> <font fgcolor="#ff000000"> <b>Добавить новый контакт</b> </font>" для создания контакта с нуля.
- "</li>"
-"<li>Также можно нажать кнопку меню, а затем выбрать пункт <font fgcolor="#ff000000"> <b>Импорт/Экспорт</b> </font>" для перехода к следующим шагам.
- "</li>"
+"<li><font fgcolor="#ffffffff"><b>"Аккаунты, добавить или настроить аккаунт с контактами, которые можно будет синхронизировать с телефоном
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Новый контакт для создания нового контакта с нуля
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Импорт/Экспорт, чтобы импортировать контакты из вашей SIM или SD-карты
+"</b></font></li>"
 "</string>
-    <string name="noContactsHelpTextWithSync">"Нет контактов для отображения.
+    <string name="noContactsHelpTextWithSync">"Нет контактов для отображения. (Если вы только что добавили аакаунт, то синхронизации контактов займет несколько минут.)
 
-Добавить контакты можно 
-\u0009\u0009следующим образом:
-
-"<li> <font fgcolor="#ff000000"> <b>Добавить новый контакт</b> </font>" для создания контакта с нуля.
- "</li>"
-"<li>Также можно нажать кнопку меню, а затем выбрать пункт <font fgcolor="#ff000000"> <b>Импорт/Экспорт</b> </font>" для перехода к следующим шагам.
- "</li>"
+Для добавления контактов нажмите "<font fgcolor="#ffffffff"><b>Меню</b></font>", потом нажмите:
+ 
+"<li><font fgcolor="#ffffffff"><b>"Аккаунты, добавить или настроить аккаунт с контактами, которые можно будет синхронизировать с телефоном
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Показать настройки выбора, какие контакты будут видны
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Новый контакт для создания нового контакта с нуля
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Импорт/Экспорт, чтобы импортировать контакты из вашей SIM или SD-карты
+"</b></font></li>"
 "</string>
     <string name="noContactsNoSimHelpText">"Нет контактов для отображения.
 
-Добавить контакты можно 
-\u0009\u0009следующим образом:
-
-"<li> <font fgcolor="#ff000000"> <b>Добавить новый контакт</b> </font>" для создания контакта с нуля.
- "</li>"
-"<li>Также можно нажать кнопку меню, а затем выбрать пункт <font fgcolor="#ff000000"> <b>Импорт/Экспорт</b> </font>" для перехода к следующим шагам.
- "</li>"
+Для добавления контактов нажмите "<font fgcolor="#ffffffff"><b>Меню</b></font>", потом нажмите:
+ 
+"<li><font fgcolor="#ffffffff"><b>"Аккаунты, добавить или настроить аккаунт с контактами, которые можно будет синхронизировать с телефоном
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Новый контакт для создания нового контакта с нуля
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Импорт/Экспорт, чтобы импортировать контакты из вашей SD-карты
+"</b></font></li>"
 "</string>
-    <string name="noContactsNoSimHelpTextWithSync">"Нет контактов для отображения.
+    <string name="noContactsNoSimHelpTextWithSync">"Нет контактов для отображения. (Если вы только что добавили аакаунт, то синхронизации контактов займет несколько минут.)
 
-Добавить контакты можно 
-\u0009\u0009следующим образом:
-
-"<li> <font fgcolor="#ff000000"> <b>Добавить новый контакт</b> </font>" для создания контакта с нуля.
- "</li>"
-"<li>Также можно нажать кнопку меню, а затем выбрать пункт <font fgcolor="#ff000000"> <b>Импорт/Экспорт</b> </font>" для перехода к следующим шагам.
- "</li>"
+Для добавления контактов нажмите "<font fgcolor="#ffffffff"><b>Меню</b></font>", потом нажмите:
+ 
+"<li><font fgcolor="#ffffffff"><b>"Аккаунты, добавить или настроить аккаунт с контактами, которые можно будет синхронизировать с телефоном
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Показать настройки выбора, какие контакты будут видны
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Новый контакт для создания нового контакта с нуля
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Импорт/Экспорт, чтобы импортировать контакты из вашей SD-карты
+"</b></font></li>"
 "</string>
-    <string name="noFavoritesHelpText">"У вас нет избранных контактов.
+    <string name="noFavoritesHelpText">"У вас отсутствуют избранные.
 
-Чтобы сделать контакт 
-\u0009\u0009избранным:
+Для добавления контактов в избранное:
 
-"<li>Нажмите вкладку <b>Контакты</b>";
+"<li>Нажмите <b>Контакты</b>" tab
 "</li>" 
 "<li>"нажмите контакт, который нужно сделать избранным;
 "</li>" 
@@ -727,7 +734,7 @@
     <string name="multichoice_no_select_alert">Элемент не выбран.</string>
     <string name="multichoice_delete_confirm_message">Действительно удалить выбранные элементы контакта?</string>
     <string name="multichoice_delete_confirm_title">Удаление элементов контакта?</string>
-    <string name="multichoice_contacts_limit">"Выбранных контактов не может быть больше, чем 5000"</string>
+    <string name="multichoice_contacts_limit">Выбранных контактов не может быть больше, чем 5000</string>
     <string name="phone_storage_full_create">Память телефона заполнена, создание нового контакта невозможно.</string>
     <string name="phone_storage_full_edit">Память телефона заполнена, редактирование контакта невозможно.</string>
     <string name="add_SIP_to_sim">Невозможно добавить номер SIP для контакта SIM/USIM.</string>
@@ -756,7 +763,7 @@
     <string name="call_detail_deleteConfirmation_message">В уверенны что хотите удалить выбранные вызовы??</string>
     <string name="file_already_on_sd_card">Файл уже находится на карте памяти.</string>
     <string name="send_file_sms_error">Добававить файл в SMS невозможно,используйте MMS.</string>
-    <string name="error_save_usim_contact_email_lost"> Не удалось сохранить адрес электронной почты, так как USIM хранилище для электронной почты заполнено.</string>
+    <string name="error_save_usim_contact_email_lost">Не удалось сохранить адрес электронной почты, так как USIM хранилище для электронной почты заполнено.</string>
     <string name="error_import_usim_contact_email_lost" formatted="false">"Отказ вызван переполнением USIM хранилища электронной почты.
 Завершено: %d
 Не выполнено: %d"</string>
@@ -1220,7 +1227,7 @@
     <string name="unselect_all">Отменить выбор всего</string>
     <string name="forward_from">Переслать от:</string>
     <string name="sms_forward_setting">Настройка пересылки СМС</string>
-    <string name="sms_forward_setting_summary">"Переслать SMS с номером и именем отправителя"</string>
+    <string name="sms_forward_setting_summary">Переслать SMS с номером и именем отправителя</string>
     <string name="file_attachment_vcard_name">vCard(%s)</string>
     <string name="file_attachment_import_vcard">Импорт vCard</string>
     <string name="attach_vcard">Контакт</string>
@@ -1272,7 +1279,7 @@
     <string name="folder_download">MMS загружено</string>
     <string name="confirm_download_message">подтвердить загрузку сообщения</string>
     <string name="play_as_slideshow">Воспроизвести MMS как слайдшоу</string>
-    <string name="invalid_contact_message">"Контакт не существует."</string>
+    <string name="invalid_contact_message">Контакт не существует.</string>
     <string name="by_card">По:</string>
     <string name="page">Страница %d:</string>
     <string name="space_not_enough">Недостаточно свободного места для захвата видео</string>
@@ -1325,7 +1332,7 @@
     <string name="menu_delete_contact_detail">Удалить контакт</string>
     <string name="deselect_all">Снять все выделения</string>
     <string name="menu_delete_group">Удалить группу</string>
-    <string name="menu_add_group_item">Добавить группу</string>	
+    <string name="menu_add_group_item">Добавить группу</string>
     <string name="dialpad_call">Вызов</string>
     <string name="twelve_hour_time_format">h:mma</string>
     <string name="send_message">Отправить сообщение</string>
@@ -1378,7 +1385,6 @@
     <string name="prefs_ims_aout_to_sms_mode">Пересылать по SMS</string>
     <string name="prefs_ims_aout_to_sms_summary_mode">Автоматически пересылать бесплатные сообщения по SMS если нет доступа к сети.</string>
     <string name="message_ims_user_service_info">"Бесплатная информационная служба пользовательских соглашений
-
 Один из них, согласие предоставить вам следующие права:
 
 Установка и использование:
@@ -1414,12 +1420,12 @@
     <string name="message_early">Ранее</string>
     <string name="message_today">Сегодня</string>
     <string name="message_yesterday">Вчера</string>
-    <string name="compose_voice_button">Держите, чтобы говорить</string>
+    <string name="compose_voice_button">Держите, чтобы говорить to Talk</string>
     <string name="compose_recorder_no_press">Неотправленные вложения!</string>
     <string name="message_sd_card_min_size">Не достаточно места на SD карте.</string>
     <string name="compose_recorder_to_short">Ваша запись очень короткая и не может быть отправлена</string>
     <string name="mms_input_voice_no_sdcard">SD карта не обнаружена, отсутствует возможность отправить голосовое сообщение.</string>
-    <string name="compose_recorder_invalid_network">Наличие в сети открытых Wi-Fi или 3G сетей.</string>
+    <string name="compose_recorder_invalid_network">Наличие в сети, открытых Wi-Fi или 3G сетей.</string>
     <string name="mms_nomal_message">Текст сообщения</string>
     <string name="mms_ims_message">Бесплатное сообшение</string>
     <string name="compose_stop_audio_text">stop</string>
@@ -1472,7 +1478,7 @@
     <string name="delete_description">Действительно хотите удалить?</string>
     <string name="contact_item_delete_error">Ошибка удаления</string>
     <string name="menu_call_via_another_slot">Позвонить с другой SIM</string>
-    <string name="speed_dial_error_message">"Это не номер телефона! Пожалуйста, добавьте этот номер в список быстрого набора."</string>
+    <string name="speed_dial_error_message">Это не номер телефона! Пожалуйста, добавьте этот номер в список быстрого набора.</string>
     <string name="dial_key_tip">Зажмите ползунок и сместите его влево для смены SIM-карты!</string>
     <string name="import_contacts_title">Импорт контактов</string>
     <string name="contact_sync">Синхронизация контактов</string>
@@ -1493,6 +1499,6 @@
     <string name="store_in_simCard">Сохранить на SIM</string>
     <string name="store_in_usimCard">Сохранить на USIM</string>
     <string name="store_in_google_account">Сохранить в акаунте Google</string>
-    <string name="position_change_warning">Оставлять только имя и номер при сохранении на SIM карте</string>
-    <string name="no_content_saved">Информация не сохранена!</string>
+    <string name="position_change_warning">Сохранять только имя и телефон при изменении места хранения на SIM</string>
+    <string name="no_content_saved">Информация не сохранилась！</string>
 </resources>
