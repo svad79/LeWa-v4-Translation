@@ -4,6 +4,8 @@
     <string name="download_title_sorted_by_date">Загрузки – по дате</string>
     <string name="download_title_sorted_by_size">Загрузки – по размеру</string>
     <string name="no_downloads">Нет загрузок.</string>
+    <string name="no_downloading">Нет загружаемого</string>
+    <string name="no_downloaded">Нет загруженного</string>
     <string name="missing_title">&lt;Неизвестно></string>
     <string name="button_sort_by_size">Сортировать по размеру</string>
     <string name="button_sort_by_date">Сортировать по дате</string>
@@ -55,4 +57,45 @@
     <string name="delete_failed_with_SDcard">Сбой удаления файла. Карта SD недоступна</string>
     <string name="share_download">Отправить</string>
     <string name="share_failed_with_download_error">Невозможно поделиться файлом из-за ошибки загрузки.</string>
+    <string name="downloading_title">Загружаемое</string>
+    <string name="downloaded_title">Загруженное</string>
+    <string name="menu_setting">Настройки</string>
+    <string name="menu_pause_all">Приостановить все</string>
+    <string name="menu_clear_all">очистить все</string>
+    <string name="message_open_app_fail">ошибка открытия приложения</string>
+    <string name="network_choice">выбор сети</string>
+    <string name="only_wifi_title">только Wi-Fi</string>
+    <string name="only_wifi_summary">сохранить данные</string>
+    <string name="download_remind_title">подсказки по 2G/3G сети</string>
+    <string name="close_mobile_dialog_title">Подсказки</string>
+    <string name="close_mobile_dialog_content">"Если отключить подсказки, то не будет предупреждений при загрузке с 2G/3G сети.
+
+Вы уверены что хотите отключить уведомления по загрузке с 2G/3G сети."</string>
+    <string name="close_mobile_dialog_positive">OK</string>
+    <string name="close_mobile_dialog_negative">Отмена</string>
+    <string name="download_dialog_title">скачать советы</string>
+    <string name="mobile_dialog_content_prefix">"Вы уверены, что скачать через мобильные сети:
+"</string>
+    <string name="mobile_dialog_content_suffix">"
+это приведет к снижению скорости потока"</string>
+    <string name="mobile_dialog_positive">загрузки</string>
+    <string name="mobile_dialog_negative">подключить Wi-Fi и загрузить</string>
+    <string name="wifi_dialog_content">"Вы открыты загрузки с использованием Wi-Fi, если вы хотите начать загрузку, вы должны быть с Wi-Fi сетью.
+Вы уверены, что находитесь близко с Wi-Fi сетью и начать закачку"</string>
+    <string name="wifi_dialog_positive">OK</string>
+    <string name="wifi_dialog_negative">отмена</string>
+    <string name="delete_dialog_title">удалить</string>
+    <string name="delete_dialog_content">Вы уверены в удалении %1$d загрузок?</string>
+    <string name="delete_dialog_content2">удалить файл на диске</string>
+    <string name="delete_dialog_positive">OK</string>
+    <string name="delete_dialog_negative">Отмена</string>
+    <string name="status_pending">в ожидании</string>
+    <string name="status_pause">пауза</string>
+    <string name="delete_all_dialog_title">очистить все истории</string>
+    <string name="delete_all_dialog_content">"
+Вы уверены, чтобы хотите очистить все истории?
+"</string>
+    <string name="delete_all_dialog_positive">OK</string>
+    <string name="delete_all_dialog_negative">Отмена</string>
+    <string name="net_work_disconnect">не удается подключиться сети-_-!</string>
 </resources>

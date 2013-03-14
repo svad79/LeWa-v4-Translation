@@ -39,4 +39,5 @@
     <string name="ok">OK</string>
     <string name="download_file_already_exist">Файл уже существует, перезаписать?</string>
     <string name="notification_download_complete_op01">Файл сохранен в:</string>
+    <string name="notification_title">%1$d задание в процессе загрузки</string>
 </resources>

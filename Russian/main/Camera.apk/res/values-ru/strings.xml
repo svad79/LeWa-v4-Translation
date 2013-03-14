@@ -111,9 +111,9 @@
     <string name="pref_exposure_default">0</string>
     <string name="dialog_ok">OK</string>
     <string name="spaceIsLow_content">Место на вашей SD-карте заканчивается. Измените настройки качества или удалите ненужные файлы.</string>
-    <string name="image_file_name_format">"'Фото'_ddMMyyyy_HHmmss"</string>
-    <string name="video_file_name_format">"'Видео'_ddMMyyyy_HHmmss"</string>
-    <string name="pano_file_name_format">"'Панорама'_ddMMyyyy_HHmmss"</string>
+    <string name="image_file_name_format">"'Фото'_yyyy.MM.dd_HHmmss"</string>
+    <string name="video_file_name_format">"'Видео'_yyyy.MM.dd_HHmmss"</string>
+    <string name="pano_file_name_format">"'Панорама'_yyyy.MM.dd_HHmmss"</string>
     <string name="video_reach_size_limit">Достигнут предельный размер видео.</string>
     <string name="switch_to_camera_label">Переключиться на камеру</string>
     <string name="switch_to_video_label">Переключить на видео</string>
