@@ -69,6 +69,4 @@
         <item quantity="zero">%1$d выбрано</item>
         <item quantity="one">%1$d выбрано</item>
     </plurals>
-    <item type="plurals" name="BART_DUMMY_0011">false</item>
-    <item type="plurals" name="BART_DUMMY_0012">false</item>
 </resources>

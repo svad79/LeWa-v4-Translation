@@ -634,9 +634,9 @@
     <string name="associatiated_SIM">Привязанная SIM-карта</string>
     <string name="unassociated">Без привязки</string>
     <string name="associate_SIM">Привязанная SIM-карта</string>
-    <string name="block_incoming_call">Непосредственная блокировка входящего вызова</string>
-    <string name="block_voice_incoming_call" />
-    <string name="block_video_incoming_call" />
+    <string name="block_incoming_call">Непосредственная блокировка входящих вызовов</string>
+    <string name="block_voice_incoming_call">Непосредственная блокировка входящего голосового вызова</string>
+    <string name="block_video_incoming_call">Непосредственная блокировка входящего видеовызова</string>
     <string name="menu_multichoice_title">Импорт/Экспорт</string>
     <string name="menu_actionbar_selected_items">%s Выбрано</string>
     <string name="menu_multichoice_select_all">Выбрать все</string>
@@ -1333,6 +1333,11 @@
     <string name="deselect_all">Снять все выделения</string>
     <string name="menu_delete_group">Удалить группу</string>
     <string name="menu_add_group_item">Добавить группу</string>
+    <string name="multichoice_delete_group_confirm_message">Вы точно хотите удалить группу(-ы)?</string>
+    <string name="multichoice_delete_group_confirm_title">Удалить группу(-ы)(s)?</string>
+    <string name="multichoice_delete_group_info_confirm_message">Вы точно хотите удалить выбранные группы контактов?</string>
+    <string name="multichoice_delete_group_info_confirm_title">Удалить группы контактов?</string>
+    <string name="add_contact_detail">+ Добавить информацию</string>
     <string name="dialpad_call">Вызов</string>
     <string name="twelve_hour_time_format">h:mma</string>
     <string name="send_message">Отправить сообщение</string>
@@ -1451,6 +1456,8 @@
     <string name="mms_common_smiley">стандартные смайлы</string>
     <string name="mms_char_smiley">символьные смайлы</string>
     <string name="mms_lewa_smiley">lewa смайлы</string>
+    <string name="menu_select_operation_contents">Пожалуйста, выберите операцию, содержащую</string>
+    <string name="menu_select_favorite_item_access">Доступ</string>
     <string name="ip_call_settings">Настройки IP вызова</string>
     <string name="ip_prefix_hint">Например 17951,12593,17911</string>
     <string name="ip_prefix_description">IP префикс</string>
@@ -1501,4 +1508,12 @@
     <string name="store_in_google_account">Сохранить в акаунте Google</string>
     <string name="position_change_warning">Сохранять только имя и телефон при изменении места хранения на SIM</string>
     <string name="no_content_saved">Информация не сохранилась！</string>
+    <string name="add_more_info_title">Добавить информацию</string>
+    <string name="no_more_info_add">Информация не добавлена</string>
+    <string name="dial_sim_select_title">Звонить</string>
+    <string name="sms_sim_select_title">Отправить сообщение</string>
+    <string name="sim_china_mobile">CMCC</string>
+    <string name="sim_china_telecom">CTCC</string>
+    <string name="sim_china_unicom">CUCC</string>
+    <string name="menu_call_log_filter">Фильтр звонков</string>
 </resources>
