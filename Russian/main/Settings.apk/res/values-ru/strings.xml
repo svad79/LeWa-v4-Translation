@@ -2384,10 +2384,6 @@
     <string name="remeber_head">Запомнить</string>
     <string name="remeber_tail">также сдвиньте влево</string>
     <string name="default_gprs_title">Выберите SIM для GPRS</string>
-    <string name="title_charger_over_voltage">Превышено напряжение</string>
-    <string name="title_battery_over_temperature">Превышена температура батареи</string>
-    <string name="title_over_current_protection">Защита от перегрузки по току</string>
-    <string name="title_battery_over_voltage">Превышено напряжение батареи</string>
     <string name="title_safety_timer_timeout">Превышено время заряда</string>
     <string name="msg_charger_over_voltage">У зарядного устройства завышено напряжение, пожалуйста, извлеките его!</string>
     <string name="msg_battery_over_temperature">У аккумулятора критическая температура, пожалуйста, извлеките его!</string>
