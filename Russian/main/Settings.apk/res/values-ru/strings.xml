@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="additional_system_update" />
+    <string name="additional_system_update_menu" />
+    <string name="input_method_selector_show_automatically_value">0</string>
+    <string name="input_method_selector_always_show_value">1</string>
+    <string name="input_method_selector_always_hide_value">2</string>
+    <string name="input_method_selector_visibility_default_value">0</string>
+    <string name="sim_china_mobile">CMCC</string>
+    <string name="sim_china_telecom">CTCC</string>
+    <string name="sim_china_unicom">CUCC</string>
+    <string name="guide_sim_china_mobile">"China
+Mobile
+
+ GSM
+"</string>
+    <string name="guide_sim_china_telecom">"China
+Telecom
+
+ CDMA
+"</string>
+    <string name="guide_sim_china_unicom">"China
+Unicom
+
+ WCDMA
+"</string>
     <string name="proximity_title">Калибровка датчика приближения</string>
     <string name="proximity_dialog_title">Калибровка</string>
     <string name="proximity_summary">Обратите внимание на то, что датчик не может быть заблокирован в пределах более 20 см. И следует избегать прямых солнечных лучей!</string>
@@ -111,7 +135,7 @@
     <string name="account_manage_title">Изменить пароль аккаунта</string>
     <string name="account_info_change">Изменить информацию в аккаунте</string>
     <string name="ACCOUNT_LABEL">Lewa Pond</string>
-    <string name="lewa_account">Аккаунт Lewa</string>
+    <string name="lewa_account">Lewa аккаунт </string>
     <string name="dialog_already_registered">Вы уже вошли. Если вы хотите использовать другой ID, пожалуйста, выйдите сначала из активного аккаунта</string>
     <string name="haptic_feedback_enable_summary">Вибрация при нажатии кнопок и экрана</string>
     <string name="key_label">Софт-клавиши</string>
@@ -122,12 +146,10 @@
     <string name="volume_key_title">Кнопка громкости</string>
     <string name="volume_wake_title">Громкость звонка</string>
     <string name="volume_wake_summary">Если ваш телефон выключен, то нажатие клавиши громкости включит экран.</string>
-    <string name="volume_music_controls_title">Управл. музыкой 
-при выкл. экране</string>
+    <string name="volume_music_controls_title">Управл. музыкой при выкл. экране</string>
     <string name="volume_music_controls_summary">Длительное нажатие кнопки громкости пропускает треки, когда экран выключен. Громкость звонка не будет регулироваться, когда играет музыка.</string>
     <string name="back_key_title">Кнопка Назад</string>
-    <string name="back_to_kill_title">Кнопка Назад завершит 
-задачу</string>
+    <string name="back_to_kill_title">Кнопка Назад завершит задачу</string>
     <string name="back_to_kill_summary">Удерживание кнопки Назад завершит текущую задачу</string>
     <string name="phone_inUse">Телефон используется, вы не можете переключиться на Авиарежим</string>
     <string name="voice_call_alarm_description">Вызов(Голосовой вызов)</string>
@@ -143,11 +165,11 @@
     <string name="debug_log">Для опытных пользователей</string>
     <string name="upload_debug_log_title">Вступить в программу для опытных пользователей</string>
     <string name="upload_debug_log_summary">Помочь нам улучшить продукт с помощью отсылки информации об использовании.</string>
-    <string name="data_default_sim_title">Передача данных</string>
-    <string name="voice_sms_default_sim_title">Звонки/Сообщения</string>
-    <string name="fast_mode">Выбор режима</string>
-    <string name="fast_mode_title">Быстрый звонок/сообщение</string>
-    <string name="fast_mode_summary">Интеллектуальные звонки и отправка сообщений</string>
+    <string name="data_default_sim_title">Выбор SIM-карты по-умолчанию</string>
+    <string name="voice_sms_default_sim_title">Выбор SIM-карты по-умолчанию</string>
+    <string name="fast_mode">Обычный/Ускоренный метод выбора SIM</string>
+    <string name="fast_mode_title">Обычный/Ускоренный метод</string>
+    <string name="fast_mode_summary">Изменет метод выбора SIM-карты при осуществлении вызова и отправке сообщений.</string>
     <string name="biometric_weak_improve_matching_title">Улучшить распознавание лица</string>
     <string name="default_memory_summary">Изменить предпочитаемую память</string>
     <string name="yes">Да</string>
@@ -155,7 +177,7 @@
     <string name="gemini_sim_management_title">Управление SIM-картами</string>
     <string name="gemini_sim_info_title">Информация о SIM-карте</string>
     <string name="gemini_default_sim_title">SIM-карта по умолчанию</string>
-    <string name="gemini_general_settings_title">Общие настройки</string>
+    <string name="gemini_general_settings_title">Другие настройки</string>
     <string name="gemini_roaming_settings_title">Роуминг</string>
     <string name="gemini_data_roaming_title">Передача данных в роуминге</string>
     <string name="gemini_data_roaming_summary">Подключать услугу передачи данных в роуминге</string>
@@ -218,21 +240,20 @@
 
 Процедура связывания номера контакта с этой SIM-картой:
         
- "<li>Нажмите кнопку « <font fgcolor="#ffffffff"> <b>Добавить контакты</b> </font>"».
+"<li>Нажмите кнопку « <font fgcolor="#ffffffff"> <b>Добавить контакты</b> </font>"».
 "</li>" 
- "<li>"Выберите контакт, который требуется связать с этой SIM-картой.
+"<li>"Выберите контакт, который требуется связать с этой SIM-картой.
 "</li>" 
- "<li>Нажмите кнопку « <font fgcolor="#ffffffff"> <b>Сохранить</b> </font>"», чтобы сохранить изменение.
+"<li>Нажмите кнопку « <font fgcolor="#ffffffff"> <b>Сохранить</b> </font>"», чтобы сохранить изменение.
 "</li>" "</string>
     <string name="gemini_sim_tether_nocontacts">"Нет контактов для отображения.
 
 Добавить контакты можно следующим образом:
 
- "<li> <font fgcolor="#ffffffff"> <b>добавить новый контакт</b> </font>" для создания контакта с нуля;
- "</li>"
- "<li>также можно нажать кнопку меню, а затем выбрать пункт « <font fgcolor="#ffffffff"> <b>Импорт, экспорт</b> </font>"» для перехода к следующим шагам.
- "</li>"
-"</string>
+"<li> <font fgcolor="#ffffffff"> <b>добавить новый контакт</b> </font>" для создания контакта с нуля;
+"</li>"
+"<li>также можно нажать кнопку меню, а затем выбрать пункт « <font fgcolor="#ffffffff"> <b>Импорт, экспорт</b> </font>"» для перехода к следующим шагам.
+"</li></string>
     <string name="gemini_sim_tether_nocontact_confirm">OK</string>
     <string name="gemini_sim_tether_select_all">Выбрать все</string>
     <string name="gemini_sim_tether_select_ok">Сохранить</string>
@@ -737,7 +758,7 @@
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
     <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
-    <string name="wifi_security_none">Нет</string>
+    <string name="wifi_security_none">Отсутствует</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
@@ -770,7 +791,7 @@
     <string name="wifi_gateway_hint">192.168.1.1</string>
     <string name="wifi_network_prefix_length">Длина сетевого префикса</string>
     <string name="wifi_network_prefix_length_hint">24</string>
-    <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
+    <string name="wifi_p2p_settings_title">Прямое подключение Wi-Fi</string>
     <string name="wifi_p2p_settings_summary">Установить соединение типа точка-точка</string>
     <string name="wifi_p2p_device_info">Информация об устройстве</string>
     <string name="wifi_p2p_wps_setup">Настройка защиты Wi-Fi</string>
@@ -1007,15 +1028,15 @@
     <string name="master_clear_summary">Возврат к заводским настройкам и удаление всех данных из памяти телефона</string>
     <string name="master_clear_desc">"Будут удалены все данные из "<b>внутреннего хранилища</b>" устройства, в том числе:
 
- "<li>Ваш аккаунт Google;</li>"
- "<li>Все данные и настройки (системы и приложений);</li>"
- "<li>Загруженные приложения.</li>" "</string>
+"<li>Ваш аккаунт Google;</li>"
+"<li>Все данные и настройки (системы и приложений);</li>"
+"<li>Загруженные приложения.</li>" "</string>
     <string name="master_clear_accounts">"
 
 В настоящее время вы выполнили вход в следующие аккаунты:
 "</string>
     <string name="master_clear_desc_also_erases_external">" "<li>Музыка</li>"
- "<li>Фото</li>"
+"<li>Фото</li>"
 "<li>Другие данные пользователя</li></string>
     <string name="master_clear_desc_erase_external_storage">"
 
@@ -2105,9 +2126,9 @@
     <string name="notify_duration_list_dialogTitle">Выбор продолжительности уведомления</string>
     <string name="verify_duration_list_title">Продолжительность проверки</string>
     <string name="verify_duration_list_dialogTitle">Выбор продолжительности проверки</string>
-    <string name="eCID_Enable_Title">Расширенный Cell ID</string>
-    <string name="eCID_enable_summary_on">Использовать расширенный Cell ID</string>
-    <string name="eCID_enable_summary_off">Использовать Cell ID</string>
+    <string name="eCID_Enable_Title">Улучшенный метод Cell ID</string>
+    <string name="eCID_enable_summary_on">Использовать улучшенный метод Cell ID</string>
+    <string name="eCID_enable_summary_off">Использовать метод Cell ID</string>
     <string name="drm_settings_title">Сброс DRM</string>
     <string name="drm_settings_summary">Удаление всех DRM-лицензий</string>
     <string name="drm_settings">Параметры DRM</string>
@@ -2118,6 +2139,7 @@
     <string name="tvout_settings">TV выход</string>
     <string name="tvout_settings_summary">Настройки выхода на TV</string>
     <string name="tv_system_title">Система TV</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
     <string name="wifi_security_wapi_certificate">WAPI Certificate</string>
     <string name="wapi_user_certificate">Сертификат пользователя</string>
     <string name="wapi_as_certificate">Сертификат ASE</string>
@@ -2131,19 +2153,26 @@
     <string name="location_settings_label">Инженерный режим местоположения</string>
     <string name="NetworkLocationSettings">Параметры NetworkLocation</string>
     <string name="NetworkLocationSettings_title">Параметры Network Location (NetLoc)</string>
+    <string name="networklocation_bindservice">networklocation_bindservice</string>
     <string name="networklocation_bindservice_title">Служба NetLoc</string>
     <string name="networklocation_bindservice_summary">выберите поставщика услуг определения местоположения по сети</string>
     <string name="networklocation_bindservice_listtitle">Местоположение в сети</string>
+    <string name="networklocation_bindservice_entriesDefaultValues">com.google.android.location.NetworkLocationProvider</string>
+    <string name="geocoder_bindservice">geocoder_bindservice</string>
     <string name="geocoder_bindservice_title">Служба Geocoder</string>
     <string name="geocoder_bindservice_summary">выберите поставщика услуг геокодирования</string>
     <string name="geocoder_bindservice_listtitle">Geocoder</string>
+    <string name="geocoder_bindservice_entriesDefaultValues">com.google.android.location.GeocodeProvider</string>
+    <string name="networklocation_reportfrequency">networklocation_reportfrequency</string>
     <string name="networklocation_reportfrequency_title">Частота выдачи отчета</string>
-    <string name="networklocation_reportfrequency_summary">частота определения местоположения: 10 секунд</string>
+    <string name="networklocation_reportfrequency_summary">location frequency is: 10 seconds</string>
     <string name="networklocation_reportfrequency_listtitle">Список частот</string>
+    <string name="networklocation_reportfrequency_entriesDefaultValues">10</string>
     <string name="networklocation_autowifi_connection">networklocation_autowifi_connection</string>
     <string name="networklocation_autowifi_connection_title">Помощь определения местоположения по WiFi</string>
     <string name="networklocation_autowifi_connection_Summary_off">Нет помощи определения местоположения по WiFi</string>
     <string name="networklocation_autowifi_connection_Summary_on">Использование определения местоположения по WiFi для улучшения точности</string>
+    <string name="networklocation_testmodel">networklocation_testmodel</string>
     <string name="networklocation_testmodel_title">Проверка определения местоположения по сети</string>
     <string name="networklocation_testmodel_Summary_off">Отключено</string>
     <string name="networklocation_testmodel_Summary_on">Включено</string>
@@ -2156,12 +2185,20 @@
     <string name="geo_reboot">служба геокодера будет использоваться после перезагрузки</string>
     <string name="geo_now">служба геокодера используется сейчас</string>
     <string name="update_frequency">Частота обновления местоположения по сети: %s с</string>
+    <string name="use_limit">use_limit</string>
     <string name="use_limit_title">Служба Mediatek Geocoding используется ограниченно</string>
     <string name="use_limit_sum">Перед использованием ознакомьтесь со сведениями об использовании лимита службой MediaTek Geocoding</string>
     <string name="use_limit_detail_title">Служба Mediatek Geocoding используется ограниченно</string>
     <string name="use_limit_detail_description">"Служба MediaTek Geocoding разработана компанией MediaTek на основе API Google Geocoding. Поэтому, для получения результата этому процессу требуется доступ к серверу Google Server (http://maps.google.com/maps/api/geocode/). Все приложения Android могут получить доступ к службе, обратившись по стандартному API системы Android. Geocoding API может использоваться только совместно со службой Google map; выдача результатов геодирования без отображения их на карте запрещена. Для получения всех сведений на разрешенное использование следует ознакомиться с Maps API Terms в ограниченной лицензии на использование службы. (http://code.google.com/intl/en/apis/maps/documentation/geocoding/).
  Использование API Google Geocoding подпадает под ограничение в не более 2500 геолокационных запросов в день. (Пользователи Google Maps API Premier могут выполнять до 100000 запросов в день.) Лимит установлен для предотвращения злоупотреблений и (или) нецелевого использования Geocoding API, этот лимит может быть изменен в будущем без предупреждения. Кроме того, Google установила предел частоты обработки запросов для предотвращения злоупотребления службой. В случае превышения суточного предела или иного злоупотребления службой, Geocoding API может временно прекратить работу. В случае продолжения выхода за предел ограничения, доступ пользователя к Geocoding API может быть блокирован.
  Пользователь согласен со своей единоличной ответственностью за (и с тем, что MediaTek не несет ответственности перед пользователем или третьими лицами) несоблюдение собой указанных выше условий или обязательств. Пользователь также согласен со снятием ответственности с компании MediaTek и со всех связанных с ней лиц за любые и все потери, повреждения, расходы или затраты, возникшие в результате или связанные с нарушением пользователем указанных выше условий или обязательств, установленных в настоящем документе."</string>
+    <string name="cell_query">cell_query</string>
+    <string name="cell_query_title">cell_query_title</string>
+    <string name="cell_query_sum">cell_query_sum</string>
+    <string name="cell_id_content">CELL_ID:</string>
+    <string name="lac_content">LAC:</string>
+    <string name="MNC_content">MNC:</string>
+    <string name="MCC_content">MCC:</string>
     <string name="Query_content">Запрос</string>
     <string name="QueryResult_content">Выполните ввод запроса</string>
     <string name="location_cellquery_label">Запрос местоположения по сотовой сети</string>
@@ -2304,7 +2341,8 @@
     <string name="eap_sim_aka_no_sim_slot_selected">Для использования EAP-SIM/AKA следует выбрать гнездо SIM-карты</string>
     <string name="wifi_priority_changed" formatted="false">Старое значение приоритета=%s,новое значение=%s</string>
     <string name="wifi_network_netmask">Маска сети</string>
-    <string name="confirm_title">ОК</string>
+    <string name="wifi_network_netmask_hint">255.255.255.0</string>
+    <string name="confirm_title">Подтвердить</string>
     <string name="wifi_ctia_test">CTIA Test Mode Setting</string>
     <string name="wifi_ctia_test_summary">CTIA Test Mode configuration</string>
     <string name="ctia_title">Тестовый режим Wi-Fi</string>
@@ -2315,16 +2353,19 @@
     <string name="ctia_flag">Программные флаги</string>
     <string name="ctia_interval">Период журнала счетчиков(сек)</string>
     <string name="ctia_id">ID</string>
+    <string name="ctia_value" />
+    <string name="ctia_label">0x</string>
+    <string name="ctia_default_val">0</string>
     <string name="ctia_btn_get">ПОЛУЧИТЬ</string>
     <string name="ctia_btn_set">УСТАНОВИТЬ</string>
     <string name="ctia_ok">Применить</string>
     <string name="ctia_cancel">Отклонить</string>
     <string name="proxy_exclusionlist_label_cmcc">Не использовать прокси для</string>
-    <string name="pch_toggle_title">Предпочт. перед. GPRS</string>
-    <string name="pch_data_prefer_summary_off">предпочтительны данные</string>
-    <string name="pch_call_prefer_summary_on">Предпочтителен вызов</string>
+    <string name="pch_toggle_title">Предпочтение: интернет/вызов</string>
+    <string name="pch_data_prefer_summary_off">Приоритет передачи данных</string>
+    <string name="pch_call_prefer_summary_on">Приоритет вызова</string>
     <string name="pch_warning_message">Скорость передачи данных снизится.</string>
-    <string name="gsm_to_wifi_connect_type_title">Cellular->Wi-Fi</string>
+    <string name="gsm_to_wifi_connect_type_title">Сотовый->Wi-Fi</string>
     <string name="wifi_connect_ap_summary">Укажите тип сетевого соединения</string>
     <string name="select_ssid_type_title">Повторный выбор между SSID</string>
     <string name="wifi_signal_found_msg">Слабый уровень сигнала, Вы хотели бы использовать другую сеть WLAN?</string>
@@ -2364,26 +2405,30 @@
     <string name="pond_usergroup">Группа пользователя:</string>
     <string name="pond_loading">Загружается...</string>
     <string name="pond_none">Ничего</string>
+    <string name="double_card_setting_title">Добро пожаловать в LeWa</string>
+    <string name="double_card_setting_msg">Облегченная настройка выбора основной SIM-карты в три шага</string>
+    <string name="start_setting">Начало</string>
+    <string name="skip_setting">Пропустить</string>
+    <string name="previous_setp">Предыдущий шаг</string>
+    <string name="next_setp">Следующий шаг</string>
+    <string name="use_for_send_msg">Настройка отправки SMS</string>
+    <string name="no_change_favorite">Выбирите SIM-карту по-умолчанию</string>
+    <string name="use_for_call">Настройка вызова</string>
+    <string name="no_change_style">Выбирите SIM-карту по-умолчанию</string>
+    <string name="use_for_internet">Интернет (GPRS/EDGE/3G)</string>
+    <string name="use_phone_efficient">Выбирите SIM-карту по-умолчанию</string>
+    <string name="guide_complete">Выполнено!</string>
+    <string name="slide_hint_msg">Для выбора другой SIM-карты: удерживая ползунок, сместите его влево </string>
+    <string name="try_title">Попробуйте</string>
+    <string name="try_msg">Нажмите и сместите ползунок влево</string>
+    <string name="success_msg">Ура! Вы успешно изучили ускоренную модель выбора SIM</string>
+    <string name="remeber_head">Запомнить</string>
+    <string name="remeber_tail">и еще сместите ползунок влево</string>
+    <string name="default_gprs_title">Выберите SIM по-умолчанию для EDGE</string>
     <string name="title_charger_over_voltage">Превышено напряжение на зарядном устройстве</string>
     <string name="title_battery_over_temperature">Превышена температура аккумулятора</string>
     <string name="title_over_current_protection">Превышена токовая защита</string>
     <string name="title_battery_over_voltage">Превышено напряжение аккумулятора</string>
-    <string name="previous_setp">Назад</string>
-    <string name="next_setp">Дальше</string>
-    <string name="use_for_send_msg">Отправка сообщений</string>
-    <string name="no_change_favorite">Никогда не меняйте избранное</string>
-    <string name="use_for_call">Сделать звонок</string>
-    <string name="no_change_style">Не изменяйте своему стилю</string>
-    <string name="use_for_internet">Для интернета</string>
-    <string name="use_phone_efficient">Сделайте ваш телефон эффективным</string>
-    <string name="guide_complete">Завершено!</string>
-    <string name="slide_hint_msg">Выбор SIM сдвигом ползунка</string>
-    <string name="try_title">Попробуйте</string>
-    <string name="try_msg">Нажмите и сдвиньте влево</string>
-    <string name="success_msg">Поздравляем, вы научились быстрому режиму</string>
-    <string name="remeber_head">Запомнить</string>
-    <string name="remeber_tail">также сдвиньте влево</string>
-    <string name="default_gprs_title">Выберите SIM для GPRS</string>
     <string name="title_safety_timer_timeout">Превышено время заряда</string>
     <string name="msg_charger_over_voltage">У зарядного устройства завышено напряжение, пожалуйста, извлеките его!</string>
     <string name="msg_battery_over_temperature">У аккумулятора критическая температура, пожалуйста, извлеките его!</string>
