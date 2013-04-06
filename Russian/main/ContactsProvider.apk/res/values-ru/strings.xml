@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sharedUserLabel">Android Core Apps</string>
+    <string name="app_label">Хранение контактов</string>
+    <string name="provider_label">Контакты</string>
+    <string name="upgrade_msg">Обновление базы контактов.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Необходимо больше памяти для обновления контактов</string>
+    <string name="upgrade_out_of_memory_notification_title">Обновление хранилища контактов</string>
+    <string name="upgrade_out_of_memory_notification_text">Выберите для завершения обновления.</string>
+    <string name="default_directory">Контакты</string>
+    <string name="local_invisible_directory">Другие</string>
+    <string name="read_write_all_voicemail_label">Разрешить все голосовые сообщения</string>
+    <string name="read_write_all_voicemail_description">Разрешить всем приложениям сохранять и запрашивать все доступные голосовые сообщения.</string>
+    <string name="voicemail_from_column">"Голосовое сообщение от "</string>
+    <string name="unknown">Неизвестно</string>
+</resources>

@@ -169,7 +169,7 @@ Unicom
     <string name="voice_sms_default_sim_title">Выбор SIM-карты по-умолчанию</string>
     <string name="fast_mode">Обычный/Ускоренный метод выбора SIM</string>
     <string name="fast_mode_title">Обычный/Ускоренный метод</string>
-    <string name="fast_mode_summary">Изменет метод выбора SIM-карты при осуществлении вызова и отправке сообщений.</string>
+    <string name="fast_mode_summary">Изменяет метод выбора SIM-карты при осуществлении вызова и отправке сообщений.</string>
     <string name="biometric_weak_improve_matching_title">Улучшить распознавание лица</string>
     <string name="default_memory_summary">Изменить предпочитаемую память</string>
     <string name="yes">Да</string>
