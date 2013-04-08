@@ -4,4 +4,6 @@
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Настройки</string>
     <string name="title_activity_config">ConfigActivity</string>
+    <string name="result_format">Закрыто %1$d приложений, освобождено %2$s памяти.</string>
+    <string name="optimized">Оптимизировано</string>
 </resources>
