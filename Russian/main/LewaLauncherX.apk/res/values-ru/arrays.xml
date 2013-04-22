@@ -2,6 +2,7 @@
 <resources>
     <string-array name="desktop_transition_effect_entries">
         <item>Стандарт</item>
+        <item>Стандарт (без превышения)</item>
         <item>Планшет</item>
         <item>Приближение</item>
         <item>Удаление</item>
@@ -11,8 +12,9 @@
         <item>Куб (-)</item>
         <item>Стек</item>
     </string-array>
-    <string-array name="preferences_interface_drawer_scrolling_transition_effect_entries">
+    <string-array name="desktop_transition_effect_values">
         <item>Стандарт</item>
+	<item>Без превышения</item>
         <item>Планшет</item>
         <item>Приближение</item>
         <item>Удаление</item>
