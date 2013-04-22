@@ -76,7 +76,6 @@
     <string name="pref_desktop_effect">Эффект анимации рабочего стола</string>
     <string name="pref_desktop_effect_summary">Эфекты при перемещении рабочих столов</string>
     <string name="pref_screen_layout_summary">Выберите размещение на экране иконки рабочего стола</string>
-    <string name="pref_desktop_effect_summary">Эффекты прокрутки при прокрутке рабочих столов</string>
     <string name="pref_title_screen_loop">Прокрутка по кругу</string>
     <string name="pref_summary_screen_loop">При достижении последнего рабочего стола переходить к первому</string>
     <string name="pref_title_wallpaper_scrolling">Прокрутка обоев</string>
