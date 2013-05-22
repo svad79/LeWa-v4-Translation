@@ -32,7 +32,6 @@
     <string name="all_apps_button_label">Приложения</string>
     <string name="all_apps_home_button_label">Дом</string>
     <string name="delete_target_label">Удалить</string>
-    <string name="delete_target_uninstall_label">Удалить</string>
     <string name="accessibility_search_button">Поиск</string>
     <string name="accessibility_voice_search_button">Голосовой поиск</string>
     <string name="accessibility_all_apps_button">Приложения</string>
@@ -75,16 +74,10 @@
     <string name="menu_desktop_settings">Настройки лаунчера</string>
     <string name="pref_desktop_effect">Эффект анимации рабочего стола</string>
     <string name="pref_desktop_effect_summary">Эфекты при перемещении рабочих столов</string>
-    <string name="pref_title_screen_loop">Прокрутка по кругу</string>
-    <string name="pref_summary_screen_loop">При достижении последнего рабочего стола переходить к первому</string>
     <string name="pref_title_wallpaper_scrolling">Прокрутка обоев</string>
     <string name="pref_summary_wallpaper_scrolling">Обои перемещаются вместе с рабочим столом</string>
     <string name="pref_title_action_updown">Жесты рабочего стола</string>
     <string name="pref_summary_action_updown">Взмахните вверх, чтобы открыть меню и вниз, чтобы открыть панель уведомлений</string>
-    <string name="pref_title_scroll_speed">Настройки скорости прокрутки</string>
-    <string name="pref_summary_scroll_speed">Позволяют ускорить скорость</string>
-    <string name="pref_title_scrolling_vibrtor">Вибрация при прокрутке</string>
-    <string name="pref_summary_scrolling_vibrtor">Вибрировать при переходе от последнего рабочего стола к первому</string>
     <string name="pref_title_resetlauncher">Сброс настроек</string>
     <string name="pref_summary_resetlauncher">Востановить по умолчанию настройки лаунчера.</string>
     <string name="message_resetlauncher">Сбросить все иконки, виджеты и положение экрана.</string>
@@ -98,13 +91,12 @@
     <string name="shortcut_contacts">Контакты</string>
     <string name="shortcut_drawer">Приложения</string>
     <string name="shortcut_browser">Браузер</string>
-    <string name="shortcut_mms">Сообщения</string>
     <string name="open_drawer_tip">Проведите вверх что бы открыть список приложений.</string>
     <string name="not_supported_type">Тип не поддерживается.</string>
     <string name="uninstall_system_app_text">Системное приложение не может быть удалено.</string>
     <string name="cannot_delete_widget_text">Виджет не может быть удален.</string>
     <string name="cannot_delete_app_text">Приложение не может быть удалено.</string>
-    <string name="restore_drawer_hint">Иконку можно восстановить из меню настройки лаунчера.</string>
+    <string name="restore_drawer_hint">Иконки могут быть восстановлены из настроек лаунчера.</string>
     <string name="system_tool_folder">Утилиты</string>
     <string name="game_folder">Игры</string>
     <string name="recent_installed_apps">Последние</string>
@@ -112,6 +104,7 @@
     <string name="new_rom_hint">Новые</string>
     <string name="onekey_lockscreen">Экран блокировки</string>
     <string name="admin_description">Разрешить виджеты с root-правами включить блокировку экрана при первом запуске.</string>
+    <string name="other_widgets">Другие виджеты</string>
     <string name="system_groupname_widget">Виджеты</string>
     <string name="system_groupname_all">Все</string>
     <string name="system_groupname_all_application">Все приложения</string>
@@ -143,6 +136,7 @@
     <string name="apprecommend_show_text">Все необходимое установлено</string>
     <string name="apprecommend_download_max">Загрузка до 3</string>
     <string name="apprecommend__install_success">Установлено</string>
+    <string name="apprecommend__unlike_all">Нет рекомендованных приложений</string>
     <string name="pull_to_refresh_pull_label">Потяните, чтобы обновить</string>
     <string name="pull_to_refresh_release_label">Отпустите, чтобы обновить</string>
     <string name="pull_to_refresh_refreshing_label">Загрузка ..</string>	

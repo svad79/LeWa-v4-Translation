@@ -87,6 +87,7 @@
     <string name="log_unhandle_counts">Не вылечно: %s</string>
     <string name="log_clear_all">Удалить</string>
     <string name="log_if_clear_all">Удалить %s журнал антивируса?</string>
+    <string name="menu_actionbar_selected_items">%s выбрано</string>
     <string name="setting">Настройки</string>
     <string name="setting_install_monitor">Параметры монитора</string>
     <string name="setting_unknown_costs">Монитор платежей</string>

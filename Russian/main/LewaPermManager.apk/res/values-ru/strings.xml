@@ -47,8 +47,10 @@
     <string name="permission_location_sub">Получать ваше местоположение</string>
     <string name="permission_phone_id">Получить ID телефона</string>
     <string name="permission_phone_id_sub">Получить номер телефона и IMEI</string>
-    <string name="permission_root">ROOT</string>
     <string name="permission_root_sub">Получить root-доступ к системе</string>
+    <string name="root_title">Управление Root</string>
+    <string name="root_dialog_title">разрешить root</string>
+    <string name="root_dialog_content">root может нанести вред системе, вашим данным и оборудованию. Вы хотите разрешить root?</string>    
     <string name="package_list_title">%1$d приложений запрашивают серьезные разрешения</string>
     <string name="package_permission_number">%1$d разрешений</string>
     <string name="permission_detail_title">%1$d приложений требуют разрешения: %2$s</string>

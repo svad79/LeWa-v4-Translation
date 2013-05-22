@@ -40,4 +40,11 @@
     <string name="download_file_already_exist">Файл уже существует, перезаписать?</string>
     <string name="notification_download_complete_op01">Файл сохранен в:</string>
     <string name="notification_title">%1$d задание в процессе загрузки</string>
+    <string name="notification_title_pause">%1$d задача приостановлена</string>
+    <string name="notification_info_pause">пауза</string>
+    <string name="notification_info_wait_for_retry">ожидаем повтора</string>
+    <string name="notification_info_wait_for_network">ожидаем сеть</string>
+    <string name="notification_info_wait_for_wlan">ожидаем wifi</string>
+    <string name="notification_info_peding">ожидаем</string>
+    <string name="notification_info_fail">ошибка</string>
 </resources>

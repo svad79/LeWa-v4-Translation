@@ -21,7 +21,6 @@
     <string name="confirm_roamingWithPrefer_rbutton">Роуминг SIM-карты</string>
     <string name="confirm_radio_lbutton">Включить</string>
     <string name="confirm_unlock_lbutton">Разблокировать</string>
-    <string name="confirm_disable_lbutton">Отключить</string>
     <string name="confirm_unlock_fail">Операция отменена</string>
     <string name="confirm_turnon_radio_fail">Операция отменена</string>
     <string name="confirm_permit_roaming_fail">Вы отключили это действие для SIM-карты в роуминге</string>

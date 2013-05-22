@@ -170,6 +170,7 @@ Unicom
     <string name="fast_mode">Обычный/Ускоренный метод выбора SIM</string>
     <string name="fast_mode_title">Обычный/Ускоренный метод</string>
     <string name="fast_mode_summary">Изменяет метод выбора SIM-карты при осуществлении вызова и отправке сообщений.</string>
+    <string name="sim_displayname_too_long">Максимум 8 символов</string>
     <string name="biometric_weak_improve_matching_title">Улучшить распознавание лица</string>
     <string name="default_memory_summary">Изменить предпочитаемую память</string>
     <string name="yes">Да</string>
@@ -188,6 +189,7 @@ Unicom
     <string name="gemini_voice_call">Голосовой вызов</string>
     <string name="gemini_video_call">Видеозвонок</string>
     <string name="gemini_data_connection">Передача данных</string>
+    <string name="gemini_data_connection_and_video_call">3G соединение/Видеозвонок</string>
     <string name="gemini_msg">SMS/MMS</string>
     <string name="gemini_default_sim_always_ask">Всегда спрашивать</string>
     <string name="gemini_intenet_call">Интернет-вызовы</string>
@@ -2419,6 +2421,7 @@ Unicom
     <string name="use_phone_efficient">Выбирите SIM-карту по-умолчанию</string>
     <string name="guide_complete">Выполнено!</string>
     <string name="slide_hint_msg">Для выбора другой SIM-карты: удерживая ползунок, сместите его влево </string>
+    <string name="msg_slide_hint_msg">Свиньте для выбора другой карты</string>
     <string name="try_title">Попробуйте</string>
     <string name="try_msg">Нажмите и сместите ползунок влево</string>
     <string name="success_msg">Ура! Вы успешно изучили ускоренную модель выбора SIM</string>
@@ -2429,6 +2432,7 @@ Unicom
     <string name="title_battery_over_temperature">Превышена температура аккумулятора</string>
     <string name="title_over_current_protection">Превышена токовая защита</string>
     <string name="title_battery_over_voltage">Превышено напряжение аккумулятора</string>
+    <string name="could_modify_in_simmanagement">Можно изменить в настройках SIM</string>
     <string name="title_safety_timer_timeout">Превышено время заряда</string>
     <string name="msg_charger_over_voltage">У зарядного устройства завышено напряжение, пожалуйста, извлеките его!</string>
     <string name="msg_battery_over_temperature">У аккумулятора критическая температура, пожалуйста, извлеките его!</string>

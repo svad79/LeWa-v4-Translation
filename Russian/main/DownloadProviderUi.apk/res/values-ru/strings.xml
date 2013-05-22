@@ -61,6 +61,7 @@
     <string name="downloaded_title">Загруженное</string>
     <string name="menu_setting">Настройки</string>
     <string name="menu_pause_all">Приостановить все</string>
+    <string name="menu_resume_all">Продолжить все</string>
     <string name="menu_clear_all">очистить все</string>
     <string name="message_open_app_fail">ошибка открытия приложения</string>
     <string name="network_choice">выбор сети</string>
@@ -86,16 +87,21 @@
     <string name="wifi_dialog_negative">отмена</string>
     <string name="delete_dialog_title">удалить</string>
     <string name="delete_dialog_content">Вы уверены в удалении %1$d загрузок?</string>
+    <string name="delete_dialog_content3">"Вы уверены в отмене и удалении %1$d загрузок?
+"</string>
     <string name="delete_dialog_content2">удалить файл на диске</string>
     <string name="delete_dialog_positive">OK</string>
     <string name="delete_dialog_negative">Отмена</string>
     <string name="status_pending">в ожидании</string>
     <string name="status_pause">пауза</string>
     <string name="delete_all_dialog_title">очистить все истории</string>
-    <string name="delete_all_dialog_content">"
-Вы уверены, чтобы хотите очистить все истории?
-"</string>
+    <string name="delete_all_dialog_content">"Вы уверены, чтобы хотите очистить все истории?"</string>
     <string name="delete_all_dialog_positive">OK</string>
     <string name="delete_all_dialog_negative">Отмена</string>
     <string name="net_work_disconnect">не удается подключиться сети-_-!</string>
+    <string name="today">Сегодня</string>
+    <string name="yesterday">Вчера</string>
+    <string name="last_month">За месяц</string>
+    <string name="older">Старше</string>
+    <string name="status_pause_for_network">ожидаем сеть</string>
 </resources>

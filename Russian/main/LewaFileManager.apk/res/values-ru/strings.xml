@@ -2,6 +2,7 @@
 <resources>
     <string name="app_name">Проводник</string>
     <string name="desktop_name">Проводник</string>
+    <string name="lewa_name">SD менеджер</string>
     <string name="tab_category">Категории</string>
     <string name="category">Категории</string>
     <string name="tab_sdcardlist">SD карты</string>

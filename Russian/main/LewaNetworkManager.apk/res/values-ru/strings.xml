@@ -19,6 +19,7 @@
     <string name="time_today">Сегодня</string>
     <string name="time_month">В этом месяце</string>
     <string name="time_all">Все</string>
+    <string name="error_input">Число входящих ошибок</string>
     <string name="usage_title">Расход трафика</string>
     <string name="usage_today_usage">Сегодня</string>
     <string name="usage_daily_remain">Ежедневно</string>

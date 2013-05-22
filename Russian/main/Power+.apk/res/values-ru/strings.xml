@@ -127,4 +127,5 @@
     <string name="spm_inti_statusbar_time">Период</string>
     <string name="spm_inti_statusbar_entry">Войти снова</string>
     <string name="spm_inti_statusbar_exit">Временно выйти</string>
+    <string name="spm_trickle_charge_title">Медленная зарядка</string>
 </resources>

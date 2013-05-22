@@ -224,4 +224,11 @@
     <string name="number_fragment_title">Номера</string>
     <string name="interceptinfo_fragment_title">Информация</string>
     <string name="setting_fragment_title">Настройки</string>
+    <string name="update_tone">Внимание!</string>
+    <string name="update_note_version">Ткущая версия обновлений %s устарела!</string>
+    <string name="update_notice">Пожалуйста, обновитесь до последней версии:</string>
+    <string name="update_note_size">Размер обновления: %s</string>
+    <string name="log_today">Сегодня</string>
+    <string name="log_yesterday">Вчера</string>
+    <string name="log_beforeyesterday">Ранее</string>
 </resources>

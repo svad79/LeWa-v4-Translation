@@ -155,11 +155,14 @@
     <string name="sleep_time_min">1</string>
     <string name="sleep_time_max">90</string>
     <string name="ok">OK</string>
+    <string name="sleep_set">%1$dмин</string>
     <string name="record">мои записи</string>
     <string name="setting_shake_title">Встряхнуть, чтобы пропустить</string>
     <string name="setting_shake_summary">Встряхните телефон, чтобы перейти к следующему треку</string>
     <string name="shake_degree_title">Настройки чувствительности встряхивания</string>
     <string name="shake_degree_summary">Настроить, сколько сил необходимо для пропуска песни</string>
+    <string name="shake_degree_key">shakedegree</string>
+    <string name="setting_fade_key">isfade</string>
     <string name="shake_degree_gentle">Слабее</string>
     <string name="shake_degree_force">Сильнее</string>
     <string name="id3_lable">Редактирование ID3 песни</string>

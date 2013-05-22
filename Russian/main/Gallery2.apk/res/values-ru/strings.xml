@@ -219,7 +219,6 @@ Current APN: %2$s"</string>
     <string name="buffer_size_tip">Valid value range: %1$d - %2$d seconds</string>
     <string name="media_detail">Media details</string>
     <string name="detail_title">Title: %1$s</string>
-    <string name="detail_author">Автор: %1$s</string>
     <string name="detail_copyright">Copyright: %1$s</string>
     <string name="detail_session">Session Info: %1$s</string>
     <string name="stereo">Stereo</string>

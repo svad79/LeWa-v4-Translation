@@ -1338,6 +1338,8 @@
     <string name="multichoice_delete_group_info_confirm_message">Вы точно хотите удалить выбранные группы контактов?</string>
     <string name="multichoice_delete_group_info_confirm_title">Удалить группы контактов?</string>
     <string name="add_contact_detail">+ Добавить информацию</string>
+    <string name="exporting_vcard_finished_description">Сохранено в %s。</string>
+    <string name="activity_title_accout_select">Аккаунт выбран</string>
     <string name="dialpad_call">Вызов</string>
     <string name="twelve_hour_time_format">h:mma</string>
     <string name="send_message">Отправить сообщение</string>
@@ -1458,6 +1460,8 @@
     <string name="mms_lewa_smiley">lewa смайлы</string>
     <string name="menu_select_operation_contents">Пожалуйста, выберите операцию, содержащую</string>
     <string name="menu_select_favorite_item_access">Доступ</string>
+    <string name="loading_conversations">Загрузить разговоры.</string>
+    <string name="view_more_conversations">Еще разговоры</string>
     <string name="ip_call_settings">Настройки IP вызова</string>
     <string name="ip_prefix_hint">Например 17951,12593,17911</string>
     <string name="ip_prefix_description">IP префикс</string>
@@ -1516,4 +1520,10 @@
     <string name="sim_china_telecom">CTCC</string>
     <string name="sim_china_unicom">CUCC</string>
     <string name="menu_call_log_filter">Фильтр звонков</string>
+    <string name="menu_dialpad_ipcall">IP вызов</string>
+    <string name="menu_dialpad_editprecall">Редактировать до звонка</string>
+    <string name="menu_dialpad_addblacklist">В черный список</string>
+    <string name="dlg_title_ippref_notset">Не открыт IP набор</string>
+    <string name="dlg_msg_ippref_tosetting">Открыть IP набор!</string>
+    <string name="ipsetting_no_sim_card">Нет SIM карты, подходящей для IP</string>
 </resources>
