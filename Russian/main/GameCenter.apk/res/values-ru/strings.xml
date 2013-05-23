@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string name="game_center">GameCenter</string>
-    <string name="game_update">Game Update</string>
+    <string name="game_update">Обновление</string>
     <string name="app_download">Скачано: </string>
     <string name="app_size">Suze: </string>
     <string name="app_source">Источник: </string>
@@ -38,12 +38,12 @@
     <string name="noti_install_app_begin"> Начинаю устновку</string>
     <string name="noti_title_install_app_success"> Установка успешна</string>
     <string name="noti_install_app_success">Установка успешна, нажмите для открытия игры</string>
-    <string name="update_no_more">Последняя ерсия игры~</string>
+    <string name="update_no_more">Стоит последняя версия~</string>
     <string name="noti_noti_update_suffix">GameCenter %1$s игр для обновления</string>
     <string name="noti_noti_update_suffix2"> можно обновить</string>
     <string name="source_official">Lewa</string>
-    <string name="app_praise">Отзывы %1$s</string>
-    <string name="app_praise_topic">%1$sОтзывов</string>
+    <string name="app_praise">Оценки %1$s</string>
+    <string name="app_praise_topic">%1$s оценок</string>
     <string name="drop_down_to_refresh_list_more_tips">Еще</string>
     <string name="drop_down_to_refresh_list_no_more_tips">Хватит</string>
     <string name="app_status_download">Загрузка</string>
