@@ -31,7 +31,8 @@
     <string name="title_select_application">Выбрать приложение</string>
     <string name="all_apps_button_label">Приложения</string>
     <string name="all_apps_home_button_label">Дом</string>
-    <string name="delete_target_label">Удалить</string>
+    <string name="delete_target_label">Удалить со стола</string>
+    <string name="uninstall_target_label">Удалить с телефона</string>
     <string name="accessibility_search_button">Поиск</string>
     <string name="accessibility_voice_search_button">Голосовой поиск</string>
     <string name="accessibility_all_apps_button">Приложения</string>

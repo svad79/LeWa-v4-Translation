@@ -2414,11 +2414,11 @@ Unicom
     <string name="previous_setp">Предыдущий шаг</string>
     <string name="next_setp">Следующий шаг</string>
     <string name="use_for_send_msg">Настройка отправки SMS</string>
-    <string name="no_change_favorite">Выбирите SIM-карту по-умолчанию</string>
+    <string name="no_change_favorite">Выберите SIM-карту по-умолчанию</string>
     <string name="use_for_call">Настройка вызова</string>
-    <string name="no_change_style">Выбирите SIM-карту по-умолчанию</string>
+    <string name="no_change_style">Выберите SIM-карту по-умолчанию</string>
     <string name="use_for_internet">Интернет (GPRS/EDGE/3G)</string>
-    <string name="use_phone_efficient">Выбирите SIM-карту по-умолчанию</string>
+    <string name="use_phone_efficient">Выберите SIM-карту по-умолчанию</string>
     <string name="guide_complete">Выполнено!</string>
     <string name="slide_hint_msg">Для выбора другой SIM-карты: удерживая ползунок, сместите его влево </string>
     <string name="msg_slide_hint_msg">Свиньте для выбора другой карты</string>
