@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="desktop_transition_effect_values">
+    <string-array name="desktop_transition_effect_entries">
         <item>Стандарт</item>
 	    <item>Без превышения</item>
         <item>Планшет</item>

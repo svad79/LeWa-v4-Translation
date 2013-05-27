@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="app_name">Перехватчик</string>
     <string name="init">Инициализация базы данных</string>
@@ -26,7 +26,7 @@
     <string name="intercept_time_startTime">Начало</string>
     <string name="intercept_time_endTime">Конец</string>
     <string name="intercept_blockmode_title">Выбор режима блокировки</string>
-    <string name="intercept_blacksmart">Интелектуальная блокировка</string>
+    <string name="intercept_blacksmart">Интеллектуальная блокировка</string>
     <string name="intercept_blackname">Из черного списка</string>
     <string name="intercept_only_accept_whitelist">Только белый список</string>
     <string name="intercept_nocontacts">Неизвестные</string>
@@ -196,19 +196,19 @@
     <string name="recover">Восстановить</string>
     <string name="addblack_name">Добавить имя в Черный список</string>
     <string name="addWhite_name">Добавить имя в Белый список</string>
-    <string name="update_title">Обновление интеликтуальной библиотеки перехватчика</string>
-    <string name="update_message">В настоящее время смарт-библиотека перехватчика устарела,нажмите ОК, чтобы обновить</string>
+    <string name="update_title">Обновление базы перехватчика</string>
+    <string name="update_message">В настоящее время базы перехватчика устарели,нажмите ОК, чтобы обновить</string>
     <string name="confirm">Подтвердить</string>
     <string name="cancel">Отмена</string>
-    <string name="noneedToUpdate">Интеликтуальная библиотека перехватчика актуальна, нет необходимости ее обновления</string>
-    <string name="updating">Интеликтуальная библиотка перехватчика обновляется</string>
+    <string name="noneedToUpdate">База перехватчика актуальна, нет необходимости ее обновления</string>
+    <string name="updating">База перехватчика обновляется</string>
     <string name="updateSuccess">Обновление успешно</string>
     <string name="checking">Проверка обновлений</string>
     <string name="noselectBlockMode">Не выбран блокирующий режим, выберите перехват вызова или перехват сообщений</string>
     <string name="selectBlockModePromt">Необходимо выбрать перехват вызова или перехват сообщений</string>
     <string name="networkError">Ошибка сети, проверить настройки сети</string>
     <string name="logo_notice">Тех. поддержка</string>
-    <string name="intelligence_intercept_library_version">Версия библиотеки интелектуального перехватчика:</string>
+    <string name="intelligence_intercept_library_version">Версия базы перехватчика:</string>
     <string name="add_black_number_prefix_prompt">Подсказка: будут перехватываться все номера, начинающиеся с указанного префикса</string>
     <string name="number_list">СПИСОК НОМЕРОВ</string>
     <string name="block_information_list">СПИСОК БЛОКИРОВКИ</string>
@@ -222,10 +222,10 @@
     <string name="operation_selectall">Выбрать все</string>
     <string name="operation_cancel_selectall">Отменить все</string>
     <string name="number_fragment_title">Номера</string>
-    <string name="interceptinfo_fragment_title">Информация</string>
+    <string name="interceptinfo_fragment_title">Просмотр</string>
     <string name="setting_fragment_title">Настройки</string>
     <string name="update_tone">Внимание!</string>
-    <string name="update_note_version">Ткущая версия обновлений %s устарела!</string>
+    <string name="update_note_version">Текущая версия обновлений %s устарела!</string>
     <string name="update_notice">Пожалуйста, обновитесь до последней версии:</string>
     <string name="update_note_size">Размер обновления: %s</string>
     <string name="log_today">Сегодня</string>

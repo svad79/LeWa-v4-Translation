@@ -104,9 +104,9 @@
 Внимание: Если вы не запрашивали это действие или не понимаете, что это за запрос, то лучше всего отклонить его."</string>
     <string name="request_message1">%1$s запрашивает права Суперпользователя.</string>
     <string name="request_messages_0">вы точно хотите дать высокие системные права?</string>
-    <string name="request_messages_1">может привести к нестабильности системы</string>
-    <string name="request_messages_2">вызывает утечку данных - личный счет, СМС</string>
-    <string name="request_messages_3">даже вывести из строй аппарат</string>
+    <string name="request_messages_1">Это может привести к нестабильности системы</string>
+    <string name="request_messages_2">вызывать утечку данных - личный счет, СМС</string>
+    <string name="request_messages_3">даже вывести из строя аппарат</string>
     <string name="request_messages_4">Используйте с осторожностью!</string>
     <string name="request_messages_5">вы точно хотите дать высокие системные права?</string>
     <string name="next">дальше</string>

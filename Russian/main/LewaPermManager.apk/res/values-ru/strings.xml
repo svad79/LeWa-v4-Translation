@@ -21,7 +21,7 @@
     <string name="logs">Журнал</string>
     <string name="clear_logs_message">Вы хотите очистить журнал?</string>
     <string name="uninstall">Удалить</string>
-    <string name="application">Приложение</string>
+    <string name="application">Программы</string>
     <string name="category_root">Root права</string>
     <string name="category_security">Безопасность</string>
     <string name="category_privacy">Конфиденциальность</string>
