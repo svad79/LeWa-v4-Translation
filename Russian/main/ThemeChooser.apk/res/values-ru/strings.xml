@@ -88,7 +88,7 @@
     <string name="icon_change">Иконки</string>
     <string name="font_change">Шрифт</string>
     <string name="lockscreen_change">Экран блокировки</string>
-    <string name="systemapp_change">Системное приложение</string>    
+    <string name="systemapp_change">Системное меню</string>    
     <string name="some_live_wallpaper">Обои высокого разрешения</string>
     <string name="live_wallpaper">живые обои</string>
     <string name="theme_not_exist">тема не существует</string>
