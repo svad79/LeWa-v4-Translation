@@ -103,7 +103,7 @@
     <string name="timer_ring">Звук уведомления</string>
     <string name="timer_init_start">"Протянуть для 
  Старта"</string>
-    <string name="timer_time_up">Повторить</string>
+    <string name="timer_time_up">Время вышло</string>
     <string name="timer_time_up_ok">Закрыть</string>
     <string name="delete_selected">Выбранные %s</string>
     <string name="alarm_empty_text">Нажмите кнопку, чтобы добавить будильник</string>
