@@ -11,7 +11,7 @@
     <string name="widgets_tab_label">Виджеты</string>
     <string name="long_press_widget_to_add">Нажмите и перетащите его на рабочий стол</string>
     <string name="market">Магазин</string>
-    <string name="external_drop_widget_error">Не удалось удалить элемент на этом рабочем стол</string>
+    <string name="external_drop_widget_error">Не удалось удалить элемент на этом рабочем столе</string>
     <string name="external_drop_widget_pick_title">Выберите виджет для создания</string>
     <string name="rename_folder_label">Имя папки</string>
     <string name="rename_folder_title">Переименовать папку</string>
@@ -31,8 +31,8 @@
     <string name="title_select_application">Выбрать приложение</string>
     <string name="all_apps_button_label">Приложения</string>
     <string name="all_apps_home_button_label">Дом</string>
-    <string name="delete_target_label">Удалить со стола</string>
-    <string name="uninstall_target_label">Удалить с телефона</string>
+    <string name="delete_target_label">Удалить ярлык</string>
+    <string name="uninstall_target_label">Удалить приложение</string>
     <string name="accessibility_search_button">Поиск</string>
     <string name="accessibility_voice_search_button">Голосовой поиск</string>
     <string name="accessibility_all_apps_button">Приложения</string>
@@ -65,10 +65,10 @@
     <string name="workspace_scroll_format">Рабочая область %1$d of %2$d</string>
     <string name="apps_customize_apps_scroll_format">Страница приложений %1$d of %2$d</string>
     <string name="apps_customize_widgets_scroll_format">Страница виджетов %1$d of %2$d</string>
-    <string name="cannot_add_more_screen">Нельзя добавить больше экранов</string>
-    <string name="editmode_tip">Вы достигли минимального количества экранов и не может удалить больше</string>
+    <string name="cannot_add_more_screen">Нельзя добавить больше рабочих столов</string>
+    <string name="editmode_tip">Нельзя удалить последний рабочий стол</string>
     <string name="title_dialog_xml">Настройки лаунчера LeWa</string>
-    <string name="message_delete_desktop_screen">Удалить этот экран и все содержимое?</string>
+    <string name="message_delete_desktop_screen">Удалить этот рабочий стол и все содержимое?</string>
     <string name="menu_preview">Предпросмотр</string>
     <string name="menu_edit">Виджеты</string>
     <string name="menu_lewapond">LeWa аккаунт</string>
