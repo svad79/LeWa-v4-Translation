@@ -41,8 +41,8 @@
     <string name="remote_retrieve_password_hint">Посылка этой команды на телефон изменит пароль.</string>
     <string name="remote_retrieve_password_hint_sub" />
     <string name="command_title">Вы можете отправить эти команды для вашего потерянного телефона через любой телефон:</string>
-    <string name="command_lock_phone">Заблокировать телефон и сделать снимок</string>
-    <string name="command_lock_phone_hint">Блокировка</string>
+    <string name="command_lock_phone">Заблокировать телефон</string>
+    <string name="command_lock_phone_hint">Блокировка телефона и фото вора</string>
     <string name="command_lock_phone_hint_sub">\#QQLock#Password</string>
     <string name="command_get_location">Локация</string>
     <string name="command_get_location_hint_sub">\#QQLocation#Phone</string>

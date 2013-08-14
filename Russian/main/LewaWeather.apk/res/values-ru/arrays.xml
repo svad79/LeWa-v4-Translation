@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="week_times">
+        <item>понедельник</item>
+        <item>вторник</item>
+        <item>среда</item>
+        <item>четверг</item>
+        <item>пятница</item>
+        <item>суббота</item>
+        <item>воскресенье</item>
+    </string-array>
+    <string-array name="weather_rss_long_click_items">
+        <item>Поделиться</item>
+    </string-array>
+    <string-array name="weather_default_first_day">
+        <item>понедельник</item>
+        <item>воскресенье</item>
+    </string-array>
+    <string-array name="weather_default_first_day_valuse">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="weather_setup_items">
+        <item>Первый день недели</item>
+        <item>Параметры оповещения</item>
+        <item>Стиль подключения</item>
+        <item>Дата</item>
+        <item>Инь и Янь конверсия</item>
+        <item>Отображение календаря</item>
+        <item>Отображение знаков зодиака</item>
+        <item>Отображение фестивалей</item>
+        <item>Очистить кэш</item>
+        <item>О приложении</item>
+    </string-array>
+    <string-array name="weather_help_contact_list">
+        <item>Обратная связь</item>
+        <item>15910709384　</item>
+        <item>365rili@gmail.com</item>
+    </string-array>
+    <string-array name="weather_default_plug_bg">
+        <item>светлый</item>
+        <item>темный</item>
+    </string-array>
+    <string-array name="weather_account_change_label">
+        <item>Учетная запись</item>
+        <item>Пароль</item>
+    </string-array>
+    <string-array name="weather_account_input_tip">
+        <item>Учетная запись не менее 4 символов</item>
+        <item>Пожалуйста, введите пароль учетной записи</item>
+        <item>Пароли не совпадают, пожалуйста, введите подтверждение</item>
+        <item>Пожалуйста, введите другое имя учетной записи, указанное уже используется</item>
+        <item>Пожалуйста, введите 6-20-значный пароль</item>
+    </string-array>
+    <string-array name="weather_account_change_result_tip">
+        <item>Учетная запись успешно передана</item>
+        <item>Учетная запись не существует</item>
+        <item>Неправильный пароль</item>
+        <item>Неполадки в сети или неизвестная ошибка</item>
+    </string-array>
+    <string-array name="weather_account_edit_label">
+        <item>Имя новой учетной записи</item>
+        <item>Старый пароль</item>
+        <item>Новый пароль</item>
+        <item>Подтвердите пароль</item>
+    </string-array>
+    <string-array name="weather_account_edit_result_tip">
+        <item>Учетная запись успешно изменена</item>
+        <item>Учетная запись уже существует</item>
+        <item>Неправильный пароль</item>
+        <item>Неполадки в сети или неизвестная ошибка</item>
+    </string-array>
+    <string-array name="weather_default_swidth_on_or_off">
+        <item>Выкл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="weather_hot_city">
+        <item>автомат. позиционирование, Пекин, Шанхай, Гуанчжоу</item>
+        <item>Шэньчжэнь, Ухань, Нанкин, Тяньцзинь</item>
+        <item>Ханчжоу, Сиань, Чжэнчжоу, Чунцин</item>
+        <item>Чэнду, Фучжоу, Куньмин, Сямэнь</item>
+        <item>Шэньян, Чанчунь, Далянь, Цзинань</item>
+        <item>Тайюань, Чанша, Харбин, Хэфэй</item>
+        <item>Наньчан, Циндао, Гонконг, Макао</item>
+    </string-array>
+    <string-array name="weather_hot_provices">
+        <item>Нет, Пекин, Шанхай, Гуандун</item>
+        <item>Гуандун, Хубэй, Цзянсу, Тяньцзинь</item>
+        <item>Чжэцзян, Шэньси, Хэнань, Чунцин </item>
+        <item>Сычуань, Фуцзянь, Юньнань, Фуцзянь</item>
+        <item>Ляонин, Цзилинь, Ляонин, Шаньдун</item>
+        <item>Шаньси, Хунань, Хэйлунцзян, Аньхой</item>
+        <item>Цзянси, Шаньдун, Гонконга, Макао</item>
+    </string-array>
+</resources>

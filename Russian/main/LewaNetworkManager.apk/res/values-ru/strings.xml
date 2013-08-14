@@ -1,24 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Расходомер трафика</string>
-    <string name="app_summary">Расходомер трафика® LewaTek Limited.</string>
+    <string name="app_name">Межсетевой экран</string>
+    <string name="app_summary">Data Meter© LeWaTek Limited.</string>
     <string name="settings_safetylegal_activity_loading">Загрузка...</string>
     <string name="no_applications">Нет приложений.</string>
     <string name="process_kernel_label">ОС Андроид</string>
     <string name="uninstalled_apps">Удаленные приложения</string>
+    <string name="tethering">Раздача</string>
     <string name="not_set">Не задано</string>
+    <string name="mobile">2G/3G</string>
+    <string name="wifi">Wi-Fi</string>
     <string name="mobile_usage">Использование 2G/3G</string>
-    <string name="wifi_usage">Использование WiFi</string>	
+    <string name="wifi_usage">Использование Wi-Fi</string>
+    <string name="metered">Bg</string>
     <string name="card">Карта</string>
+    <string name="zero">0B</string>
+    <string name="monthday">" "</string>
     <string name="time_today">Сегодня</string>
     <string name="time_month">В этом месяце</string>
     <string name="time_all">Все</string>
-    <string name="error_input">Число входящих ошибок</string>
+    <string name="error_input">Номер ошибки</string>
     <string name="usage_title">Расход трафика</string>
     <string name="usage_today_usage">Сегодня</string>
     <string name="usage_daily_remain">Ежедневно</string>
     <string name="usage_day_remain">Осталось</string>
-    <string name="usage_cycle_day">Начальный день</string>
+    <string name="usage_cycle_day">День начала периода</string>
     <string name="usage_exceed">Превышает</string>
     <string name="usage_remain">Осталось</string>
     <string name="usage_nocard">неизвестно</string>
@@ -34,27 +40,57 @@
     <string name="firewall_title">Межсетевой экран</string>
     <string name="pref_title">Параметры</string>
     <string name="pref_alert_title">Дружественные советы</string>
-    <string name="pref_data_pack">Лимит инета</string>
-    <string name="pref_data_pack_title">Настроить лимит инета</string>
+    <string name="pref_data_pack">Лимит трафика</string>
+    <string name="pref_data_pack_title">Настроить лимит трафика</string>
     <string name="pref_data_pack_summary">%1$s，всего:%2$s，с %3$s числа</string>
     <string name="pref_monthly_usage">Потрачено</string>
     <string name="pref_adjust_regularly">Настроить период измерения</string>
-    <string name="pref_data_warning">Настройка уровня предупреждения </string>
-    <string name="pref_data_warning_prepend">"Когда инета останется "</string>
-    <string name="pref_data_warning_append">" , следует предупредить меня"</string>
-    <string name="pref_data_warning_unset">Пожалуйста, сначала установите норму инета.</string>
+    <string name="pref_data_warning">Настройка уровня предупреждения</string>
+    <string name="notify_data_warning">Осталось мало трафика</string>
+    <string name="pref_data_warning_prepend">"Когда трафика останется "</string>
+    <string name="pref_data_warning_append">", следует предупредить меня"</string>
+    <string name="pref_data_warning_unset">Пожалуйста, сначала установите лимит трафика.</string>
     <string name="pref_category_common">Общие параметры</string>
     <string name="pref_clear_history">Очистить историю</string>
-    <string name="pref_clear_history_confirm">"Вы уверены что хотите очистить историю использования сети
-(очистить все данные об использовании сети)"</string>
+    <string name="pref_clear_history_confirm">"Вы уверены, что хотите очистить историю использования трафика
+(очистить все данные об использовании)"</string>
     <string name="widget_disabled_mobile">Передача данных отключена</string>
     <string name="widget_today_usage">Сегодня</string>
     <string name="widget_exceed">Превышение</string>
-    <string name="widget_remain">Еще</string>	
+    <string name="widget_remain">Еще</string>
     <string name="widget_data_pack_warning">Установите тарифный план</string>
-    <string name="notify_data_pack_title">Предупреждение о достижении порога </string>
+    <string name="notify_data_pack_title">Предупреждение о достижении порога</string>
+    <string name="notify_data_pack_summary">@string/widget_data_pack_warning</string>
     <string name="permlab_manageNetworkPolicy">Управление сетевой политикой</string>
     <string name="permdesc_manageNetworkPolicy">Разрешить приложению управлять сетевой политикой и определять правила.</string>
+    <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>"
+"<font size="12">warning</font></string>
+    <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font>"
+"<font size="12">limit</font></string>
+    <string name="data_usage_total_during_range">%2$s: около %1$s использовано</string>
+    <string name="data_usage_disclaimer">"Определено Вашим телефоном. Может отличаться от системы подсчета трафика Вашим оператором."</string>
+    <string name="data_usage_empty">Нет приложений, которые бы использовали трафик в этот период.</string>
+    <string name="data_usage_label_foreground">На переднем плане</string>
+    <string name="data_usage_label_background">На заднем фоне</string>
+    <string name="data_usage_app_settings">Просмотр настроек приложения</string>
+    <string name="data_usage_menu_restrict_background">Ограничить данные в фоне</string>
+    <string name="data_usage_menu_show_wifi">Показать использование Wi-Fi</string>
+    <string name="data_usage_enable_mobile">Передача данных</string>
+    <string name="data_usage_disable_mobile">Выкл. передачу данных?</string>
+    <string name="data_usage_disable_mobile_limit">Установить лимит мобильного трафика</string>
+    <string name="data_usage_app_block_mobile">Выкл. передачу данных</string>
+    <string name="data_usage_app_block_wifi">Выкл. передачу по Wi-Fi</string>
+    <string name="data_usage_app_restrict_background">Ограничить данные в фоне</string>
+    <string name="data_usage_app_restrict_background_summary">Выкл. данные в фоне по 3G. Wi-Fi будет доступен.</string>
+    <string name="data_usage_app_restrict_background_summary_disabled">Для того, чтобы ограничить данные в фоне, вначале установите лимит мобильного трафика.</string>
+    <string name="data_usage_restrict_denied_dialog">"Ограничение передачи данных в фоне возможно, только если установлен лимит мобильного трафика."</string>
+    <string name="data_usage_restrict_background_title">Ограничить передачу данных в фоне?</string>
+    <string name="data_usage_restrict_background">"Если Вы ограничите передачу данных в фоне, некоторые приложения и сервисы не будут работать, пока Вы не подключите WiFi."</string>
+    <string name="data_usage_app_restrict_dialog">"Эта функция может повредить приложениям, которые зависят от передачи данных в фоне. Они не будут работать, пока не будет доступен Wi-Fi.
+
+Вы можете найти больше подходящих инструментов контроля в этом приложении."</string>
     <string name="megabyteShort">Мб</string>
     <string name="gigabyteShort">Гб</string>
+    <string name="zero_percent">0%</string>
+    <string name="hundred_percent">100%</string>
 </resources>

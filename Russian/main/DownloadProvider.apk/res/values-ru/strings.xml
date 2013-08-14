@@ -16,7 +16,6 @@
     <string name="permlab_accessAllDownloads">Доступ ко всем загрузкам</string>
     <string name="permdesc_accessAllDownloads">Приложение сможет открывать и изменять загрузки независимо от того, через какое ПО они были загружены.</string>
     <string name="download_unknown_title">&lt;без названия></string>
-    <string name="notification_filename_separator">", "</string>
     <string name="notification_filename_extras">" и ещё %d"</string>
     <string name="notification_download_complete">Загрузка завершена.</string>
     <string name="notification_download_failed">Не удалось загрузить файл.</string>

@@ -27,6 +27,7 @@
     <string name="theme_sd_nospace_title">Нет места</string>
     <string name="theme_sd_nospace_msg">На SD карте нет свободного места!</string>
     <string name="theme_sd_clear">Очистить</string>
+    <string name="theme_sd_not_avaliable">Вставьте SD карту и повторите</string>
     <string name="theme_back">Назад</string>
     <string name="theme_network_error_title">Ошибка соединения</string>
     <string name="theme_network_error_msg">Для загрузки темы необходимо сетевое подключение, пожалуйста, включите Wi-Fi</string>
@@ -93,4 +94,28 @@
     <string name="live_wallpaper">живые обои</string>
     <string name="theme_not_exist">тема не существует</string>
     <string name="data_no_size">мало данных, шрифт не установлен!</string>
+    <string name="onekey_wallpaper">Быстрые обои</string>
+    <string name="onekey_font">Быстрый шрифт</string>
+    <string name="onekey_theme">Быстрая тема</string>
+    <string name="onekey_wallpaper_downloading">Новые обои загружаются</string>
+    <string name="onekey_font_changing">Изменение шрифта...</string>
+    <string name="onekey_theme_changing">Изменение темы...</string>
+    <string name="onekey_font_no_font">Пожалуйста, загрузите не менее двух шрифтов из приложения Темы, чтобы можно было их менять</string>
+    <string name="onekey_font_no_theme">Пожалуйста, загрузите хотя бы одну тему из приложения Темы, чтобы можно было их менять</string>
+    <string name="font_change_reboot">Выбранная Вами тема содержит шрифты, приложение необходимо перезагрузить</string>
+    <string name="apply_reboot">Применить и перезагрузить</string>
+    <string name="wallpaper_selector">Центр обоев</string>
+    <string name="wifi_off_no_wallpaper">Нет загруженных обоев, пожалуйста, скачайте новые обои через ThemeChooser</string>
+    <string name="sdcard_unmounted_no_wallpaper">Не получается переключить обои, SD-карта удалена или идет передача данных</string>
+    <string name="deskwallpaper_delete">Вы хотите удалить обои рабочего стола?</string>
+    <string name="deskwallpaper_delete_title">Удаление обоев рабочего стола</string>
+    <string name="lockwallpaper_delete">Вы хотите удалить обои экрана блокировки?</string>
+    <string name="lockwallpaper_delete_title">Удаление обоев экрана блокировки</string>
+    <string name="theme_not_fit_phone">Эта тема не подходит к Вашему телефону, пожалуйста, выберите другую</string>
+    <string name="deskwallpaper_delete_success">обои рабочего стола удалены</string>
+    <string name="lockwallpaper_delete_success">обои экрана блокировки удалены</string>
+    <string name="theme_loading_more">загрузить еще...</string>
+    <string name="theme_loading_more_fail">загрузка не удалась</string>
+    <string name="modify_wallpaper">Обои</string>
+    <string name="theme_name_default">По умолчанию</string>
 </resources>

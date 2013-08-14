@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cокровища</string>
+    <string name="gold_prompt_text_one">Нужно потреблять</string>
+    <string name="gold_prompt_text_three">" золотых монет для открытия сундука"</string>
+    <string name="gold_open">Открыть</string>
+    <string name="gold_cancle">Отмена</string>
+    <string name="gold_counts">"Мое золото: "</string>
+    <string name="open_chest_goldnot">Недостаточно золота для открытия сундука</string>
+    <string name="slot_title">Золотая слот-машина раскинет слоты для Вас, нажмите красный рычаг</string>
+    <string name="net_error">Ошибка сети, пожалуйста, проверьте сетевое подключение</string>
+    <string name="application_error">Приложения, которые требуют сетевого подключения</string>
+    <string name="net_not">Ошибка сети</string>
+    <string name="seq_geting">Сбор данных, пожалуйста, подождите...</string>
+    <string name="ready_download">Готово для скачивания</string>
+    <string name="get_chest">Получение сундука, пожалуйста, ожидайте...</string>
+    <string name="slot_str">"Поздравляем, Вы получили "</string>
+    <string name="gold">" монет(ы)"</string>
+    <string name="slot_finish">Закрыть</string>
+    <string name="longclick_title">Запрос</string>
+    <string name="webview_loading">Страница загружается, ожидайте ...</string>
+</resources>

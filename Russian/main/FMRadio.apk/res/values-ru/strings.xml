@@ -104,8 +104,10 @@
     <string name="favorite_title">Избранное</string>
     <string name="delete_selected">Выбрано %d</string>
     <string name="delete">Удалить</string>
+    <string name="deleting">Удалено</string>    
     <string name="search_station">Автопоиск станций</string>
     <string name="add_favorite_station">Добавить</string>
+    <string name="adding_favorite_station">Добавлено</string>
     <string name="delete_station_confirm">Удалить станцию?</string>
     <string name="delete_station_title">Удаление станции</string>
     <string name="empty_text">нажмите ниже кнопку для поиска станции</string>
@@ -113,4 +115,8 @@
     <string name="accurate_change_frequency_hint">Введите частоту для прослушивания(МГц)</string>
     <string name="input_frequency_error">Неверно, частота должна быть в диапазоне 87.5~108.0</string>
     <string name="insert_headset_prompt">Слабый сигнал, подключение наушников может усилить его</string>
+    <string name="no_radio_searched">Не найдено радиостанций</string>
+    <string name="menu_actionbar_selected_items">%s выбрано</string>
+    <string name="menu_multichoice_select_all">Выбрать все</string>
+    <string name="menu_multichoice_clear_select">Снять все выделения</string>
 </resources>

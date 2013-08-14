@@ -54,4 +54,7 @@
     <string name="duration_timer_format_without_hour" formatted="false">%02dM%02dS</string>
     <string name="is_recording_can_not_use_play_function">Во время записи нельзя использовать воспроизведение.</string>
     <string name="is_playing_can_not_use_record_function">Проигрывается аудиофайл, нельзя использовать запись.</string>
+    <string name="menu_actionbar_selected_items">%s выбрано</string>
+    <string name="menu_multichoice_select_all">Выбрать все</string>
+    <string name="menu_multichoice_clear_select">Снять все выделения</string>
 </resources>

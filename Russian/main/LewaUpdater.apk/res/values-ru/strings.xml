@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>-->
 <resources>
     <string name="app_name">Обновление</string>
     <string name="discover_new_version">Обнаруженные обновления:</string>
@@ -30,13 +29,13 @@
     <string name="btn_retry_download">Попробовать снова</string>
     <string name="btn_cancel_download">Не загружать</string>
     <string name="lewa_rom_title">LewaRom</string>
-    <string name="wifi_not_active">Wifi не активен, попробуйте снова, когда будет подключен wifi</string>
+    <string name="wifi_not_active">Wi-Fi не активен, попробуйте снова, когда будет подключен Wi-Fi</string>
     <string name="notification_update_succ_title">Поздравляем, система обновлена!</string>
     <string name="notification_update_succ_content">Обновление завершено, ваша версия:</string>
     <string name="notification_update_error_title">Простите, ошибка обновления</string>
     <string name="notification_update_error_content">Ошибка обновления, ваша версия:</string>
     <string name="dlg_update_package_wifi_off_title">Загрузить, используя сеть оператора</string>
-    <string name="dlg_update_package_wifi_off_msg">Вы уверены, что не хотите использовать wi-fi для загрузки?</string>
+    <string name="dlg_update_package_wifi_off_msg">Вы уверены, что не хотите использовать Wi-Fi для загрузки?</string>
     <string name="dlg_reboot_update_complete_title">Перезагрузка обновления</string>
     <string name="dlg_reboot_update_complete_msg">Перезагрузить обновление после подтверждения</string>
     <string name="dlg_sdcard_not_remount_title">Карта памяти недоступна</string>
@@ -53,7 +52,7 @@
     <string name="download_all_new_version">Загрузить новую версию</string>
     <string name="msg_cannot_ota_update">"Текущая версия очень стара, невозможно обновить через OTA, 
 Нажмите [Загрузить] для обновления, Пакет новой версий очень большой, 
-Попробуйте загрузить, когда wi-fi будет активен"</string>
+Попробуйте загрузить, когда Wi-Fi будет активен"</string>
     <string name="net_data_error_pause_download">Ошибка сети, остановка приостановлена!</string>
     <string name="notification_net_data_error_pause_download">Ошибка сети, пауза!</string>
     <string name="notification_net_data_complete_download">Загрузка обновления завершена</string>

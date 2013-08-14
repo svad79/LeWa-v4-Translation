@@ -5,7 +5,7 @@
         <item quantity="one">1 день</item>
     </plurals>
     <plurals name="firewall_list_title">
-        <item quantity="other">%d приложений используют интернет</item>
-        <item quantity="one">1 приложение использует интернет</item>
+        <item quantity="other">%d прилож. используют трафик</item>
+        <item quantity="one">1 прилож. использует трафик</item>
     </plurals>
 </resources>

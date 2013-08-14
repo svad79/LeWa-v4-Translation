@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Синхр. испол-ния данных</string>
+    <string name="app_summary">Часть Data Meterũ LeWaTek Limited.</string>
+    <string name="app_title">Запрос использования 3G-данных</string>
+    <string name="request_failed">Запрос использования 3G-данных не удался</string>
+    <string name="request_sms">Запрос SMS по отправлению конфига</string>
+    <string name="send_sms">Отправление запроса по использованию 3G-данных через SMS</string>
+    <string name="analyze_sms">Анализирование использования 3G-данных</string>
+    <string name="correct_failed">Синхронизация использования 3G-данных не удалась. Пожалуйста, попробуйте снова.</string>
+    <string name="correct_success">Синхронизация использования 3G-данных прошла успешно</string>
+    <string name="alert_slot_error">Неправильный слот</string>
+    <string name="alert_network_error">Ошибка сети</string>
+    <string name="phone_closed">Телефон не включен. Включите и попробуйте снова.</string>
+    <string name="label_province">Провинция</string>
+    <string name="label_city">Город</string>
+    <string name="label_carrier">Оператор</string>
+    <string name="label_brand">Бренд</string>
+    <string name="label_info">Пожалуйста, подтвердите информацию Вашего оператора</string>
+    <string name="label_data_left">Осталось</string>
+    <string name="label_data_used">Использовано</string>
+    <string name="label_partner">На основе Tencent Mobile Manager</string>
+</resources>

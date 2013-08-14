@@ -2,14 +2,14 @@
 <resources>
     <string-array name="desktop_transition_effect_entries">
         <item>Стандарт</item>
-	    <item>Без превышения</item>
+        <item>Стандарт (без отскока)</item>
         <item>Планшет</item>
         <item>Приближение</item>
         <item>Удаление</item>
         <item>Вращение вверх</item>
         <item>Вращение вниз</item>
-        <item>Куб (+)</item>
-        <item>Куб (-)</item>
+        <item>Куб внутри</item>
+        <item>Куб снаружи</item>
         <item>Стек</item>
     </string-array>
 </resources>

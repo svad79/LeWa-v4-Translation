@@ -58,6 +58,7 @@
     <string name="favorite_action">Пометить</string>
     <string name="done_action">Готово</string>
     <string name="create_action">Создать</string>
+    <string name="quick_responses_empty_view">Нет быстрых ответов</string>
     <string name="discard_action">Отменить</string>
     <string name="save_draft_action">Сохранить черновик</string>
     <string name="show_quick_text_list_dialog_action">Вставить быстрый ответ</string>
@@ -87,12 +88,7 @@
     <string name="cannot_move_multiple_accounts_toast">Не удалось переместить сообщения, так как они находятся в разных аккаунтах.</string>
     <string name="cannot_move_special_mailboxes_toast">Нельзя перемещать сообщения из папок \"Черновики\", \"Исходящие\" и \"Отправленные\".</string>
     <string name="notification_multiple_new_messages_fmt">Новых сообщений: %1$d</string>
-    <string name="mailbox_name_server_inbox">Inbox</string>
-    <string name="mailbox_name_server_outbox">Outbox</string>
-    <string name="mailbox_name_server_drafts">Drafts</string>
-    <string name="mailbox_name_server_trash">Trash</string>
-    <string name="mailbox_name_server_sent">Sent</string>
-    <string name="mailbox_name_server_junk">Junk</string>
+
     <string name="mailbox_name_display_inbox">Входящие</string>
     <string name="mailbox_name_display_outbox">Исходящие</string>
     <string name="mailbox_name_display_drafts">Черновики</string>
@@ -419,14 +415,12 @@
     <string name="widget_loading">Загрузка...</string>
     <string name="widget_touch_to_configure">Нажмите для настройки.</string>
     <string name="widget_no_accounts">Вы еще не добавили аккаунт электронной почты.</string>
-    <string name="more_than_999">999+</string>
     <string name="search_hint">Искать в электронной почте</string>
     <string name="search_mailbox_hint">Искать в папке \"%1$s\"</string>
     <string name="search_header_text_fmt">Результаты поиска для \"%1$s\"</string>
     <string name="search_slow_warning_title">Ожидание результатов</string>
     <string name="search_slow_warning_message">Ожидание ответа от сервера может занять много времени.</string>
     <string name="action_bar_mailbox_list_title">Папки</string>
-    <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
     <string name="require_manual_sync_message">В роуминге синхронизация этого аккаунта выключена.</string>
     <string name="choosertitle_sharevia">Поделиться через</string>
     <string name="contextmenu_openlink">Открыть в браузере</string>

@@ -1,29 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="additional_system_update" />
-    <string name="additional_system_update_menu" />
-    <string name="input_method_selector_show_automatically_value">0</string>
-    <string name="input_method_selector_always_show_value">1</string>
-    <string name="input_method_selector_always_hide_value">2</string>
-    <string name="input_method_selector_visibility_default_value">0</string>
-    <string name="sim_china_mobile">CMCC</string>
-    <string name="sim_china_telecom">CTCC</string>
-    <string name="sim_china_unicom">CUCC</string>
-    <string name="guide_sim_china_mobile">"China
-Mobile
-
- GSM
-"</string>
-    <string name="guide_sim_china_telecom">"China
-Telecom
-
- CDMA
-"</string>
-    <string name="guide_sim_china_unicom">"China
-Unicom
-
- WCDMA
-"</string>
     <string name="proximity_title">Калибровка датчика приближения</string>
     <string name="proximity_dialog_title">Калибровка</string>
     <string name="proximity_summary">Обратите внимание на то, что датчик не может быть заблокирован в пределах более 20 см. И следует избегать прямых солнечных лучей!</string>
