@@ -50,9 +50,9 @@
     <string name="pref_title_resetlauncher">Сброс настроек</string>
     <string name="pref_summary_resetlauncher">Востановить по умолчанию настройки лаунчера</string>
     <string name="message_resetlauncher">Сбросить все иконки, виджеты и положение экрана</string>
-    <string name="pref_title_resethotseats">Сброс Hotseats</string>
-    <string name="pref_summary_resethotseats">Сброс Hotseats по умолчанию</string>
-    <string name="message_resethotseats">Сбросить Hotseats по умолчанию?</string>
+    <string name="pref_title_resethotseats">Сброс панели приложений</string>
+    <string name="pref_summary_resethotseats">Вернуть панель приложений снизу экрана в исходное состояние</string>
+    <string name="message_resethotseats">Сбросить панель приложений?</string>
     <string name="pref_label_settings">Настройки рабочего стола</string>
     <string name="folder_full_hint">Эта папка заполнена</string>
     <string name="shortcut_phone">Телефон</string>

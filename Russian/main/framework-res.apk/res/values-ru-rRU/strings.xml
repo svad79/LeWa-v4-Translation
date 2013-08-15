@@ -86,19 +86,19 @@
     <string name="hour_minute_cap_ampm">%-l:%M%^p</string>
     <string name="twelve_hour_time_format">h:mm a</string>
     <string name="twenty_four_hour_time_format">HH:mm</string>
-    <string name="numeric_date" formatted="false">%-m/%-e/%Y</string>
-    <string name="numeric_date_format">M/d/yyyy</string>
-    <string name="numeric_date_template" formatted="false">%s/%s/%s</string>
-    <string name="month_day_year" formatted="false">%B %-e, %Y</string>
+    <string name="numeric_date" formatted="false">%-e.%-m.%Y</string>
+    <string name="numeric_date_format">M.d.yyyy</string>
+    <string name="numeric_date_template" formatted="false">%s.%s.%s</string>
+    <string name="month_day_year" formatted="false">%-e %B, %Y</string>
     <string name="time_of_day">%-l:%M:%S %p</string>
-    <string name="date_and_time">%b %-e, %Y, %-l:%M:%S %p</string>
+    <string name="date_and_time">%-e %b, %Y, %-l:%M:%S %p</string>
     <string name="date_time">%1$s, %2$s</string>
     <string name="time_date">%1$s, %3$s</string>
-    <string name="abbrev_month_day_year" formatted="false">%b %-e, %Y</string>
-    <string name="month_day" formatted="false">%B %-e</string>
+    <string name="abbrev_month_day_year" formatted="false">%-e %b, %Y</string>
+    <string name="month_day" formatted="false">%-e %B</string>
     <string name="month">%-B</string>
     <string name="month_year" formatted="false">%B %Y</string>
-    <string name="abbrev_month_day" formatted="false">%b %-e</string>
+    <string name="abbrev_month_day" formatted="false">%-e %b</string>
     <string name="abbrev_month">%-b</string>
     <string name="abbrev_month_year" formatted="false">%b %Y</string>
     <string name="time1_time2">%1$s – %2$s</string>
