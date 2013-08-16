@@ -85,13 +85,13 @@
     <string name="set_network">установки сети правильные</string>
     <string name="desk_wallpaper_change">обои рабочих столов</string>
     <string name="lockscreen_wallpaper_change">обои экрана блокировки</string>
-    <string name="dynamic_wallpaper_change">живые обои</string>
+    <string name="dynamic_wallpaper_change">Живые обои</string>
     <string name="icon_change">Иконки</string>
     <string name="font_change">Шрифт</string>
     <string name="lockscreen_change">Экран блокировки</string>
     <string name="systemapp_change">Системное меню</string>    
     <string name="some_live_wallpaper">Обои высокого разрешения</string>
-    <string name="live_wallpaper">живые обои</string>
+    <string name="live_wallpaper">Живые обои</string>
     <string name="theme_not_exist">тема не существует</string>
     <string name="data_no_size">мало данных, шрифт не установлен!</string>
     <string name="onekey_wallpaper">Быстрые обои</string>
