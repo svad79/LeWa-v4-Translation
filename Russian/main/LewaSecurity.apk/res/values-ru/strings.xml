@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="app_name">Safe Center</string>
+    <string name="app_virus">Anti Virus</string>
+    <string name="app_clearance">Clearance</string>
+    <string name="app_speed">Speed Up</string>
+    <string name="app_autostart">Start-Up</string>
+    <string name="app_antitheft">Antitheft</string>
+    <string name="app_permmanager">permission manager</string>
+    <string name="app_intercept">Intercept</string>
+    <string name="app_netmgr">Data meter</string>
+    <string name="app_push">push manager</string>
+    <string name="first_use1">Has not been scanned</string>
+    <string name="first_use2">Please scan right now</string>
+    <string name="after_use1">"Last time you scan
+%1$s"</string>
+    <string name="after_use2">"Virus Library
+%1$s"</string>
+    <string name="after_no_version">have not updated</string>
+</resources>
