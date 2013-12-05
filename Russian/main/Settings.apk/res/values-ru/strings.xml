@@ -835,6 +835,10 @@
     <string name="search_settings_summary">Управление параметрами поиска и историей</string>
     <string name="display_settings">Экран</string>
     <string name="accelerometer_title">Автоповорот экрана</string>
+    <string name="nightmode_title">Ночной режим</string>
+    <string name="nightmodecolor_title">Цвет ночного режима</string>
+    <string name="inadvertmode_title">Предотвращение сбоев в работе</string>
+    <string name="inadvertmode_msg">Предотвращать сбои в работе когда телефон в кармане</string>
     <string name="accelerometer_summary_on">Автоматически менять ориентацию экрана при повороте телефона</string>
     <string name="accelerometer_summary_off">Автоматически менять ориентацию экрана при повороте телефона</string>
     <string name="brightness">Яркость</string>
@@ -2404,11 +2408,12 @@
     <string name="remeber_head">Запомнить</string>
     <string name="remeber_tail">и еще сместите ползунок влево</string>
     <string name="default_gprs_title">Выберите SIM по-умолчанию для EDGE</string>
+    <string name="could_modify_in_simmanagement">Можно изменить в настройках SIM</string>
+    <string name="agreement_title">Соглашение об обслуживании</string>
     <string name="title_charger_over_voltage">Превышено напряжение на зарядном устройстве</string>
     <string name="title_battery_over_temperature">Превышена температура аккумулятора</string>
     <string name="title_over_current_protection">Превышена токовая защита</string>
     <string name="title_battery_over_voltage">Превышено напряжение аккумулятора</string>
-    <string name="could_modify_in_simmanagement">Можно изменить в настройках SIM</string>
     <string name="title_safety_timer_timeout">Превышено время заряда</string>
     <string name="msg_charger_over_voltage">У зарядного устройства завышено напряжение, пожалуйста, извлеките его!</string>
     <string name="msg_battery_over_temperature">У аккумулятора критическая температура, пожалуйста, извлеките его!</string>

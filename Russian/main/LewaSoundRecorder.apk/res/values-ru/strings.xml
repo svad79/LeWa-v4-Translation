@@ -57,4 +57,6 @@
     <string name="menu_actionbar_selected_items">%s выбрано</string>
     <string name="menu_multichoice_select_all">Выбрать все</string>
     <string name="menu_multichoice_clear_select">Снять все выделения</string>
+    <string name="recording_notitication">Запись</string>
+    <string name="pause_record">Приостановить запись</string>
 </resources>

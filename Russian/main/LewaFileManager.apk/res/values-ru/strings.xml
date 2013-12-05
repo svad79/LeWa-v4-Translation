@@ -288,6 +288,8 @@
     <string name="external_sd_card_available">Доступно: %1$s</string>
     <string name="internal_sd_card_size">Внутренняя память: %1$s</string>
     <string name="internal_sd_card_available">Внутренняя (дост.):%1$s</string>
+    <string name="usb_otg_card_size">USB хранилище: %1$s</string>
+    <string name="usb_otg_card_available">Доступно: %1$s</string>
     <string name="hide_file">Скрыть файлы</string>
     <string name="file_doesnt_exist">Файл не существует</string>
     <string name="file_deleted">Удалено</string>
@@ -336,4 +338,7 @@
     <string name="name_index_tail">Другие</string>
     <string name="space_limit">Память не готова для вставки</string>
     <string name="file_info_status">Статус</string>
+    <string name="usbotg_title">USB OTG</string>
+    <string name="usbotg_name">USB OTG</string>
+    <string name="sdcard_io_error">Ошибка SD карты</string>
 </resources>

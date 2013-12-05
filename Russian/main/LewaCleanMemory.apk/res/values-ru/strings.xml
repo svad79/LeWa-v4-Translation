@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Очистка</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="result_format">Закрыто %1$d приложений, освобождено %2$s памяти.</string>
+    <string name="optimized">Оптимизировано</string>
+</resources>

@@ -23,7 +23,6 @@
     <string name="antitheft_close">Антивор выключен. Рекомендуется включить</string>
     <string name="antitheft_open">Антивор включен</string>
     <string name="gap_notice">Сканирование антивирусом: %s назад</string>
-    <string name="invisible_hint">\#######################################</string>
     <string name="virus_details">Найдено %1$d вируса(ов)</string>
     <string name="virus_has_been_deleted">%1$d вируса(ов) было очищено</string>
     <string name="virus_has_been_scanned">Сканирование на вирусы закончено</string>

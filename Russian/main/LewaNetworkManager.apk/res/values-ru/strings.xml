@@ -19,12 +19,14 @@
     <string name="time_today">Сегодня</string>
     <string name="time_month">В этом месяце</string>
     <string name="time_all">Все</string>
+    <string name="time_yesterday">"Вчера"</string>
     <string name="error_input">Номер ошибки</string>
     <string name="usage_title">Расход трафика</string>
     <string name="usage_today_usage">Сегодня</string>
     <string name="usage_daily_remain">Ежедневно</string>
     <string name="usage_day_remain">Осталось</string>
     <string name="usage_cycle_day">День начала периода</string>
+    <string name="usage_cycle">Цикл использования</string>
     <string name="usage_exceed">Превышает</string>
     <string name="usage_remain">Осталось</string>
     <string name="usage_nocard">неизвестно</string>
@@ -37,6 +39,7 @@
     <string name="usage_adjust_later">Синхронизировать позже</string>
     <string name="usage_default">SIM по умолчанию</string>
     <string name="detail_title">Использование детализации</string>
+    <string name="ranking_title">Ранжирование</string>
     <string name="firewall_title">Межсетевой экран</string>
     <string name="pref_title">Параметры</string>
     <string name="pref_alert_title">Дружественные советы</string>
@@ -44,13 +47,22 @@
     <string name="pref_data_pack_title">Настроить лимит трафика</string>
     <string name="pref_data_pack_summary">%1$s，всего:%2$s，с %3$s числа</string>
     <string name="pref_monthly_usage">Потрачено</string>
+    <string name="pref_adjust_settings">Автоматическая синхронизация</string>
     <string name="pref_adjust_regularly">Настроить период измерения</string>
     <string name="pref_data_warning">Настройка уровня предупреждения</string>
+    <string name="background_warning_title">Предупреждать о фоновом трафике</string>
+    <string name="background_warning_content">"Фоновый трафик превышает 1Мб
+, вы можете закрыть некоторые приложения"</string>
+    <string name="background_warning_close_content">Если предупреждение о фоновом трафике выключено, то это может вызвать потерю трафика, вы точно хотите отключить?</string>
     <string name="notify_data_warning">Осталось мало трафика</string>
     <string name="pref_data_warning_prepend">"Когда трафика останется "</string>
     <string name="pref_data_warning_append">", следует предупредить меня"</string>
     <string name="pref_data_warning_unset">Пожалуйста, сначала установите лимит трафика.</string>
     <string name="pref_category_common">Общие параметры</string>
+    <string name="pref_background_antitheft">Фоновый трафик Антивора</string>
+    <string name="pref_background_antitheft_summary">Автоматически выключать 2G/3G в период 1:00 до 7:00</string>
+    <string name="pref_background_warning">Предупреждать о фоновом трафике</string>
+    <string name="pref_background_warning_summary">предупреждать, если 2G/3G трафик превышает 1M</string>
     <string name="pref_clear_history">Очистить историю</string>
     <string name="pref_clear_history_confirm">"Вы уверены, что хотите очистить историю использования трафика
 (очистить все данные об использовании)"</string>
@@ -89,6 +101,31 @@
     <string name="data_usage_app_restrict_dialog">"Эта функция может повредить приложениям, которые зависят от передачи данных в фоне. Они не будут работать, пока не будет доступен Wi-Fi.
 
 Вы можете найти больше подходящих инструментов контроля в этом приложении."</string>
+    <string name="data_config_title">Сетевые разрешения</string>
+    <string name="data_config_mobile">2G/3G</string>
+    <string name="data_config_background">Разрешать фоновый трафик</string>
+    <string name="data_config_background_detail">Основной:%1$s Фоновый:%1$s</string>
+    <string name="data_config_wifi">WLAN</string>
+    <string name="data_plan_set_title">Предупреждать о тарифном плане</string>
+    <string name="data_plan_set_message">Ваш мобильный трафик превышает 1Мб, если у вас нет тарифного плана, это может повлечь высокие расходы, рекомендуем выключить 2G/3G или подключить тарифный план</string>
+    <string name="data_plan_button_set">Установить тарифный план</string>
+    <string name="data_plan_button_close">Выключить принудительно(%d)</string>
+    <string name="usagedata_setting">Показать трафик в строке уведомлений</string>
+    <string name="netspeed_setting">Показать скорость в строке статуса</string>
+    <string name="daily_usage_warning_title">Ежедневное уведомление о трафике</string>
+    <string name="daily_usage_warning_message">"Сегодня использовано %1$s, это превышает ежедневный порог, рекомендуем посмотреть месячную статистику и настроить ее"</string>
+    <string name="daily_usage_warning_summary_unset">Сначала установите тарифный план.</string>
+    <string name="daily_usage_no_warning">не предупреждать</string>
+    <string name="daily_usage_recommand">(рекоменд.)</string>
+    <string name="continue_use">продолжить использование</string>
+    <string name="see_details">подробнее</string>
+    <string name="data_default">по умолчанию для сети</string>
+    <string name="show_system_app">показывать системные приложения</string>
+    <string name="donot_show_system_app">не показывать системные приложения</string>
+    <string name="daily_remain_suffix">(динамический остаток)</string>
+    <string name="adjust_interval_none">Никогда</string>
+    <string name="correct_failed">Ошибка синхронизации 3g трафика. Попробуйте еще.</string>
+    <string name="correct_success">Синхронизация 3g трафика успешно прошла</string>
     <string name="megabyteShort">Мб</string>
     <string name="gigabyteShort">Гб</string>
     <string name="zero_percent">0%</string>

@@ -322,4 +322,7 @@
     <string name="title_toggle_gemini_data">Интернет SIM 1/2</string>
     <string name="recent_meminfo">%1$dM/%2$dM</string>
     <string name="recent_noapp">Нет запущенных приложений</string>
+    <string name="otg_to_filemanager">Нажмите ввод для открытия файлового менеджера</string>
+    <string name="otg_connect">USB хранилище подключено</string>
+    <string name="otg_unmount">Безопасное извлечение</string>
 </resources>

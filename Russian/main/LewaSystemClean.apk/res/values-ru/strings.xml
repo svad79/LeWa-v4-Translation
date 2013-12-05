@@ -44,6 +44,7 @@
     <string name="calculate_size">Подсчет места к очистке ...</string>
     <string name="clean_size">Очистка места...</string>
     <string name="calculate_size_result">Выбрано %s элемента(ов) для очистки</string>
+    <string name="calculate_size_unchecked">Осталось %s элементов для очистки</string>
     <string name="clean_all_storage">Очистить все</string>
     <string name="clean_add_msg">очистка</string>
     <string name="clean_add_title"> очистка</string>
@@ -56,6 +57,7 @@
     <string name="size_used">Использовано</string>
     <string name="size_available">Доступно</string>
     <string name="calculate_size_complete">Найдено места к очистке: </string>
+    <string name="calculate_size_incomplete">Осталось очистить </string>
     <string name="calculate_size_stop">Подсчет прекращен</string>
     <string name="calculate_size_stop_result">Найдено %s к очистке</string>
     <string name="calculate_size_error">Извините, это неправильно!</string>
@@ -79,6 +81,8 @@
     <string name="clean_list_top_not_clean_summary">Файлы не очищены</string>
     <string name="clean_data_cleaning_summary">Очистка...</string>
     <string name="clean_btn_cleanup_part_summary">Очистить</string>
+    <string name="clean_btn_cleanup_incompelte">Продолжить очистку</string>
+    <string name="clean_btn_cleanup_incompelte_ignore">Завершить очистку</string>
     <string name="clean_clipboard_data_summary">"Буфер обмена данными: "</string>
     <string name="clean_picture_thumbnail_summary">"Эскизы изображений: "</string>
     <string name="clean_log_summary">"Логи: "</string>
