@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string name="app_label">Запасные части</string>
-    <string name="generateLog">Жрурнал событий</string>
+    <string name="generateLog">Журнал событий</string>
     <string name="toast_log_generated">Журнал сохранен в %s ,отправьте его разрабочику для исправления ошибок</string>
-    <string name="to_sdcard">/sdcard/logcat.txt</string>
-    <string name="to_data">/data/logcat.txt</string>
     <string name="make_sure">Вы хотите сохранить журна в %s ?</string>
     <string name="alert">Тревога</string>
     <string name="ok">Ок</string>
-    <string name="cancel">отмена</string>
-    <string name="logcat">LogCat</string>
+    <string name="cancel">Отмена</string>
     <string name="config_view">Просмотр конфигурации</string>
-    <string name="cit">Cit</string>
     <string name="sdcard_inexist">SD карта не вставлена</string>
     <string name="sdcard_is_full">нет свободного места на карте</string>
     <string name="out_to_sdcard">сохранить на SD карте</string>
@@ -38,7 +34,7 @@
     <string name="wifi_on_duration">Wifi вкл (мс):</string>
     <string name="wifi_off_duration">Wifi выкл (мс):</string>
     <string name="wifi_cycles_done">Циклов завершено:</string>
-    <string name="start_toggling">Начать переключение Wifi /string>
+    <string name="start_toggling">Начать переключение Wifi </string>
     <string name="stop_toggling">Остановить переключение Wifi</string>
     <string name="start_screen_toggling">Начать переключение экрана</string>
     <string name="stop_screen_toggling">Закончить переключение экрана</string>

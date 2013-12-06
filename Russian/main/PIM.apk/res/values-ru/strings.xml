@@ -1403,9 +1403,6 @@
     <string name="sms_import_sdcard">Импорт SMS c: %s</string>
     <string name="sms_export_sdcard">Экспорт SMS на: %s</string>
     <string name="sms_whether_export_item">Вы хотите экспортировать на: %s?</string>
-    <string name="prefs_ims_settings">Настройки БСС</string>
-    <string name="prefs_ims_close_title">Бесплатный сервис сообщения</string>
-    <string name="prefs_ims_close_title_summary">Включите для бесплатной отправки смс, видео, фото итд.</string>
     <string name="prefs_ims_aout_to_sms_mode">Пересылать по SMS</string>
     <string name="prefs_ims_aout_to_sms_summary_mode">Автоматически пересылать бесплатные сообщения по SMS если нет доступа к сети.</string>
     <string name="message_ims_user_service_info">"Бесплатная информационная служба пользовательское соглашение
