@@ -39,7 +39,7 @@
     <string name="usage_adjust_later">Синхронизировать позже</string>
     <string name="usage_default">SIM по умолчанию</string>
     <string name="detail_title">Использование детализации</string>
-    <string name="ranking_title">Ранжирование</string>
+    <string name="ranking_title">Трафик</string>
     <string name="firewall_title">Межсетевой экран</string>
     <string name="pref_title">Параметры</string>
     <string name="pref_alert_title">Дружественные советы</string>
