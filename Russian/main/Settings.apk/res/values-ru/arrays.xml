@@ -125,6 +125,30 @@
         <item>20 МГц</item>
         <item>Авто 20/40 МГц</item>
     </string-array>
+    <string-array name="wpa_security">
+        <item>Открытое</item>
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="wpa_security_wfa">
+        <item>Открытое</item>
+        <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="wapi_security">
+        <item>Открытое</item>
+        <item>WAPI PSK</item>
+        <item>WAPI Certificate</item>
+    </string-array>
+    <string-array name="wifi_ap_security">
+        <item>Открытое</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+
     <string-array name="wifi_p2p_wps_setup">
         <item>Нажать кнопку</item>
         <item>PIN-код от сопрягаемого устройства</item>
@@ -372,6 +396,15 @@
     <string-array name="battery_style_entries">
         <item>Графический</item>
         <item>Индикация процентов</item>
+    </string-array>
+    <string-array name="core_nums_strs">
+        <item>Одна</item>
+        <item>Две</item>
+    </string-array>
+    <string-array name="nightmode_entries">
+        <item>черный</item>
+        <item>красный</item>
+        <item>желтый</item>
     </string-array>
     <string-array name="alarm_set">
         <item>Питание будет включено менее чем через 1 минуту.</item>
