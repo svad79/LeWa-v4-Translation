@@ -14,8 +14,6 @@
     <string name="wifi_usage">Использование Wi-Fi</string>
     <string name="metered">Bg</string>
     <string name="card">Карта</string>
-    <string name="zero">0B</string>
-    <string name="monthday">" "</string>
     <string name="time_today">Сегодня</string>
     <string name="time_month">В этом месяце</string>
     <string name="time_all">Все</string>
@@ -85,6 +83,7 @@
     <string name="data_usage_label_foreground">На переднем плане</string>
     <string name="data_usage_label_background">На заднем фоне</string>
     <string name="data_usage_app_settings">Просмотр настроек приложения</string>
+    <string name="data_usage_app_info">О приложении</string>
     <string name="data_usage_menu_restrict_background">Ограничить данные в фоне</string>
     <string name="data_usage_menu_show_wifi">Показать использование Wi-Fi</string>
     <string name="data_usage_enable_mobile">Передача данных</string>

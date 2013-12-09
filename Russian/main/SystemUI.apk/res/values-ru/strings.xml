@@ -292,6 +292,7 @@
     <string name="title_toggle_switchwidgetstyle">Еще</string>
     <string name="title_toggle_screencapture">Скриншот</string>
     <string name="title_qr_code">QR-сканер</string>
+    <string name="title_nightmode">Ночь</string>
     <string name="switchwidgetsettings_title">Настройки положения</string>
     <string name="switchwidgetsettings_switch_title">Настройки статусбара</string>
     <string name="switchwidgetsettings_switch_on">открыть</string>
