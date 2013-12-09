@@ -1622,7 +1622,9 @@
 Старайтесь не достигать лимита, так как оператор и устройство могут учитывать трафик по-разному."</string>
     <string name="data_usage_restrict_background_title">Ограничить фоновый трафик?</string>
     <string name="data_usage_restrict_background">Если ограничить передачу данных в фоновом режиме по мобильной сети, некоторые приложения и службы не будут работать без подключения к сети Wi-Fi.</string>
+    <string name="data_usage_sweep_warning"><font size="21">^1</font><font size="9">^2</font>"
 "<font size="12">Внимание</font></string>
+    <string name="data_usage_sweep_limit"><font size="21">^1</font><font size="9">^2</font>"
 "<font size="12">Лимит</font></string>
     <string name="data_usage_uninstalled_apps">Удаленные приложения</string>
     <string name="data_usage_received_sent">Получено: %1$s; отправлено: %2$s</string>
