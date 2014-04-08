@@ -10,6 +10,7 @@
     <string name="no">Нет</string>
     <string name="save">Сохранить</string>
     <string name="autofix">Автоправка</string>
+    <string name="crop">Обрезка</string>
     <string name="crossprocess">Кросс-процесс</string>
     <string name="documentary">Документальный</string>
     <string name="doodle">Каракули</string>
@@ -141,6 +142,7 @@
     <string name="auto">Авто</string>
     <string name="flash_on">Со вспышкой</string>
     <string name="flash_off">Без вспышки</string>
+    <string name="try_to_set_local_album_available_offline">Это фото сохранено локально и доступно оффлайн.</string>
     <string name="set_label_all_albums">Все альбомы</string>
     <string name="set_label_local_albums">Местные альбомы</string>
     <string name="set_label_mtp_devices">MTP devices</string>
